@@ -44,7 +44,14 @@ layer = pdk.Layer(
 )
 
 # Set the viewport location
-view_state = pdk.ViewState(latitude=34.15611, longitude=-40.1319, zoom=.7, bearing=0, pitch=.1)
+view_state = pdk.ViewState(
+    latitude=34.15611,
+    longitude=-40.1319,
+    zoom=.7,
+    min_zoom=.7,
+    max_zoom=.7,
+    bearing=0,
+    pitch=.1)
 # view_state = pdk.ViewState(latitude=34.15611, longitude=-118.1319, zoom=.8, bearing=0, pitch=.1)
 
 # Render
@@ -56,11 +63,11 @@ r = pdk.Deck(
 )
 r.picking_radius = 13
 
-r.update_layout(
-    title_text="Matze's Citation Network",
-    margin={"r": 0, "t": 0, "l": 0, "b": 0},
-    height=800
-)
+# r.update_layout(
+#     title_text="Matze's Citation Network",
+#     margin={"r": 0, "t": 0, "l": 0, "b": 0},
+#     height=800
+# )
 
 # r.to_html("index.html")
 
