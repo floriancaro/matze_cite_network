@@ -11,6 +11,7 @@ library(rjson)
 library(ggplot2)
 library(hrbrthemes)
 library(data.table)
+library(arrow)
 
 # # load author locations
 # df <- fromJSON(file = here("author_locations.json"))
@@ -59,5 +60,6 @@ author_addresses <- author_affiliations %>%
 
 # save geocoded locations
 fwrite(author_addresses, here("author_addresses.csv"))
+write_parquet(x = author_addresses, sink = here("author_addresses.parquet"))
 
 gc()

@@ -13,6 +13,11 @@ import streamlit as st
 import pydeck as pdk
 import pandas as pd
 
+# use full screen to display the app
+st.set_page_config(
+    layout="wide",
+)
+
 # GREAT_CIRCLE_LAYER_DATA = "https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/flights.json"  # noqa
 network_pairs = "https://github.com/floriancaro/matze_cite_network/blob/florian/network_pairs.csv?raw=true"
 
@@ -39,7 +44,8 @@ layer = pdk.Layer(
 )
 
 # Set the viewport location
-view_state = pdk.ViewState(latitude=34.15611, longitude=-118.1319, zoom=.8, bearing=0, pitch=.1)
+view_state = pdk.ViewState(latitude=34.15611, longitude=-40.1319, zoom=.7, bearing=0, pitch=.1)
+# view_state = pdk.ViewState(latitude=34.15611, longitude=-118.1319, zoom=.8, bearing=0, pitch=.1)
 
 # Render
 r = pdk.Deck(
@@ -50,7 +56,13 @@ r = pdk.Deck(
 )
 r.picking_radius = 13
 
-r.to_html("index.html")
+r.update_layout(
+    title_text="Matze's Citation Network",
+    margin={"r": 0, "t": 0, "l": 0, "b": 0},
+    height=800
+)
+
+# r.to_html("index.html")
 
 # display with streamlit
-st.pydeck_chart(r)
+st.pydeck_chart(r, use_container_width=True)
