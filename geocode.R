@@ -12,6 +12,8 @@ library(ggplot2)
 library(hrbrthemes)
 library(data.table)
 library(arrow)
+library(sp)
+library(rworldmap)
 
 # # load author locations
 # df <- fromJSON(file = here("author_locations.json"))
@@ -58,8 +60,49 @@ author_addresses <- author_affiliations %>%
 # #> Query completed in: 3 seconds
 # lat_longs
 
-# save geocoded locations
-fwrite(author_addresses, here("author_addresses.csv"))
-write_parquet(x = author_addresses, sink = here("author_addresses.parquet"))
+# generate ids
+author_addresses$id <- 1:nrow(author_addresses)
+
+
+# get countries and continents from lon-lat -----#
+# (see https://stackoverflow.com/questions/21708488/get-country-and-continent-from-longitude-and-latitude-point-in-r)
+
+# The single argument to this function, points, is a data.frame in which:
+#   - column 1 contains the longitude in degrees
+#   - column 2 contains the latitude in degrees
+get_countries_continents <- function(points) {
+  countriesSP <- getMap(resolution = 'low')
+  # countriesSP <- getMap(resolution='high') # you could use high res map from rworldxtra if you were concerned about detail
+  
+  # take only coords
+  coords <- points[, c("longitude", "latitude")]
+  
+  # converting points to a SpatialPoints object
+  # setting CRS directly to that from rworldmap
+  pointsSP <- SpatialPoints(coords, proj4string = CRS(proj4string(countriesSP)))  
+  
+  # use 'over' to get indices of the Polygons object containing each point 
+  indices <- over(pointsSP, countriesSP)
+  
+  # add id back
+  indices$id <- points$id
+  
+  # indices$continent # returns the continent (6 continent model)
+  # indices$REGION # returns the continent (7 continent model)
+  # indices$ADMIN #returns country name
+  # indices$ISO3 # returns the ISO3 code 
+  return(indices)
+}
+input_points <- author_addresses[!is.na(author_addresses$longitude), c("id", "longitude", "latitude")]
+countries_continents <- get_countries_continents(input_points)
+
+# add country and continent information to main df
+author_locations <- left_join(author_addresses, countries_continents[, c("id", "ADMIN", "REGION")], by = "id")
+
+
+# save geocoded locations -----#
+fwrite(author_locations, here("author_addresses.csv"))
+# author_addresses <- fread(here("author_addresses.csv"))
+write_parquet(x = author_locations, sink = here("author_addresses.parquet"))
 
 gc()
