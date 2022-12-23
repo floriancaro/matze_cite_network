@@ -35,22 +35,22 @@ df_countries["coordinates"] = df_countries["features"].apply(lambda row: row["ge
 df_countries["country"] = df_countries["features"].apply(lambda row: row["properties"]["ADMIN"])
 
 # add country geometry to main data
-df_plot = df.merge(df_countries, on=['country'], how='left') # , indicator=True
+df_plot = df.merge(df_countries[["coordinates", "country"]], on=['country'], how='left') # , indicator=True
 
 # Define layers to display on a map
-layer_greatCircles = pdk.Layer(
-    "GreatCircleLayer",
-    df_plot,
-    pickable=True,
-    get_stroke_width=15,
-    # get_source_position="from.coordinates",
-    get_source_position="[lon1, lat1]",
-    # get_target_position="to.coordinates",
-    get_target_position="[lon2, lat2]",
-    get_source_color=[64, 255, 0],
-    get_target_color=[0, 128, 200],
-    auto_highlight=True,
-)
+# layer_greatCircles = pdk.Layer(
+#     "GreatCircleLayer",
+#     df_plot,
+#     pickable=True,
+#     get_stroke_width=15,
+#     # get_source_position="from.coordinates",
+#     get_source_position="[lon1, lat1]",
+#     # get_target_position="to.coordinates",
+#     get_target_position="[lon2, lat2]",
+#     get_source_color=[64, 255, 0],
+#     get_target_color=[0, 128, 200],
+#     auto_highlight=True,
+# )
 layer_countries = pdk.Layer(
     "PolygonLayer",
     df_plot,
