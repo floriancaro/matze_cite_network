@@ -33,7 +33,7 @@ authors <- fread(here("author_addresses.csv"))
 
 # Generate all pairs of coordinates (between Matze (Pasadena) and the citing author's home institution)
 pasadena <- c("lat2" =	34.156113, "lon2" = -118.131943) %>% data.frame() %>% t()
-all_pairs <- cbind(authors[, c("latitude", "longitude", "country", "continent", "name")], pasadena) %>% as.data.frame()
+all_pairs <- cbind(authors[, c("latitude", "longitude")], pasadena, authors[, c("country", "continent", "name")]) %>% as.data.frame()
 colnames(all_pairs) <- c("lat1", "lon1", "lat2", "lon2", "country", "continent", "name")
 
 # drop NAs
