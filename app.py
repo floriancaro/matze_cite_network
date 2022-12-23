@@ -39,7 +39,7 @@ df = pd.read_csv(network_pairs)
 #
 # # add country geometry to main data
 # df = df.merge(df_countries, on=['country'], how='left') # , indicator=True
-# df.dropna(inplace=True)
+df.dropna(inplace=True)
 
 # Define layers to display on a map
 layer_greatCircles = pdk.Layer(
@@ -85,7 +85,6 @@ view_state = pdk.ViewState(
     height=600,
     # width=1000
     )
-# view_state = pdk.ViewState(latitude=34.15611, longitude=-118.1319, zoom=.8, bearing=0, pitch=.1)
 
 # Render
 r = pdk.Deck(
@@ -99,13 +98,7 @@ r = pdk.Deck(
 )
 r.picking_radius = 13
 
-# r.update_layout(
-#     title_text="Matze's Citation Network",
-#     margin={"r": 0, "t": 0, "l": 0, "b": 0},
-#     height=800
-# )
-
-# r.to_html("index.html")
+r.to_html("index.html")
 
 # display with streamlit
 st.pydeck_chart(
