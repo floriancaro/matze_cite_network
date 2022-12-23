@@ -18,16 +18,24 @@ st.set_page_config(
     layout="wide",
 )
 
-# load data from github
-data_path = "https://github.com/floriancaro/matze_cite_network/blob/florian/network_pairs.csv?raw=true"
 # GREAT_CIRCLE_LAYER_DATA = "https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/flights.json"  # noqa
+network_pairs = "https://github.com/floriancaro/matze_cite_network/blob/florian/network_pairs.csv?raw=true"
+countries_data = "https://github.com/datasets/geo-countries/blob/master/data/countries.geojson?raw=true"
 
-df = pd.read_csv(data_path)
 # df = pd.read_json(GREAT_CIRCLE_LAYER_DATA)
+df = pd.read_csv(network_pairs)
+df_countries = pd.read_json(countries_data)
 
 ## Use pandas to prepare data for tooltip
 # df["from_name"] = df["from"].apply(lambda f: f["name"])
 # df["to_name"] = df["to"].apply(lambda t: t["name"])
+
+# Parse the geometry out in Pandas
+df_countries["coordinates"] = df_countries["features"].apply(lambda row: row["geometry"]["coordinates"])
+df_countries["country"] = df_countries["features"].apply(lambda row: row["properties"]["ADMIN"])
+
+# add country geometry to main data
+df_plot = df.merge(df_countries, on=['country'], how='left') # , indicator=True
 
 # Define layers to display on a map
 layer_greatCircles = pdk.Layer(
