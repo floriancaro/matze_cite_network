@@ -1,4 +1,4 @@
-affiliation,addr,name,latitude,longitude,id,ADMIN,REGION
+affiliation,addr,name,latitude,longitude,id,country,continent
 "1Theoretical Division, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder1,35.81831485,-106.265427979899,1,United States of America,North America
 "2Department of Mathematics, University of California Davis, Davis, California 95616, USA","University of California Davis, Davis, California 95616, USA",placeholder2,38.5217429,-121.752249350739,2,United States of America,North America
 "3Dipartimento di Fisica e Astronomia, Università di Firenze, Sesto Fiorentino (FI), 50019 , Italy","Università di Firenze, Sesto Fiorentino (FI), 50019 , Italy",placeholder3,43.8204263,11.1941665,3,Italy,Europe
@@ -10,13 +10,13 @@ affiliation,addr,name,latitude,longitude,id,ADMIN,REGION
 "1Department of Physics, University of Waterloo, Waterloo, ON, N2L 3G1, Canada","University of Waterloo, Waterloo, ON, N2L 3G1, Canada",placeholder9,43.4701994,-80.5452429377945,9,Canada,North America
 "2Institute for Quantum Computing, Waterloo, ON, N2L 3G1, Canada","Waterloo, ON, N2L 3G1, Canada",placeholder10,43.4652699,-80.5222961,10,Canada,North America
 "3Xanadu, Toronto, ON, M5G 2C8, Canada","Toronto, ON, M5G 2C8, Canada",placeholder11,43.6534817,-79.3839347,11,Canada,North America
-"1Centre for Quantum Technologies, National University of Singapore, 3 Science Drive 2 117543, Singapore.","National University of Singapore, 3 Science Drive 2 117543, Singapore.",placeholder12,,,12,,
+"1Centre for Quantum Technologies, National University of Singapore, 3 Science Drive 2 117543, Singapore.","National University of Singapore, 3 Science Drive 2 117543, Singapore.",placeholder12,,,12,"",""
 "2Imperial College London, London, UK.","Imperial College London, London, UK.",placeholder13,51.4989595,-0.175641259787945,13,United Kingdom,Europe
 "3Information Sciences, Los Alamos National Laboratory, Los Alamos, NM, USA.","Los Alamos National Laboratory, Los Alamos, NM, USA.",placeholder14,35.81831485,-106.265427979899,14,United States of America,North America
 "4Quantum Science Center, Oak Ridge, TN 37931, USA","Oak Ridge, TN 37931, USA",placeholder15,36.0103562,-84.2696449,15,United States of America,North America
-"5Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland","Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland",placeholder16,,,16,,
+"5Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland","Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland",placeholder16,,,16,"",""
 "1Information Sciences, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder17,35.81831485,-106.265427979899,17,United States of America,North America
-"2Electrical and Computer Engineering, University of Illinois Urbana-Champaign, Urbana, Illinois, 61801, USA†","University of Illinois Urbana-Champaign, Urbana, Illinois, 61801, USA†",placeholder18,,,18,,
+"2Electrical and Computer Engineering, University of Illinois Urbana-Champaign, Urbana, Illinois, 61801, USA†","University of Illinois Urbana-Champaign, Urbana, Illinois, 61801, USA†",placeholder18,,,18,"",""
 "3Theoretical Division, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder19,35.81831485,-106.265427979899,19,United States of America,North America
 "4Center for Nonlinear Studies, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder20,35.81831485,-106.265427979899,20,United States of America,North America
 "5Harvard Quantum Initiative, Harvard University, Cambridge, Massachusetts 02138, USA","Harvard University, Cambridge, Massachusetts 02138, USA",placeholder21,42.36530955,-71.1154431036783,21,United States of America,North America
@@ -26,73 +26,73 @@ affiliation,addr,name,latitude,longitude,id,ADMIN,REGION
 "1Department of Physics & Astronomy, University of Southern California, Los Angeles, California 90089, USA","University of Southern California, Los Angeles, California 90089, USA",placeholder28,34.0218833,-118.28586662125,25,United States of America,North America
 "2Information Sciences, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder29,35.81831485,-106.265427979899,26,United States of America,North America
 "3Physics Department, Lancaster University, Lancaster, United Kingdom, LA1 4YB","Lancaster University, Lancaster, United Kingdom, LA1 4YB",placeholder30,54.0107483,-2.78368004317863,27,United Kingdom,Europe
-"4Hearne Institute for Theoretical Physics, Department of Physics and Astronomy,","Hearne Institute for Theoretical Physics, Department of Physics and Astronomy,",placeholder31,,,28,,
+"4Hearne Institute for Theoretical Physics, Department of Physics and Astronomy,","Hearne Institute for Theoretical Physics, Department of Physics and Astronomy,",placeholder31,,,28,"",""
 "and Center for Computation and Technology, Louisiana State University, Baton Rouge, Louisiana 70803, USA","Louisiana State University, Baton Rouge, Louisiana 70803, USA",placeholder32,30.40576185,-91.1859745026569,29,United States of America,North America
 "5School of Electrical and Computer Engineering,","School of Electrical and Computer Engineering,",placeholder33,40.7935818,-77.8687284,30,United States of America,North America
 "Cornell University, Ithaca, New York 14850, USA","Ithaca, New York 14850, USA",placeholder34,42.4396039,-76.4968019,31,United States of America,North America
 "6Quantum Science Center, Oak Ridge, TN 37931, USA","Oak Ridge, TN 37931, USA",placeholder35,36.0103562,-84.2696449,32,United States of America,North America
 "7Theoretical Division, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder36,35.81831485,-106.265427979899,33,United States of America,North America
-"8Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland","Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland",placeholder37,,,34,,
-"(1) Harvard University, Cambridge, Massachusetts 02138, USA. Email:","Cambridge, Massachusetts 02138, USA. Email:",placeholder38,,,35,,
-"(2) Institute of High Performance Computing, Agency for Science, Technology and Re-","(2) Institute of High Performance Computing, Agency for Science, Technology and Re-",placeholder39,,,36,,
-"search (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:"," Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:",placeholder40,,,37,,
-"(3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,",placeholder41,30.31545455,120.348695808155,38,,
-"Institute for Quantum Computing, Baidu Research, Beijing 100193, China†","Baidu Research, Beijing 100193, China†",placeholder43,,,39,,
+"8Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland","Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland",placeholder37,,,34,"",""
+"(1) Harvard University, Cambridge, Massachusetts 02138, USA. Email:","Cambridge, Massachusetts 02138, USA. Email:",placeholder38,,,35,"",""
+"(2) Institute of High Performance Computing, Agency for Science, Technology and Re-","(2) Institute of High Performance Computing, Agency for Science, Technology and Re-",placeholder39,,,36,"",""
+"search (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:"," Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:",placeholder40,,,37,"",""
+"(3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,",placeholder41,30.31545455,120.348695808155,38,"",""
+"Institute for Quantum Computing, Baidu Research, Beijing 100193, China†","Baidu Research, Beijing 100193, China†",placeholder43,,,39,"",""
 "2Department of Particle and Nuclear Physics, University of Geneva, 1211 Geneva, Switzerland","University of Geneva, 1211 Geneva, Switzerland",placeholder44,46.1985541,6.1509888,40,Switzerland,Europe
-"3Department of Physics, University of Trieste, 34127 Trieste, Italy","University of Trieste, 34127 Trieste, Italy",placeholder45,,,41,,
+"3Department of Physics, University of Trieste, 34127 Trieste, Italy","University of Trieste, 34127 Trieste, Italy",placeholder45,,,41,"",""
 "4International Centre for Theory of Quantum Technologies,","International Centre for Theory of Quantum Technologies,",placeholder46,54.3935805,18.5760964,42,Poland,Europe
 "University of Gdańsk, Wita Stwosza 63, 80-308 Gdańsk, Poland","Wita Stwosza 63, 80-308 Gdańsk, Poland",placeholder47,54.3935303,18.5765053,43,Poland,Europe
 "Department of Computing and Mathematical Sciences, Caltech, Pasadena, CA, USA","Caltech, Pasadena, CA, USA",placeholder50,34.13701375,-118.125288248796,44,United States of America,North America
 "2Department of Electrical Engineering and Computer Sciences, UC Berkeley, Berkeley, CA, USA","UC Berkeley, Berkeley, CA, USA",placeholder51,37.8753497,-122.239633649188,45,United States of America,North America
 "3AWS Center for Quantum Computing, Pasadena, CA, USA","Pasadena, CA, USA",placeholder52,34.1476452,-118.1444779,46,United States of America,North America
-"(1) Harvard University, Cambridge, Massachusetts 02138, USA. Email:","Cambridge, Massachusetts 02138, USA. Email:",placeholder55,,,47,,
-"(2) Institute of High Performance Computing, Agency for Science, Technology and Re-","(2) Institute of High Performance Computing, Agency for Science, Technology and Re-",placeholder56,,,48,,
-"search (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:"," Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:",placeholder57,,,49,,
-"(3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,",placeholder58,30.31545455,120.348695808155,50,,
-"School of Computer Science, Faculty of Engineering, The University of Sydney, Darlington, New South Wales","Faculty of Engineering, The University of Sydney, Darlington, New South Wales",placeholder60,,,51,,
+"(1) Harvard University, Cambridge, Massachusetts 02138, USA. Email:","Cambridge, Massachusetts 02138, USA. Email:",placeholder55,,,47,"",""
+"(2) Institute of High Performance Computing, Agency for Science, Technology and Re-","(2) Institute of High Performance Computing, Agency for Science, Technology and Re-",placeholder56,,,48,"",""
+"search (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:"," Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:",placeholder57,,,49,"",""
+"(3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,",placeholder58,30.31545455,120.348695808155,50,"",""
+"School of Computer Science, Faculty of Engineering, The University of Sydney, Darlington, New South Wales","Faculty of Engineering, The University of Sydney, Darlington, New South Wales",placeholder60,,,51,"",""
 "2008, Australia","008, Australia",placeholder61,-34.6700166530612,-58.5328121591837,52,Argentina,South America
-"Hon Hai Quantum Computing Research Center, Taipei 114, Taiwan","Hon Hai Quantum Computing Research Center, Taipei 114, Taiwan",placeholder62,,,53,,
-"SenseTime Research, Beijing, China","SenseTime Research, Beijing, China",placeholder63,,,54,,
-"1Institute of Artificial Intelligence, School of Computer Science, Wuhan University, Hubei 430070, China","School of Computer Science, Wuhan University, Hubei 430070, China",placeholder64,,,55,,
-"2JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder65,,,56,,
+"Hon Hai Quantum Computing Research Center, Taipei 114, Taiwan","Hon Hai Quantum Computing Research Center, Taipei 114, Taiwan",placeholder62,,,53,"",""
+"SenseTime Research, Beijing, China","SenseTime Research, Beijing, China",placeholder63,,,54,"",""
+"1Institute of Artificial Intelligence, School of Computer Science, Wuhan University, Hubei 430070, China","School of Computer Science, Wuhan University, Hubei 430070, China",placeholder64,,,55,"",""
+"2JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder65,,,56,"",""
 "3Pritzker School of Molecular Engineering, The University of Chicago, Chicago, IL 60637, USA","The University of Chicago, Chicago, IL 60637, USA",placeholder66,41.79139685,-87.6008438719354,57,United States of America,North America
 "4Chicago Quantum Exchange, Chicago, IL 60637, USA","Chicago, IL 60637, USA",placeholder67,41.8755616,-87.6244212,58,United States of America,North America
 "5Kadanoff Center for Theoretical Physics, The University of Chicago, Chicago, IL 60637, USA","The University of Chicago, Chicago, IL 60637, USA",placeholder68,41.79139685,-87.6008438719354,59,United States of America,North America
-"6qBraid Co., Harper Court 5235, Chicago, IL 60615, USA","Harper Court 5235, Chicago, IL 60615, USA",placeholder69,,,60,,
-"7School of Computer Science, Faculty of Engineering,","School of Computer Science, Faculty of Engineering,",placeholder70,,,61,,
+"6qBraid Co., Harper Court 5235, Chicago, IL 60615, USA","Harper Court 5235, Chicago, IL 60615, USA",placeholder69,,,60,"",""
+"7School of Computer Science, Faculty of Engineering,","School of Computer Science, Faculty of Engineering,",placeholder70,,,61,"",""
 "The University of Sydney, NSW 2008, Australia","The University of Sydney, NSW 2008, Australia",placeholder71,-33.891747,151.190626709674,62,Australia,Australia
-"measurements [11], and the presence of noise [36]. To mit-","measurements [11], and the presence of noise [36]. To mit-",placeholder72,,,63,,
+"measurements [11], and the presence of noise [36]. To mit-","measurements [11], and the presence of noise [36]. To mit-",placeholder72,,,63,"",""
 "1Institute for Quantum Information and Matter, Caltech, Pasadena, California 91125, USA","Caltech, Pasadena, California 91125, USA",placeholder73,34.13701375,-118.125288248796,64,United States of America,North America
 "2Department of Computing and Mathematical Sciences, Caltech, Pasadena, California 91125, USA","Caltech, Pasadena, California 91125, USA",placeholder74,34.13701375,-118.125288248796,65,United States of America,North America
 "3Institute for Integrated Circuits, Johannes Kepler University Linz, Linz 4040, Austria","Johannes Kepler University Linz, Linz 4040, Austria",placeholder75,48.33609325,14.3205673800329,66,Austria,Europe
 "4Walter Burke Institute for Theoretical Physics, Caltech, Pasadena, California 91125, USA","Caltech, Pasadena, California 91125, USA",placeholder76,34.13701375,-118.125288248796,67,United States of America,North America
 "5AWS Center for Quantum Computing, Pasadena, California 91125, USA","Pasadena, California 91125, USA",placeholder77,34.1476452,-118.1444779,68,United States of America,North America
-"∗F́ısica Teòrica: Informació i Fenòmens Quàntics, Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-","Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-",placeholder78,,,69,,
-"laterra, Spain. marco.fanizza@uab.cat","laterra, Spain. marco.fanizza@uab.cat",placeholder79,,,70,,
-"†Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com","Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com",placeholder80,,,71,,
-"‡Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it","Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it",placeholder81,,,72,,
+"∗F́ısica Teòrica: Informació i Fenòmens Quàntics, Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-","Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-",placeholder78,,,69,"",""
+"laterra, Spain. marco.fanizza@uab.cat","laterra, Spain. marco.fanizza@uab.cat",placeholder79,,,70,"",""
+"†Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com","Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com",placeholder80,,,71,"",""
+"‡Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it","Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it",placeholder81,,,72,"",""
 "1 Department of Physical Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, Nadia - 741246, West","Indian Institute of Science Education and Research Kolkata, Mohanpur, Nadia - 741246, West",placeholder82,22.96363335,88.5258758823642,73,India,Asia
-"nstitute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University, Grudzia̧dzka","Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University, Grudzia̧dzka",placeholder84,,,74,,
+"nstitute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University, Grudzia̧dzka","Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University, Grudzia̧dzka",placeholder84,,,74,"",""
 "1University of Oxford, Oxford, United Kingdom OX1 2JD","University of Oxford, Oxford, United Kingdom OX1 2JD",placeholder85,51.75887905,-1.2596027863019,75,United Kingdom,Europe
-"2Zapata Computing Canada Inc., 325 Front St W, Toronto, ON, Canada M5V 2Y1","25 Front St W, Toronto, ON, Canada M5V 2Y1",placeholder86,,,76,,
-"3Vector Institute, MaRS Centre, Toronto, ON, Canada M5G 1M1","MaRS Centre, Toronto, ON, Canada M5G 1M1",placeholder87,,,77,,
+"2Zapata Computing Canada Inc., 325 Front St W, Toronto, ON, Canada M5V 2Y1","25 Front St W, Toronto, ON, Canada M5V 2Y1",placeholder86,,,76,"",""
+"3Vector Institute, MaRS Centre, Toronto, ON, Canada M5G 1M1","MaRS Centre, Toronto, ON, Canada M5G 1M1",placeholder87,,,77,"",""
 "4Department of Physics and Astronomy, University of Waterloo, Waterloo, ON, Canada N2L 3G1","University of Waterloo, Waterloo, ON, Canada N2L 3G1",placeholder88,43.473362,-80.5412782,78,Canada,North America
-"tum regime. Oftentimes, memorization is the center of","tum regime. Oftentimes, memorization is the center of",placeholder89,,,79,,
-"1AWE, Reading, UK.","AWE, Reading, UK.",placeholder90,,,80,,
+"tum regime. Oftentimes, memorization is the center of","tum regime. Oftentimes, memorization is the center of",placeholder89,,,79,"",""
+"1AWE, Reading, UK.","AWE, Reading, UK.",placeholder90,,,80,"",""
 "2Information Sciences, Los Alamos National Laboratory, Los Alamos, NM, USA.","Los Alamos National Laboratory, Los Alamos, NM, USA.",placeholder91,35.81831485,-106.265427979899,81,United States of America,North America
 "3Department of Mathematics, Technical University of Munich, Garching, Germany.","Technical University of Munich, Garching, Germany.",placeholder92,48.2655696,11.669345610438,82,Germany,Europe
-"4Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.","Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.",placeholder93,,,83,,
+"4Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.","Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.",placeholder93,,,83,"",""
 "5Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, Berlin, Germany.","Freie Universität Berlin, Berlin, Germany.",placeholder94,52.4549616,13.2962740073688,84,Germany,Europe
 "6Department of Physics & Astronomy, University of Southern California, Los Angeles, CA, USA","University of Southern California, Los Angeles, CA, USA",placeholder95,34.0218833,-118.28586662125,85,United States of America,North America
 "7Institute for Quantum Information and Matter, Caltech, Pasadena, CA, USA.","Caltech, Pasadena, CA, USA.",placeholder96,34.13701375,-118.125288248796,86,United States of America,North America
 "8Department of Computing and Mathematical Sciences, Caltech, Pasadena, CA, USA","Caltech, Pasadena, CA, USA",placeholder97,34.13701375,-118.125288248796,87,United States of America,North America
 "9Theoretical Division, Los Alamos National Laboratory, Los Alamos, NM, USA.","Los Alamos National Laboratory, Los Alamos, NM, USA.",placeholder98,35.81831485,-106.265427979899,88,United States of America,North America
-"2Department of Electrical Engineering and Computer Science, MIT","Department of Electrical Engineering and Computer Science, MIT",placeholder100,,,89,,
-"vertical, or the cart moves away from the center more than 2.4","vertical, or the cart moves away from the center more than 2.4",placeholder104,,,90,,
+"2Department of Electrical Engineering and Computer Science, MIT","Department of Electrical Engineering and Computer Science, MIT",placeholder100,,,89,"",""
+"vertical, or the cart moves away from the center more than 2.4","vertical, or the cart moves away from the center more than 2.4",placeholder104,,,90,"",""
 "Munich, Germany","Munich, Germany",placeholder105,48.1371079,11.5753822,91,Germany,Europe
 "Munich, Germany","Munich, Germany",placeholder106,48.1371079,11.5753822,92,Germany,Europe
 "Munich, Germany","Munich, Germany",placeholder107,48.1371079,11.5753822,93,Germany,Europe
-"University Hospital, LMU Munich, Germany","University Hospital, LMU Munich, Germany",placeholder109,,,94,,
+"University Hospital, LMU Munich, Germany","University Hospital, LMU Munich, Germany",placeholder109,,,94,"",""
 "Munich, Germany","Munich, Germany",placeholder110,48.1371079,11.5753822,95,Germany,Europe
 "Department of Computing and Mathematical Sciences, Caltech, Pasadena, CA, USA","Caltech, Pasadena, CA, USA",placeholder112,34.13701375,-118.125288248796,96,United States of America,North America
 "2Department of Electrical Engineering and Computer Sciences, UC Berkeley, Berkeley, CA, USA","UC Berkeley, Berkeley, CA, USA",placeholder113,37.8753497,-122.239633649188,97,United States of America,North America
@@ -101,29 +101,29 @@ affiliation,addr,name,latitude,longitude,id,ADMIN,REGION
 "2Center for Nonlinear Studies, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder118,35.81831485,-106.265427979899,100,United States of America,North America
 "3Physics Department, University of Massachusetts Boston, Boston, Massachusetts 02125, USA","University of Massachusetts Boston, Boston, Massachusetts 02125, USA",placeholder119,42.314068,-71.0387132076762,101,United States of America,North America
 "4Information Sciences, Los Alamos National Laboratory, Los Alamos, NM 87545, USA","Los Alamos National Laboratory, Los Alamos, NM 87545, USA",placeholder120,35.81831485,-106.265427979899,102,United States of America,North America
-"1School of Computer Science, Faculty of Engineering,","School of Computer Science, Faculty of Engineering,",placeholder122,,,103,,
+"1School of Computer Science, Faculty of Engineering,","School of Computer Science, Faculty of Engineering,",placeholder122,,,103,"",""
 "The University of Sydney, Darlington, NSW 2008, Australia","Darlington, NSW 2008, Australia",placeholder123,-33.890862,151.1932156,104,Australia,Australia
-"2JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder124,,,105,,
-"scale quantum (NISQ) era [6, 7], Google has experimen-","scale quantum (NISQ) era [6, 7], Google has experimen-",placeholder125,,,106,,
-"1 Georgia Institute of Technology, USA 2Google, USA"," Georgia Institute of Technology, USA 2Google, USA",placeholder126,,,107,,
-"3Kore University of Enna, Italy 4Department of Electronic Systems, NTNU, Trondheim, Norway","Italy 4Department of Electronic Systems, NTNU, Trondheim, Norway",placeholder127,,,108,,
+"2JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder124,,,105,"",""
+"scale quantum (NISQ) era [6, 7], Google has experimen-","scale quantum (NISQ) era [6, 7], Google has experimen-",placeholder125,,,106,"",""
+"1 Georgia Institute of Technology, USA 2Google, USA"," Georgia Institute of Technology, USA 2Google, USA",placeholder126,,,107,"",""
+"3Kore University of Enna, Italy 4Department of Electronic Systems, NTNU, Trondheim, Norway","Italy 4Department of Electronic Systems, NTNU, Trondheim, Norway",placeholder127,,,108,"",""
 "1Department of Materials, University of Oxford, Parks Road, Oxford OX1 3PH, United Kingdom","University of Oxford, Parks Road, Oxford OX1 3PH, United Kingdom",placeholder131,51.7590373,-1.2524298,109,United Kingdom,Europe
 "2Quantum Motion, 9 Sterling Way, London N7 9HJ, United Kingdom"," Sterling Way, London N7 9HJ, United Kingdom",placeholder132,51.5468058,-0.1186598,110,United Kingdom,Europe
-"Research Center, Defense Innovation Institute, 100071 Beijing, China and","Defense Innovation Institute, 100071 Beijing, China and",placeholder133,,,111,,
-"Tianjin Artificial Intelligence Innovation Center, 300457 Tianjin, China.","Tianjin Artificial Intelligence Innovation Center, 300457 Tianjin, China.",placeholder134,,,112,,
-"• Xiaoyu Sun is with The Blackett Laboratory, Imperial College London,","• Xiaoyu Sun is with The Blackett Laboratory, Imperial College London,",placeholder135,,,113,,
-"Tao are with JD Explore Academy, 101111 Beijing, China.","Tao are with JD Explore Academy, 101111 Beijing, China.",placeholder136,,,114,,
-"• Qing Liu is with School of Physical and Mathematical Sciences, Nanyang","• Qing Liu is with School of Physical and Mathematical Sciences, Nanyang",placeholder137,,,115,,
-"Technological University, 637371, Singapore.","Technological University, 637371, Singapore.",placeholder138,,,116,,
-"Laboratory of High Performance Computing, College of Computer Science","Laboratory of High Performance Computing, College of Computer Science",placeholder140,,,117,,
-"and Technology, National University of Defense Technology, 410073","and Technology, National University of Defense Technology, 410073",placeholder141,,,118,,
+"Research Center, Defense Innovation Institute, 100071 Beijing, China and","Defense Innovation Institute, 100071 Beijing, China and",placeholder133,,,111,"",""
+"Tianjin Artificial Intelligence Innovation Center, 300457 Tianjin, China.","Tianjin Artificial Intelligence Innovation Center, 300457 Tianjin, China.",placeholder134,,,112,"",""
+"• Xiaoyu Sun is with The Blackett Laboratory, Imperial College London,","• Xiaoyu Sun is with The Blackett Laboratory, Imperial College London,",placeholder135,,,113,"",""
+"Tao are with JD Explore Academy, 101111 Beijing, China.","Tao are with JD Explore Academy, 101111 Beijing, China.",placeholder136,,,114,"",""
+"• Qing Liu is with School of Physical and Mathematical Sciences, Nanyang","• Qing Liu is with School of Physical and Mathematical Sciences, Nanyang",placeholder137,,,115,"",""
+"Technological University, 637371, Singapore.","Technological University, 637371, Singapore.",placeholder138,,,116,"",""
+"Laboratory of High Performance Computing, College of Computer Science","Laboratory of High Performance Computing, College of Computer Science",placeholder140,,,117,"",""
+"and Technology, National University of Defense Technology, 410073","and Technology, National University of Defense Technology, 410073",placeholder141,,,118,"",""
 "Changsha, China.","Changsha, China.",placeholder142,28.1450774,113.2384362,119,China,Asia
-"• Kaining Zhang, Tongliang Liu are with The University of Sydney,","• Kaining Zhang, Tongliang Liu are with The University of Sydney,",placeholder143,,,120,,
+"• Kaining Zhang, Tongliang Liu are with The University of Sydney,","• Kaining Zhang, Tongliang Liu are with The University of Sydney,",placeholder143,,,120,"",""
 "Darlington, NSW 2008, Australia.","Darlington, NSW 2008, Australia.",placeholder144,-33.890862,151.1932156,121,Australia,Australia
-"• Min-hsiu Hsieh is with Hon Hai (Foxconn) Research Institute, Taipei,","• Min-hsiu Hsieh is with Hon Hai (Foxconn) Research Institute, Taipei,",placeholder145,,,122,,
+"• Min-hsiu Hsieh is with Hon Hai (Foxconn) Research Institute, Taipei,","• Min-hsiu Hsieh is with Hon Hai (Foxconn) Research Institute, Taipei,",placeholder145,,,122,"",""
 Harvard University,Harvard University,placeholder146,42.36790855,-71.126782374437,123,United States of America,North America
-"Fellows, as well as in part by the Department of Energy under grant DE-SC0007870.","Fellows, as well as in part by the Department of Energy under grant DE-SC0007870.",placeholder148,,,124,,
-"2Department of Physics, University of Padova, 35122 Padova PD, Italy","University of Padova, 35122 Padova PD, Italy",placeholder151,,,125,,
+"Fellows, as well as in part by the Department of Energy under grant DE-SC0007870.","Fellows, as well as in part by the Department of Energy under grant DE-SC0007870.",placeholder148,,,124,"",""
+"2Department of Physics, University of Padova, 35122 Padova PD, Italy","University of Padova, 35122 Padova PD, Italy",placeholder151,,,125,"",""
 "3Department of Particle and Nuclear Physics, University of Geneva, Geneva 1211, Switzerland","University of Geneva, Geneva 1211, Switzerland",placeholder152,46.1985541,6.1509888,126,Switzerland,Europe
 "4International Centre for Theory of Quantum Technologies,","International Centre for Theory of Quantum Technologies,",placeholder153,54.3935805,18.5760964,127,Poland,Europe
 "University of Gdańsk, Wita Stwosza 63, 80-308 Gdańsk, Poland","Wita Stwosza 63, 80-308 Gdańsk, Poland",placeholder154,54.3935303,18.5765053,128,Poland,Europe
@@ -135,142 +135,142 @@ Harvard University,Harvard University,placeholder146,42.36790855,-71.12678237443
 "5Dipartimento di Fisica e Astronomia, Università di Firenze, Sesto Fiorentino (FI), 50019 , Italy","Università di Firenze, Sesto Fiorentino (FI), 50019 , Italy",placeholder160,43.8204263,11.1941665,134,Italy,Europe
 "6Department of Mathematics, University of California Davis, Davis, California 95616, USA","University of California Davis, Davis, California 95616, USA",placeholder161,38.5217429,-121.752249350739,135,United States of America,North America
 "7Center for Nonlinear Studies, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder162,35.81831485,-106.265427979899,136,United States of America,North America
-"1Volkswagen Data:Lab, 80805 Munich, Germany","Volkswagen Data:Lab, 80805 Munich, Germany",placeholder163,,,137,,
-"2Volkswagen Group of America, Auburn Hills, MI 48326, USA and","Auburn Hills, MI 48326, USA and",placeholder164,,,138,,
+"1Volkswagen Data:Lab, 80805 Munich, Germany","Volkswagen Data:Lab, 80805 Munich, Germany",placeholder163,,,137,"",""
+"2Volkswagen Group of America, Auburn Hills, MI 48326, USA and","Auburn Hills, MI 48326, USA and",placeholder164,,,138,"",""
 "3Leiden University, 2333 CA Leiden, The Netherlands","Leiden University, 2333 CA Leiden, The Netherlands",placeholder165,52.16863385,4.45966305742133,139,Netherlands,Europe
 "1Robotics Research Group, University of Bremen, 28359 Bremen, Germany","University of Bremen, 28359 Bremen, Germany",placeholder166,53.10796455,8.85566459282837,140,Germany,Europe
-"∗F́ısica Teòrica: Informació i Fenòmens Quàntics, Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-","Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-",placeholder168,,,141,,
-"laterra, Spain. marco.fanizza@uab.cat","laterra, Spain. marco.fanizza@uab.cat",placeholder169,,,142,,
-"†Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com","Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com",placeholder170,,,143,,
-"‡Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it","Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it",placeholder171,,,144,,
-"2IBM Quantum, IBM Research","IBM Quantum, IBM Research",placeholder172,,,145,,
-"advances in quantum hardware by companies such as IBM [5], Google [6] and IonQ [7] pro-","advances in quantum hardware by companies such as IBM [5], Google [6] and IonQ [7] pro-",placeholder173,,,146,,
-"(1) Harvard University, Cambridge, Massachusetts 02138, USA. Email:","Cambridge, Massachusetts 02138, USA. Email:",placeholder174,,,147,,
-"(2) Institute of High Performance Computing, Agency for Science, Technology and Re-","(2) Institute of High Performance Computing, Agency for Science, Technology and Re-",placeholder175,,,148,,
-"search (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:"," Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:",placeholder176,,,149,,
-"(3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,",placeholder177,30.31545455,120.348695808155,150,,
-"1Quantum Brilliance Pty Ltd, The Australian National University, Australia","Quantum Brilliance Pty Ltd, The Australian National University, Australia",placeholder179,,,151,,
-"NV center acts as bus for initialization and readout of the nitrogen spin qubit,","NV center acts as bus for initialization and readout of the nitrogen spin qubit,",placeholder181,,,152,,
-"STJ is with the Department of Computer Science, University of Birm-","STJ is with the Department of Computer Science, University of Birm-",placeholder182,,,153,,
-"gineering, King’s College London (email: osvaldo.simeone@kcl.ac.uk). The","gineering, King’s College London (email: osvaldo.simeone@kcl.ac.uk). The",placeholder184,,,154,,
-"Computer Science and Engineering, Central South University, Changsha","Computer Science and Engineering, Central South University, Changsha",placeholder187,,,155,,
+"∗F́ısica Teòrica: Informació i Fenòmens Quàntics, Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-","Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-",placeholder168,,,141,"",""
+"laterra, Spain. marco.fanizza@uab.cat","laterra, Spain. marco.fanizza@uab.cat",placeholder169,,,142,"",""
+"†Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com","Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com",placeholder170,,,143,"",""
+"‡Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it","Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it",placeholder171,,,144,"",""
+"2IBM Quantum, IBM Research","IBM Quantum, IBM Research",placeholder172,,,145,"",""
+"advances in quantum hardware by companies such as IBM [5], Google [6] and IonQ [7] pro-","advances in quantum hardware by companies such as IBM [5], Google [6] and IonQ [7] pro-",placeholder173,,,146,"",""
+"(1) Harvard University, Cambridge, Massachusetts 02138, USA. Email:","Cambridge, Massachusetts 02138, USA. Email:",placeholder174,,,147,"",""
+"(2) Institute of High Performance Computing, Agency for Science, Technology and Re-","(2) Institute of High Performance Computing, Agency for Science, Technology and Re-",placeholder175,,,148,"",""
+"search (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:"," Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email:",placeholder176,,,149,"",""
+"(3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018,",placeholder177,30.31545455,120.348695808155,150,"",""
+"1Quantum Brilliance Pty Ltd, The Australian National University, Australia","Quantum Brilliance Pty Ltd, The Australian National University, Australia",placeholder179,,,151,"",""
+"NV center acts as bus for initialization and readout of the nitrogen spin qubit,","NV center acts as bus for initialization and readout of the nitrogen spin qubit,",placeholder181,,,152,"",""
+"STJ is with the Department of Computer Science, University of Birm-","STJ is with the Department of Computer Science, University of Birm-",placeholder182,,,153,"",""
+"gineering, King’s College London (email: osvaldo.simeone@kcl.ac.uk). The","gineering, King’s College London (email: osvaldo.simeone@kcl.ac.uk). The",placeholder184,,,154,"",""
+"Computer Science and Engineering, Central South University, Changsha","Computer Science and Engineering, Central South University, Changsha",placeholder187,,,155,"",""
 "410083, PR China.","10083, PR China.",placeholder188,-23.47613425,-46.8578693281882,156,Brazil,South America
-"weight. Finally, a series of experiments are carried out on IBM","weight. Finally, a series of experiments are carried out on IBM",placeholder189,,,157,,
-"∗School of Computer Science, Faculty of Engineering, The University of Sydney, Sydney, Australia","Faculty of Engineering, The University of Sydney, Sydney, Australia",placeholder190,,,158,,
-"†Hon Hai Quantum Computing Research Center, Taipei, Taiwan","†Hon Hai Quantum Computing Research Center, Taipei, Taiwan",placeholder191,,,159,,
-"Department of Electronics and Information Convergence Engineering, Kyung Hee University, Korea","Department of Electronics and Information Convergence Engineering, Kyung Hee University, Korea",placeholder192,,,160,,
-"1Centre for Quantum Technologies, National University of Singapore, 3 Science Drive 2 117543, Singapore.","National University of Singapore, 3 Science Drive 2 117543, Singapore.",placeholder194,,,161,,
+"weight. Finally, a series of experiments are carried out on IBM","weight. Finally, a series of experiments are carried out on IBM",placeholder189,,,157,"",""
+"∗School of Computer Science, Faculty of Engineering, The University of Sydney, Sydney, Australia","Faculty of Engineering, The University of Sydney, Sydney, Australia",placeholder190,,,158,"",""
+"†Hon Hai Quantum Computing Research Center, Taipei, Taiwan","†Hon Hai Quantum Computing Research Center, Taipei, Taiwan",placeholder191,,,159,"",""
+"Department of Electronics and Information Convergence Engineering, Kyung Hee University, Korea","Department of Electronics and Information Convergence Engineering, Kyung Hee University, Korea",placeholder192,,,160,"",""
+"1Centre for Quantum Technologies, National University of Singapore, 3 Science Drive 2 117543, Singapore.","National University of Singapore, 3 Science Drive 2 117543, Singapore.",placeholder194,,,161,"",""
 "2Imperial College London, London, UK.","Imperial College London, London, UK.",placeholder195,51.4989595,-0.175641259787945,162,United Kingdom,Europe
 "3Information Sciences, Los Alamos National Laboratory, Los Alamos, NM, USA.","Los Alamos National Laboratory, Los Alamos, NM, USA.",placeholder196,35.81831485,-106.265427979899,163,United States of America,North America
 "4Quantum Science Center, Oak Ridge, TN 37931, USA","Oak Ridge, TN 37931, USA",placeholder197,36.0103562,-84.2696449,164,United States of America,North America
-"5Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland","Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland",placeholder198,,,165,,
-"1JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder199,,,166,,
-"2School of Computer Science, Faculty of Engineering, The University of Sydney, Darlington, NSW 2008, Australia","Faculty of Engineering, The University of Sydney, Darlington, NSW 2008, Australia",placeholder200,,,167,,
-"3Center on Frontiers of Computing Studies, Department of Computer Science, Peking University, Beijing 100871, China","Department of Computer Science, Peking University, Beijing 100871, China",placeholder201,,,168,,
+"5Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland","Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland",placeholder198,,,165,"",""
+"1JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder199,,,166,"",""
+"2School of Computer Science, Faculty of Engineering, The University of Sydney, Darlington, NSW 2008, Australia","Faculty of Engineering, The University of Sydney, Darlington, NSW 2008, Australia",placeholder200,,,167,"",""
+"3Center on Frontiers of Computing Studies, Department of Computer Science, Peking University, Beijing 100871, China","Department of Computer Science, Peking University, Beijing 100871, China",placeholder201,,,168,"",""
 "1Department of Mathematics, Technical University of Munich, Garching, Germany","Technical University of Munich, Garching, Germany",placeholder202,48.2655696,11.669345610438,169,Germany,Europe
-"2Munich Center for Quantum Science and Technology (MCQST), Munich, Germany","Munich Center for Quantum Science and Technology (MCQST), Munich, Germany",placeholder203,,,170,,
+"2Munich Center for Quantum Science and Technology (MCQST), Munich, Germany","Munich Center for Quantum Science and Technology (MCQST), Munich, Germany",placeholder203,,,170,"",""
 "3Institute for Quantum Information and Matter, Caltech, Pasadena, CA, USA","Caltech, Pasadena, CA, USA",placeholder204,34.13701375,-118.125288248796,171,United States of America,North America
 "4Department of Computing and Mathematical Sciences, Caltech, Pasadena, CA, USA","Caltech, Pasadena, CA, USA",placeholder205,34.13701375,-118.125288248796,172,United States of America,North America
 "5Information Sciences, Los Alamos National Laboratory, Los Alamos, NM 87545, USA","Los Alamos National Laboratory, Los Alamos, NM 87545, USA",placeholder206,35.81831485,-106.265427979899,173,United States of America,North America
 "6Center for Nonlinear Studies, Los Alamos National Laboratory, Los Alamos, NM 87545, USA","Los Alamos National Laboratory, Los Alamos, NM 87545, USA",placeholder207,35.81831485,-106.265427979899,174,United States of America,North America
-"7Joint Center for Quantum Information and Computer Science,","Joint Center for Quantum Information and Computer Science,",placeholder208,,,175,,
+"7Joint Center for Quantum Information and Computer Science,","Joint Center for Quantum Information and Computer Science,",placeholder208,,,175,"",""
 "University of Maryland, College Park, Maryland 20742, USA","College Park, Maryland 20742, USA",placeholder209,38.99041245,-76.9438585924238,176,United States of America,North America
 "8Quantum Science Center, Oak Ridge, TN 37931, USA","Oak Ridge, TN 37931, USA",placeholder210,36.0103562,-84.2696449,177,United States of America,North America
 "9Theoretical Division, Los Alamos National Laboratory, Los Alamos, NM 87545, USA","Los Alamos National Laboratory, Los Alamos, NM 87545, USA",placeholder211,35.81831485,-106.265427979899,178,United States of America,North America
-"1Centre for Quantum Technologies, National University of Singapore, 3 Science Drive 2 117543, Singapore.","National University of Singapore, 3 Science Drive 2 117543, Singapore.",placeholder212,,,179,,
+"1Centre for Quantum Technologies, National University of Singapore, 3 Science Drive 2 117543, Singapore.","National University of Singapore, 3 Science Drive 2 117543, Singapore.",placeholder212,,,179,"",""
 "2Imperial College London, London, UK.","Imperial College London, London, UK.",placeholder213,51.4989595,-0.175641259787945,180,United Kingdom,Europe
 "3Information Sciences, Los Alamos National Laboratory, Los Alamos, NM, USA.","Los Alamos National Laboratory, Los Alamos, NM, USA.",placeholder214,35.81831485,-106.265427979899,181,United States of America,North America
 "4Quantum Science Center, Oak Ridge, TN 37931, USA","Oak Ridge, TN 37931, USA",placeholder215,36.0103562,-84.2696449,182,United States of America,North America
-"5Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland","Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland",placeholder216,,,183,,
-"1Department of Physics and Astronomy, University of Exeter,","Department of Physics and Astronomy, University of Exeter,",placeholder217,,,184,,
+"5Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland","Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland",placeholder216,,,183,"",""
+"1Department of Physics and Astronomy, University of Exeter,","Department of Physics and Astronomy, University of Exeter,",placeholder217,,,184,"",""
 "Stocker Road, Exeter EX4 4QL, United Kingdom","Stocker Road, Exeter EX4 4QL, United Kingdom",placeholder218,50.7371282,-3.5369048,185,United Kingdom,Europe
 "8 Canada Square, London E14 5HQ, United Kingdom"," Canada Square, London E14 5HQ, United Kingdom",placeholder219,51.5050819,-0.0176613,186,United Kingdom,Europe
-"1Institute for Theoretical Physics, University of Innsbruck, Technikerstr. 21a, A-6020 Innsbruck, Austria","University of Innsbruck, Technikerstr. 21a, A-6020 Innsbruck, Austria",placeholder220,,,187,,
+"1Institute for Theoretical Physics, University of Innsbruck, Technikerstr. 21a, A-6020 Innsbruck, Austria","University of Innsbruck, Technikerstr. 21a, A-6020 Innsbruck, Austria",placeholder220,,,187,"",""
 "2Max Planck Institute for Intelligent Systems, Tübingen, Germany","Max Planck Institute for Intelligent Systems, Tübingen, Germany",placeholder221,48.53550375,9.05792173852176,188,Germany,Europe
 "3Leiden University, Niels Bohrweg 1, 2333 CA Leiden, Netherlands","Niels Bohrweg 1, 2333 CA Leiden, Netherlands",placeholder222,52.1693239,4.4571019,189,Netherlands,Europe
 "1Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, 14195 Berlin, Germany","Freie Universität Berlin, 14195 Berlin, Germany",placeholder223,52.4549616,13.2962740073688,190,Germany,Europe
 "2Helmholtz-Zentrum Berlin für Materialien und Energie, 14109 Berlin, Germany","Helmholtz-Zentrum Berlin für Materialien und Energie, 14109 Berlin, Germany",placeholder224,52.4101021,13.1297326740937,191,Germany,Europe
 "3Fraunhofer Heinrich Hertz Institute, 10587 Berlin, Germany","Fraunhofer Heinrich Hertz Institute, 10587 Berlin, Germany",placeholder225,52.51644635,13.3248774529055,192,Germany,Europe
-"1JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder226,,,193,,
+"1JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder226,,,193,"",""
 "2The University of Sydney, Darlington, NSW 2008, Australia","Darlington, NSW 2008, Australia",placeholder227,-33.890862,151.1932156,194,Australia,Australia
 "1Centre for Quantum Technologies,","Centre for Quantum Technologies,",placeholder228,1.2970694,103.7800945,195,Singapore,Asia
-"National University of Singapore, 3","National University of Singapore, 3",placeholder229,,,196,,
+"National University of Singapore, 3","National University of Singapore, 3",placeholder229,,,196,"",""
 "Science Drive 2, Singapore 117543,","Science Drive 2, Singapore 117543,",placeholder230,1.2969274,103.778780111151,197,Singapore,Asia
-"Engineering, Technical University of","Engineering, Technical University of",placeholder233,,,198,,
+"Engineering, Technical University of","Engineering, Technical University of",placeholder233,,,198,"",""
 "1Pritzker School of Molecular Engineering, The University of Chicago, Chicago, IL 60637, USA","The University of Chicago, Chicago, IL 60637, USA",placeholder234,41.79139685,-87.6008438719354,199,United States of America,North America
 "2Chicago Quantum Exchange, Chicago, IL 60637, USA","Chicago, IL 60637, USA",placeholder235,41.8755616,-87.6244212,200,United States of America,North America
 "3Kadanoff Center for Theoretical Physics, The University of Chicago, Chicago, IL 60637, USA","The University of Chicago, Chicago, IL 60637, USA",placeholder236,41.79139685,-87.6008438719354,201,United States of America,North America
-"4IBM Quantum, IBM T. J. Watson Research Center, Yorktown Heights, NY 10598, USA","IBM T. J. Watson Research Center, Yorktown Heights, NY 10598, USA",placeholder237,,,202,,
-"5Joint Center for Quantum Information and Computer Science,","Joint Center for Quantum Information and Computer Science,",placeholder238,,,203,,
+"4IBM Quantum, IBM T. J. Watson Research Center, Yorktown Heights, NY 10598, USA","IBM T. J. Watson Research Center, Yorktown Heights, NY 10598, USA",placeholder237,,,202,"",""
+"5Joint Center for Quantum Information and Computer Science,","Joint Center for Quantum Information and Computer Science,",placeholder238,,,203,"",""
 "University of Maryland, College Park, Maryland 20742, USA","College Park, Maryland 20742, USA",placeholder239,38.99041245,-76.9438585924238,204,United States of America,North America
 "6IBM Quantum, IBM Research, Zurich, 8803 Rüschlikon, Switzerland","IBM Research, Zurich, 8803 Rüschlikon, Switzerland",placeholder240,47.30918255,8.54474336145566,205,Switzerland,Europe
-the University of Sydney. (Corresponding authors: Yuxuan Du; Dacheng Tao.),the University of Sydney. (Corresponding authors: Yuxuan Du; Dacheng Tao.),placeholder251,,,206,,
-"Yang Qian was with the JD Explore Academy, Beijing 101111, China.","Yang Qian was with the JD Explore Academy, Beijing 101111, China.",placeholder252,,,207,,
-"He is now with the School of Computer Science, Faculty of Engineering, The","He is now with the School of Computer Science, Faculty of Engineering, The",placeholder253,,,208,,
+the University of Sydney. (Corresponding authors: Yuxuan Du; Dacheng Tao.),the University of Sydney. (Corresponding authors: Yuxuan Du; Dacheng Tao.),placeholder251,,,206,"",""
+"Yang Qian was with the JD Explore Academy, Beijing 101111, China.","Yang Qian was with the JD Explore Academy, Beijing 101111, China.",placeholder252,,,207,"",""
+"He is now with the School of Computer Science, Faculty of Engineering, The","He is now with the School of Computer Science, Faculty of Engineering, The",placeholder253,,,208,"",""
 "University of Sydney, Sydney, NSW 2006, Australia.","Sydney, NSW 2006, Australia.",placeholder254,-33.8698439,151.2082848,209,Australia,Australia
-"Xinbiao Wang was with the JD Explore Academy, Beijing 101111, China.","Xinbiao Wang was with the JD Explore Academy, Beijing 101111, China.",placeholder255,,,210,,
-"He is now with the Institute of Artificial Intelligence, School of Computer","He is now with the Institute of Artificial Intelligence, School of Computer",placeholder256,,,211,,
+"Xinbiao Wang was with the JD Explore Academy, Beijing 101111, China.","Xinbiao Wang was with the JD Explore Academy, Beijing 101111, China.",placeholder255,,,210,"",""
+"He is now with the Institute of Artificial Intelligence, School of Computer","He is now with the Institute of Artificial Intelligence, School of Computer",placeholder256,,,211,"",""
 "Science, Wuhan University, Wuhan, Hubei 430072, China.","Wuhan University, Wuhan, Hubei 430072, China.",placeholder257,30.53735405,114.361520319171,212,China,Asia
-"101111, China (e-mail: duyuxuan123@gmail.com).","01111, China (e-mail: duyuxuan123@gmail.com).",placeholder258,,,213,,
-"Dacheng Tao is with the JD Explore Academy, Beijing 101111, China,","Dacheng Tao is with the JD Explore Academy, Beijing 101111, China,",placeholder259,,,214,,
-"and also with the School of Computer Science, Faculty of Engineer-","and also with the School of Computer Science, Faculty of Engineer-",placeholder260,,,215,,
-"ing, The University of Sydney, Sydney, NSW 2006, Australia (e-mail:","The University of Sydney, Sydney, NSW 2006, Australia (e-mail:",placeholder261,,,216,,
+"101111, China (e-mail: duyuxuan123@gmail.com).","01111, China (e-mail: duyuxuan123@gmail.com).",placeholder258,,,213,"",""
+"Dacheng Tao is with the JD Explore Academy, Beijing 101111, China,","Dacheng Tao is with the JD Explore Academy, Beijing 101111, China,",placeholder259,,,214,"",""
+"and also with the School of Computer Science, Faculty of Engineer-","and also with the School of Computer Science, Faculty of Engineer-",placeholder260,,,215,"",""
+"ing, The University of Sydney, Sydney, NSW 2006, Australia (e-mail:","The University of Sydney, Sydney, NSW 2006, Australia (e-mail:",placeholder261,,,216,"",""
 "1Department of Physics, University of Waterloo, Waterloo, ON, N2L 3G1, Canada","University of Waterloo, Waterloo, ON, N2L 3G1, Canada",placeholder262,43.4701994,-80.5452429377945,217,Canada,North America
 "2Institute for Quantum Computing, Waterloo, ON, N2L 3G1, Canada","Waterloo, ON, N2L 3G1, Canada",placeholder263,43.4652699,-80.5222961,218,Canada,North America
 "3Xanadu, Toronto, ON, M5G 2C8, Canada","Toronto, ON, M5G 2C8, Canada",placeholder264,43.6534817,-79.3839347,219,Canada,North America
 "1Department of Physics and Astronomy, Seoul National University, 08826 Seoul, South Korea","Seoul National University, 08826 Seoul, South Korea",placeholder265,37.4556576,126.950757499139,220,South Korea,Asia
-"1 Center for Quantum Information, IIIS, Tsinghua University,"," Center for Quantum Information, IIIS, Tsinghua University,",placeholder266,,,221,,
+"1 Center for Quantum Information, IIIS, Tsinghua University,"," Center for Quantum Information, IIIS, Tsinghua University,",placeholder266,,,221,"",""
 "Beijing 100084, People’s Republic of China","Beijing 100084, People’s Republic of China",placeholder267,39.9918838,116.3216532,222,China,Asia
-"2 Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road,","1th Floor, AI Tower, No. 701 Yunjin Road,",placeholder268,,,223,,
+"2 Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road,","1th Floor, AI Tower, No. 701 Yunjin Road,",placeholder268,,,223,"",""
 "Xuhui District, Shanghai 200232, China","Xuhui District, Shanghai 200232, China",placeholder269,31.1900943,121.4311138,224,China,Asia
-"1AWE, Reading, UK.","AWE, Reading, UK.",placeholder271,,,225,,
+"1AWE, Reading, UK.","AWE, Reading, UK.",placeholder271,,,225,"",""
 "2Information Sciences, Los Alamos National Laboratory, Los Alamos, NM, USA.","Los Alamos National Laboratory, Los Alamos, NM, USA.",placeholder272,35.81831485,-106.265427979899,226,United States of America,North America
 "3Department of Mathematics, Technical University of Munich, Garching, Germany.","Technical University of Munich, Garching, Germany.",placeholder273,48.2655696,11.669345610438,227,Germany,Europe
-"4Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.","Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.",placeholder274,,,228,,
+"4Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.","Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.",placeholder274,,,228,"",""
 "5Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, Berlin, Germany.","Freie Universität Berlin, Berlin, Germany.",placeholder275,52.4549616,13.2962740073688,229,Germany,Europe
 "6Department of Physics & Astronomy, University of Southern California, Los Angeles, CA, USA","University of Southern California, Los Angeles, CA, USA",placeholder276,34.0218833,-118.28586662125,230,United States of America,North America
 "7Institute for Quantum Information and Matter, Caltech, Pasadena, CA, USA.","Caltech, Pasadena, CA, USA.",placeholder277,34.13701375,-118.125288248796,231,United States of America,North America
 "8Department of Computing and Mathematical Sciences, Caltech, Pasadena, CA, USA","Caltech, Pasadena, CA, USA",placeholder278,34.13701375,-118.125288248796,232,United States of America,North America
 "9Theoretical Division, Los Alamos National Laboratory, Los Alamos, NM, USA.","Los Alamos National Laboratory, Los Alamos, NM, USA.",placeholder279,35.81831485,-106.265427979899,233,United States of America,North America
-"2School of Computer Science, The University of Sydney","School of Computer Science, The University of Sydney",placeholder280,,,234,,
-"LIACS, Leiden University, Niels Bohrweg 1, 2333 CA Leiden, Netherlands","Leiden University, Niels Bohrweg 1, 2333 CA Leiden, Netherlands",placeholder281,,,235,,
-"Friedrich-Alexander University Erlangen-Nürnberg (FAU), Department of Physics, Erlangen, Germany","Department of Physics, Erlangen, Germany",placeholder282,,,236,,
-"1 Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s Republic of China","IIIS, Tsinghua University, Beijing 100084, People’s Republic of China",placeholder283,,,237,,
+"2School of Computer Science, The University of Sydney","School of Computer Science, The University of Sydney",placeholder280,,,234,"",""
+"LIACS, Leiden University, Niels Bohrweg 1, 2333 CA Leiden, Netherlands","Leiden University, Niels Bohrweg 1, 2333 CA Leiden, Netherlands",placeholder281,,,235,"",""
+"Friedrich-Alexander University Erlangen-Nürnberg (FAU), Department of Physics, Erlangen, Germany","Department of Physics, Erlangen, Germany",placeholder282,,,236,"",""
+"1 Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s Republic of China","IIIS, Tsinghua University, Beijing 100084, People’s Republic of China",placeholder283,,,237,"",""
 "1Information Sciences, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder285,35.81831485,-106.265427979899,238,United States of America,North America
-"2Electrical and Computer Engineering, University of Illinois Urbana-Champaign, Urbana, Illinois, 61801, USA†","University of Illinois Urbana-Champaign, Urbana, Illinois, 61801, USA†",placeholder286,,,239,,
+"2Electrical and Computer Engineering, University of Illinois Urbana-Champaign, Urbana, Illinois, 61801, USA†","University of Illinois Urbana-Champaign, Urbana, Illinois, 61801, USA†",placeholder286,,,239,"",""
 "3Theoretical Division, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder287,35.81831485,-106.265427979899,240,United States of America,North America
 "4Center for Nonlinear Studies, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA",placeholder288,35.81831485,-106.265427979899,241,United States of America,North America
 "5Harvard Quantum Initiative, Harvard University, Cambridge, Massachusetts 02138, USA","Harvard University, Cambridge, Massachusetts 02138, USA",placeholder289,42.36530955,-71.1154431036783,242,United States of America,North America
-"1Institute for Quantum Computing, Baidu Research, China","Institute for Quantum Computing, Baidu Research, China",placeholder290,,,243,,
-"2Centre for Quantum Software and Information, University of Technology Sydney, Australia","Centre for Quantum Software and Information, University of Technology Sydney, Australia",placeholder291,,,244,,
-"3Institute of Remote Sensing and Geographical Information Systems, Peking University, China","Institute of Remote Sensing and Geographical Information Systems, Peking University, China",placeholder292,,,245,,
+"1Institute for Quantum Computing, Baidu Research, China","Institute for Quantum Computing, Baidu Research, China",placeholder290,,,243,"",""
+"2Centre for Quantum Software and Information, University of Technology Sydney, Australia","Centre for Quantum Software and Information, University of Technology Sydney, Australia",placeholder291,,,244,"",""
+"3Institute of Remote Sensing and Geographical Information Systems, Peking University, China","Institute of Remote Sensing and Geographical Information Systems, Peking University, China",placeholder292,,,245,"",""
 "1Department of Mathematics, King’s College London, Strand, London WC2R 2LS, United Kingdom","King’s College London, Strand, London WC2R 2LS, United Kingdom",placeholder293,51.5151076,-0.110672524783294,246,United Kingdom,Europe
 "2Department of Physics, Amherst, Massachusetts, United States of America","Amherst, Massachusetts, United States of America",placeholder294,42.3685658,-72.505714,247,United States of America,North America
-"3London Centre for Nanotechnology, University College London,","London Centre for Nanotechnology, University College London,",placeholder295,,,248,,
+"3London Centre for Nanotechnology, University College London,","London Centre for Nanotechnology, University College London,",placeholder295,,,248,"",""
 "Gordon St., London, WC1H 0AH, United Kingdom","London, WC1H 0AH, United Kingdom",placeholder296,51.5073219,-0.1276474,249,United Kingdom,Europe
-"∗F́ısica Teòrica: Informació i Fenòmens Quàntics, Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-","Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-",placeholder297,,,250,,
-"laterra, Spain. marco.fanizza@uab.cat","laterra, Spain. marco.fanizza@uab.cat",placeholder298,,,251,,
-"†Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com","Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com",placeholder299,,,252,,
-"‡Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it","Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it",placeholder300,,,253,,
-"1 Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s Republic of China","IIIS, Tsinghua University, Beijing 100084, People’s Republic of China",placeholder301,,,254,,
-"1School of Informatics, University of Edinburgh, 10 Crichton Street, Edinburgh, United Kingdom","University of Edinburgh, 10 Crichton Street, Edinburgh, United Kingdom",placeholder303,,,255,,
-"2QC Ware, Palo Alto, USA and Paris, France","Palo Alto, USA and Paris, France",placeholder304,,,256,,
-"3Laboratoire d’Informatique de Paris 6, CNRS, Sorbonne Université, 4 Place Jussieu, 75005 Paris, France","CNRS, Sorbonne Université, 4 Place Jussieu, 75005 Paris, France",placeholder305,,,257,,
-"4PASQAL SAS, 7 avenue Léonard de Vinci, 91300 Massy, France"," avenue Léonard de Vinci, 91300 Massy, France",placeholder306,,,258,,
-"1applied Quantum algorithms (aQa), Leiden University, The Netherlands","applied Quantum algorithms (aQa), Leiden University, The Netherlands",placeholder307,,,259,,
+"∗F́ısica Teòrica: Informació i Fenòmens Quàntics, Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-","Departament de F́ısica, Universitat Autònoma de Barcelona, 08193 Bel-",placeholder297,,,250,"",""
+"laterra, Spain. marco.fanizza@uab.cat","laterra, Spain. marco.fanizza@uab.cat",placeholder298,,,251,"",""
+"†Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com","Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com",placeholder299,,,252,"",""
+"‡Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it","Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it",placeholder300,,,253,"",""
+"1 Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s Republic of China","IIIS, Tsinghua University, Beijing 100084, People’s Republic of China",placeholder301,,,254,"",""
+"1School of Informatics, University of Edinburgh, 10 Crichton Street, Edinburgh, United Kingdom","University of Edinburgh, 10 Crichton Street, Edinburgh, United Kingdom",placeholder303,,,255,"",""
+"2QC Ware, Palo Alto, USA and Paris, France","Palo Alto, USA and Paris, France",placeholder304,,,256,"",""
+"3Laboratoire d’Informatique de Paris 6, CNRS, Sorbonne Université, 4 Place Jussieu, 75005 Paris, France","CNRS, Sorbonne Université, 4 Place Jussieu, 75005 Paris, France",placeholder305,,,257,"",""
+"4PASQAL SAS, 7 avenue Léonard de Vinci, 91300 Massy, France"," avenue Léonard de Vinci, 91300 Massy, France",placeholder306,,,258,"",""
+"1applied Quantum algorithms (aQa), Leiden University, The Netherlands","applied Quantum algorithms (aQa), Leiden University, The Netherlands",placeholder307,,,259,"",""
 "1Pasqal SAS, 2 av. Augustin Fresnel, 91120 Palaiseau, France"," av. Augustin Fresnel, 91120 Palaiseau, France",placeholder308,48.7143272,2.2033283,260,France,Europe
 "2Department of Physics and Astronomy, University of Exeter, Stocker Road, Exeter EX4 4QL, United Kingdom","University of Exeter, Stocker Road, Exeter EX4 4QL, United Kingdom",placeholder309,50.7351141,-3.533914,261,United Kingdom,Europe
 "Leiden University, Leiden, The Netherlands","Leiden University, Leiden, The Netherlands",placeholder310,52.16863385,4.45966305742133,262,Netherlands,Europe
 "1Pasqal SAS, 2 av. Augustin Fresnel, 91120 Palaiseau, France"," av. Augustin Fresnel, 91120 Palaiseau, France",placeholder311,48.7143272,2.2033283,263,France,Europe
-"2Department of Physics and Astronomy, University of Exeter,","Department of Physics and Astronomy, University of Exeter,",placeholder312,,,264,,
+"2Department of Physics and Astronomy, University of Exeter,","Department of Physics and Astronomy, University of Exeter,",placeholder312,,,264,"",""
 "Stocker Road, Exeter EX4 4QL, United Kingdom","Stocker Road, Exeter EX4 4QL, United Kingdom",placeholder313,50.7371282,-3.5369048,265,United Kingdom,Europe
-"1Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy","Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy",placeholder314,,,266,,
-"1JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder318,,,267,,
+"1Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy","Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy",placeholder314,,,266,"",""
+"1JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder318,,,267,"",""
 "2School of Computer Science, The University of Sydney, Darlington, NSW 2008, Australia","The University of Sydney, Darlington, NSW 2008, Australia",placeholder319,-33.891747,151.190626709674,268,Australia,Australia
 "3Center on Frontiers of Computing Studies, Peking University, Beijing 100871, China","Peking University, Beijing 100871, China",placeholder320,39.99171495,116.303934968635,269,China,Asia
 "4School of Computer Science, Peking University, Beijing 100871, China","Peking University, Beijing 100871, China",placeholder321,39.99171495,116.303934968635,270,China,Asia
-"Fraunhofer IIS, Fraunhofer Institute for Integrated Circuits IIS, Nuremberg, Germany","Fraunhofer Institute for Integrated Circuits IIS, Nuremberg, Germany",placeholder322,,,271,,
-"and Google [2], research in quantum computing started shift-","and Google [2], research in quantum computing started shift-",placeholder324,,,272,,
+"Fraunhofer IIS, Fraunhofer Institute for Integrated Circuits IIS, Nuremberg, Germany","Fraunhofer Institute for Integrated Circuits IIS, Nuremberg, Germany",placeholder322,,,271,"",""
+"and Google [2], research in quantum computing started shift-","and Google [2], research in quantum computing started shift-",placeholder324,,,272,"",""
 "4 place Jussieu, 75005 Paris, France"," place Jussieu, 75005 Paris, France",placeholder326,48.84625505,2.35476164364477,273,France,Europe
 University of Edinburgh,University of Edinburgh,placeholder328,55.94407645,-3.18837355639646,274,United Kingdom,Europe
 "EH8 9AB Edinburgh, United Kingdom","EH8 9AB Edinburgh, United Kingdom",placeholder329,55.94471,-3.18742,275,United Kingdom,Europe
@@ -279,64 +279,64 @@ University of Edinburgh,University of Edinburgh,placeholder333,55.94407645,-3.18
 "EH8 9AB Edinburgh, United Kingdom","EH8 9AB Edinburgh, United Kingdom",placeholder334,55.94471,-3.18742,278,United Kingdom,Europe
 "1Xanadu, Toronto, Ontario, Canada M5G 2C8","Toronto, Ontario, Canada M5G 2C8",placeholder335,43.6534817,-79.3839347,279,Canada,North America
 "2Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, 14195 Berlin, Germany","Freie Universität Berlin, 14195 Berlin, Germany",placeholder336,52.4549616,13.2962740073688,280,Germany,Europe
-"1JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder337,,,281,,
-"2School of Computer Science, Faculty of Engineering, The University of Sydney, Darlington, NSW 2008, Australia","Faculty of Engineering, The University of Sydney, Darlington, NSW 2008, Australia",placeholder338,,,282,,
-"3Center on Frontiers of Computing Studies, Department of Computer Science, Peking University, Beijing 100871, China","Department of Computer Science, Peking University, Beijing 100871, China",placeholder339,,,283,,
-"School of Computer Science, Faculty of Engineering, The University of Sydney, Darlington, New South Wales","Faculty of Engineering, The University of Sydney, Darlington, New South Wales",placeholder340,,,284,,
+"1JD Explore Academy, Beijing 101111, China","JD Explore Academy, Beijing 101111, China",placeholder337,,,281,"",""
+"2School of Computer Science, Faculty of Engineering, The University of Sydney, Darlington, NSW 2008, Australia","Faculty of Engineering, The University of Sydney, Darlington, NSW 2008, Australia",placeholder338,,,282,"",""
+"3Center on Frontiers of Computing Studies, Department of Computer Science, Peking University, Beijing 100871, China","Department of Computer Science, Peking University, Beijing 100871, China",placeholder339,,,283,"",""
+"School of Computer Science, Faculty of Engineering, The University of Sydney, Darlington, New South Wales","Faculty of Engineering, The University of Sydney, Darlington, New South Wales",placeholder340,,,284,"",""
 "2008, Australia","008, Australia",placeholder341,-34.6700166530612,-58.5328121591837,285,Argentina,South America
-"Hon Hai Quantum Computing Research Center, Taipei 114, Taiwan","Hon Hai Quantum Computing Research Center, Taipei 114, Taiwan",placeholder342,,,286,,
-"SenseTime Research, Beijing, China","SenseTime Research, Beijing, China",placeholder343,,,287,,
+"Hon Hai Quantum Computing Research Center, Taipei 114, Taiwan","Hon Hai Quantum Computing Research Center, Taipei 114, Taiwan",placeholder342,,,286,"",""
+"SenseTime Research, Beijing, China","SenseTime Research, Beijing, China",placeholder343,,,287,"",""
 "1Department of Mathematics, Technical University of Munich, Garching, Germany","Technical University of Munich, Garching, Germany",placeholder344,48.2655696,11.669345610438,288,Germany,Europe
-"2Munich Center for Quantum Science and Technology (MCQST), Munich, Germany","Munich Center for Quantum Science and Technology (MCQST), Munich, Germany",placeholder345,,,289,,
+"2Munich Center for Quantum Science and Technology (MCQST), Munich, Germany","Munich Center for Quantum Science and Technology (MCQST), Munich, Germany",placeholder345,,,289,"",""
 "3Institute for Quantum Information and Matter, Caltech, Pasadena, CA, USA","Caltech, Pasadena, CA, USA",placeholder346,34.13701375,-118.125288248796,290,United States of America,North America
 "4Department of Computing and Mathematical Sciences, Caltech, Pasadena, CA, USA","Caltech, Pasadena, CA, USA",placeholder347,34.13701375,-118.125288248796,291,United States of America,North America
 "5Information Sciences, Los Alamos National Laboratory, Los Alamos, NM 87545, USA","Los Alamos National Laboratory, Los Alamos, NM 87545, USA",placeholder348,35.81831485,-106.265427979899,292,United States of America,North America
 "6Center for Nonlinear Studies, Los Alamos National Laboratory, Los Alamos, NM 87545, USA","Los Alamos National Laboratory, Los Alamos, NM 87545, USA",placeholder349,35.81831485,-106.265427979899,293,United States of America,North America
-"7Joint Center for Quantum Information and Computer Science,","Joint Center for Quantum Information and Computer Science,",placeholder350,,,294,,
+"7Joint Center for Quantum Information and Computer Science,","Joint Center for Quantum Information and Computer Science,",placeholder350,,,294,"",""
 "University of Maryland, College Park, Maryland 20742, USA","College Park, Maryland 20742, USA",placeholder351,38.99041245,-76.9438585924238,295,United States of America,North America
 "8Quantum Science Center, Oak Ridge, TN 37931, USA","Oak Ridge, TN 37931, USA",placeholder352,36.0103562,-84.2696449,296,United States of America,North America
 "9Theoretical Division, Los Alamos National Laboratory, Los Alamos, NM 87545, USA","Los Alamos National Laboratory, Los Alamos, NM 87545, USA",placeholder353,35.81831485,-106.265427979899,297,United States of America,North America
 "1Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA","Harvard University, Cambridge, Massachusetts 02138, USA",placeholder354,42.36530955,-71.1154431036783,298,United States of America,North America
-"2Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),","Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),",placeholder355,,,299,,
-"1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore","#16-16 Connexis, Singapore 138632, Singapore",placeholder356,,,300,,
-"3Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China",placeholder357,30.31545455,120.348695808155,301,,
+"2Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),","Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),",placeholder355,,,299,"",""
+"1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore","#16-16 Connexis, Singapore 138632, Singapore",placeholder356,,,300,"",""
+"3Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China",placeholder357,30.31545455,120.348695808155,301,"",""
 "4School of Mathematical Sciences, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder358,30.2963793,120.0720629,302,China,Asia
 "5Center for Data Science, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder359,30.2963793,120.0720629,303,China,Asia
 "6Zhejiang Institute of Modern Physics, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder360,30.2963793,120.0720629,304,China,Asia
 "7Department of Physics, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder361,30.2963793,120.0720629,305,China,Asia
-"1Centre for Quantum Technologies, National University of Singapore, 3 Science Drive 2 117543, Singapore.","National University of Singapore, 3 Science Drive 2 117543, Singapore.",placeholder362,,,306,,
+"1Centre for Quantum Technologies, National University of Singapore, 3 Science Drive 2 117543, Singapore.","National University of Singapore, 3 Science Drive 2 117543, Singapore.",placeholder362,,,306,"",""
 "2Imperial College London, London, UK.","Imperial College London, London, UK.",placeholder363,51.4989595,-0.175641259787945,307,United Kingdom,Europe
 "3Information Sciences, Los Alamos National Laboratory, Los Alamos, NM, USA.","Los Alamos National Laboratory, Los Alamos, NM, USA.",placeholder364,35.81831485,-106.265427979899,308,United States of America,North America
 "4Quantum Science Center, Oak Ridge, TN 37931, USA","Oak Ridge, TN 37931, USA",placeholder365,36.0103562,-84.2696449,309,United States of America,North America
-"5Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland","Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland",placeholder366,,,310,,
+"5Institute of Physics, Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland","Ecole Polytechnique Fédérale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland",placeholder366,,,310,"",""
 "1Centre for Quantum Technologies,","Centre for Quantum Technologies,",placeholder367,1.2970694,103.7800945,311,Singapore,Asia
-"National University of Singapore, 3","National University of Singapore, 3",placeholder368,,,312,,
+"National University of Singapore, 3","National University of Singapore, 3",placeholder368,,,312,"",""
 "Science Drive 2, Singapore 117543,","Science Drive 2, Singapore 117543,",placeholder369,1.2969274,103.778780111151,313,Singapore,Asia
-"Engineering, Technical University of","Engineering, Technical University of",placeholder372,,,314,,
+"Engineering, Technical University of","Engineering, Technical University of",placeholder372,,,314,"",""
 "1Leiden University, Niels Bohrweg 1, 2333 CA Leiden, the Netherlands","Niels Bohrweg 1, 2333 CA Leiden, the Netherlands",placeholder373,52.1693239,4.4571019,315,Netherlands,Europe
-"3Institute of Physics, University of Amsterdam, Science Park 904, 1098 XH Amsterdam, the Netherlands","University of Amsterdam, Science Park 904, 1098 XH Amsterdam, the Netherlands",placeholder374,,,316,,
-"of the Ministry of Education in Taiwan under Grant NTU-110V0904, Grant","of the Ministry of Education in Taiwan under Grant NTU-110V0904, Grant",placeholder377,,,317,,
-"Ching-Yi Lai is with the Institute of Communications Engineering,","Ching-Yi Lai is with the Institute of Communications Engineering,",placeholder378,,,318,,
-"National Yang Ming Chiao Tung University, Hsinchu 30010, Taiwan (e-mail:","National Yang Ming Chiao Tung University, Hsinchu 30010, Taiwan (e-mail:",placeholder379,,,319,,
-"Hao-Chung Cheng is with the Department of Electrical Engineering, Grad-","Hao-Chung Cheng is with the Department of Electrical Engineering, Grad-",placeholder380,,,320,,
-"uate Institute of Communication Engineering, National Taiwan University","uate Institute of Communication Engineering, National Taiwan University",placeholder381,,,321,,
-"(NTU), Taipei 10617, Taiwan, also with the Department of Mathematics,","Taipei 10617, Taiwan, also with the Department of Mathematics,",placeholder382,,,322,,
-"Institute of Applied Mathematical Sciences, NTU, Taipei 10617, Taiwan, also","NTU, Taipei 10617, Taiwan, also",placeholder383,,,323,,
-"with the Center for Quantum Science and Engineering, NTU, Taipei 10617,","with the Center for Quantum Science and Engineering, NTU, Taipei 10617,",placeholder384,,,324,,
-"Taiwan, and also with the Hon Hai (Foxconn) Quantum Computing Centre,","Taiwan, and also with the Hon Hai (Foxconn) Quantum Computing Centre,",placeholder385,,,325,,
+"3Institute of Physics, University of Amsterdam, Science Park 904, 1098 XH Amsterdam, the Netherlands","University of Amsterdam, Science Park 904, 1098 XH Amsterdam, the Netherlands",placeholder374,,,316,"",""
+"of the Ministry of Education in Taiwan under Grant NTU-110V0904, Grant","of the Ministry of Education in Taiwan under Grant NTU-110V0904, Grant",placeholder377,,,317,"",""
+"Ching-Yi Lai is with the Institute of Communications Engineering,","Ching-Yi Lai is with the Institute of Communications Engineering,",placeholder378,,,318,"",""
+"National Yang Ming Chiao Tung University, Hsinchu 30010, Taiwan (e-mail:","National Yang Ming Chiao Tung University, Hsinchu 30010, Taiwan (e-mail:",placeholder379,,,319,"",""
+"Hao-Chung Cheng is with the Department of Electrical Engineering, Grad-","Hao-Chung Cheng is with the Department of Electrical Engineering, Grad-",placeholder380,,,320,"",""
+"uate Institute of Communication Engineering, National Taiwan University","uate Institute of Communication Engineering, National Taiwan University",placeholder381,,,321,"",""
+"(NTU), Taipei 10617, Taiwan, also with the Department of Mathematics,","Taipei 10617, Taiwan, also with the Department of Mathematics,",placeholder382,,,322,"",""
+"Institute of Applied Mathematical Sciences, NTU, Taipei 10617, Taiwan, also","NTU, Taipei 10617, Taiwan, also",placeholder383,,,323,"",""
+"with the Center for Quantum Science and Engineering, NTU, Taipei 10617,","with the Center for Quantum Science and Engineering, NTU, Taipei 10617,",placeholder384,,,324,"",""
+"Taiwan, and also with the Hon Hai (Foxconn) Quantum Computing Centre,","Taiwan, and also with the Hon Hai (Foxconn) Quantum Computing Centre,",placeholder385,,,325,"",""
 "New Taipei City 236, Taiwan.","New Taipei City 236, Taiwan.",placeholder386,24.95539645,121.414641799853,326,Taiwan,Asia
 "1Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA","Harvard University, Cambridge, Massachusetts 02138, USA",placeholder387,42.36530955,-71.1154431036783,327,United States of America,North America
-"2Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),","Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),",placeholder388,,,328,,
-"1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore","#16-16 Connexis, Singapore 138632, Singapore",placeholder389,,,329,,
-"3Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China",placeholder390,30.31545455,120.348695808155,330,,
+"2Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),","Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),",placeholder388,,,328,"",""
+"1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore","#16-16 Connexis, Singapore 138632, Singapore",placeholder389,,,329,"",""
+"3Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China",placeholder390,30.31545455,120.348695808155,330,"",""
 "4School of Mathematical Sciences, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder391,30.2963793,120.0720629,331,China,Asia
 "5Center for Data Science, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder392,30.2963793,120.0720629,332,China,Asia
 "6Zhejiang Institute of Modern Physics, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder393,30.2963793,120.0720629,333,China,Asia
 "7Department of Physics, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder394,30.2963793,120.0720629,334,China,Asia
-"1AWE, Reading, UK.","AWE, Reading, UK.",placeholder395,,,335,,
+"1AWE, Reading, UK.","AWE, Reading, UK.",placeholder395,,,335,"",""
 "2Information Sciences, Los Alamos National Laboratory, Los Alamos, NM, USA.","Los Alamos National Laboratory, Los Alamos, NM, USA.",placeholder396,35.81831485,-106.265427979899,336,United States of America,North America
 "3Department of Mathematics, Technical University of Munich, Garching, Germany.","Technical University of Munich, Garching, Germany.",placeholder397,48.2655696,11.669345610438,337,Germany,Europe
-"4Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.","Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.",placeholder398,,,338,,
+"4Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.","Munich Center for Quantum Science and Technology (MCQST), Munich, Germany.",placeholder398,,,338,"",""
 "5Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, Berlin, Germany.","Freie Universität Berlin, Berlin, Germany.",placeholder399,52.4549616,13.2962740073688,339,Germany,Europe
 "6Department of Physics & Astronomy, University of Southern California, Los Angeles, CA, USA","University of Southern California, Los Angeles, CA, USA",placeholder400,34.0218833,-118.28586662125,340,United States of America,North America
 "7Institute for Quantum Information and Matter, Caltech, Pasadena, CA, USA.","Caltech, Pasadena, CA, USA.",placeholder401,34.13701375,-118.125288248796,341,United States of America,North America
@@ -345,37 +345,37 @@ University of Edinburgh,University of Edinburgh,placeholder333,55.94407645,-3.18
 "1School of Physics, University of Melbourne, VIC, Parkville, 3010, Australia.","University of Melbourne, VIC, Parkville, 3010, Australia.",placeholder404,-37.7970796,144.961301344143,344,Australia,Australia
 "2School of Mathematics and Statistics, University of Melbourne, VIC, Parkville, 3010, Australia.","University of Melbourne, VIC, Parkville, 3010, Australia.",placeholder405,-37.7970796,144.961301344143,345,Australia,Australia
 "1Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA","Harvard University, Cambridge, Massachusetts 02138, USA",placeholder406,42.36530955,-71.1154431036783,346,United States of America,North America
-"2Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),","Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),",placeholder407,,,347,,
-"1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore","#16-16 Connexis, Singapore 138632, Singapore",placeholder408,,,348,,
-"3Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China",placeholder409,30.31545455,120.348695808155,349,,
+"2Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),","Institute of High Performance Computing, Agency for Science, Technology and Research (A*STAR),",placeholder407,,,347,"",""
+"1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore","#16-16 Connexis, Singapore 138632, Singapore",placeholder408,,,348,"",""
+"3Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China","Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018, China",placeholder409,30.31545455,120.348695808155,349,"",""
 "4School of Mathematical Sciences, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder410,30.2963793,120.0720629,350,China,Asia
 "5Center for Data Science, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder411,30.2963793,120.0720629,351,China,Asia
 "6Zhejiang Institute of Modern Physics, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder412,30.2963793,120.0720629,352,China,Asia
 "7Department of Physics, Zhejiang University, Hangzhou, Zhejiang 310027, China","Zhejiang University, Hangzhou, Zhejiang 310027, China",placeholder413,30.2963793,120.0720629,353,China,Asia
-"Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s","IIIS, Tsinghua University, Beijing 100084, People’s",placeholder414,,,354,,
-"Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s","IIIS, Tsinghua University, Beijing 100084, People’s",placeholder416,,,355,,
-"Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s","IIIS, Tsinghua University, Beijing 100084, People’s",placeholder418,,,356,,
-"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road, Xuhui","1th Floor, AI Tower, No. 701 Yunjin Road, Xuhui",placeholder420,,,357,,
+"Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s","IIIS, Tsinghua University, Beijing 100084, People’s",placeholder414,,,354,"",""
+"Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s","IIIS, Tsinghua University, Beijing 100084, People’s",placeholder416,,,355,"",""
+"Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s","IIIS, Tsinghua University, Beijing 100084, People’s",placeholder418,,,356,"",""
+"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road, Xuhui","1th Floor, AI Tower, No. 701 Yunjin Road, Xuhui",placeholder420,,,357,"",""
 "District, Shanghai 200232, China","District, Shanghai 200232, China",placeholder421,31.1900943,121.4311138,358,China,Asia
 "1University of Oxford, Oxford OX1 2JD, United Kingdom","University of Oxford, Oxford OX1 2JD, United Kingdom",placeholder422,51.75887905,-1.2596027863019,359,United Kingdom,Europe
-"2Zapata Computing Canada Inc., 325 Front St W, Toronto, ON, M5V 2Y1, Canada","25 Front St W, Toronto, ON, M5V 2Y1, Canada",placeholder423,,,360,,
-"3Zapata Computing Canada Inc., 325 Front St W, Toronto, ON, M5V 2Y1","25 Front St W, Toronto, ON, M5V 2Y1",placeholder424,,,361,,
-"1 Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s Republic of China","IIIS, Tsinghua University, Beijing 100084, People’s Republic of China",placeholder425,,,362,,
+"2Zapata Computing Canada Inc., 325 Front St W, Toronto, ON, M5V 2Y1, Canada","25 Front St W, Toronto, ON, M5V 2Y1, Canada",placeholder423,,,360,"",""
+"3Zapata Computing Canada Inc., 325 Front St W, Toronto, ON, M5V 2Y1","25 Front St W, Toronto, ON, M5V 2Y1",placeholder424,,,361,"",""
+"1 Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s Republic of China","IIIS, Tsinghua University, Beijing 100084, People’s Republic of China",placeholder425,,,362,"",""
 "National University of Defense Technology, Changsha 410073, China","National University of Defense Technology, Changsha 410073, China",placeholder428,28.2290209,112.994832044032,363,China,Asia
 "2College of Information and Communication, National University of Defense Technology, Xi’an 710006, China","National University of Defense Technology, Xi’an 710006, China",placeholder429,31.8446548,117.233010525828,364,China,Asia
 "3Henan Key Laboratory of Quantum Information and Cryptography, Zhengzhou, Henan 450000, China","Zhengzhou, Henan 450000, China",placeholder430,34.7487244,113.6191483,365,China,Asia
 "and Synergetic Innovation Center for Quantum Effects and Applications, Hunan Normal University, Changsha 410081, China","Hunan Normal University, Changsha 410081, China",placeholder432,28.19096515,112.945081251339,366,China,Asia
-"1 Grid Inc., 107-0061 Tokyo, Japan"," Grid Inc., 107-0061 Tokyo, Japan",placeholder433,,,367,,
-"2 Engineering department, The University of Electro-Communications, 182-8585 Tokyo, Japan","The University of Electro-Communications, 182-8585 Tokyo, Japan",placeholder434,,,368,,
-"3 i-PERC, The University of Electro-Communications, 182-8585 Tokyo, Japan","The University of Electro-Communications, 182-8585 Tokyo, Japan",placeholder435,,,369,,
+"1 Grid Inc., 107-0061 Tokyo, Japan"," Grid Inc., 107-0061 Tokyo, Japan",placeholder433,,,367,"",""
+"2 Engineering department, The University of Electro-Communications, 182-8585 Tokyo, Japan","The University of Electro-Communications, 182-8585 Tokyo, Japan",placeholder434,,,368,"",""
+"3 i-PERC, The University of Electro-Communications, 182-8585 Tokyo, Japan","The University of Electro-Communications, 182-8585 Tokyo, Japan",placeholder435,,,369,"",""
 University of Edinburgh,University of Edinburgh,placeholder438,55.94407645,-3.18837355639646,370,United Kingdom,Europe
-"from the Informatics forum to the Bayes centre and back; Bruce Collie, Jack Turner, Pablo","from the Informatics forum to the Bayes centre and back; Bruce Collie, Jack Turner, Pablo",placeholder439,,,371,,
-"in a classical computer science doctoral training centre), Mattia Bradascio, Nicolai Oswald,","in a classical computer science doctoral training centre), Mattia Bradascio, Nicolai Oswald,",placeholder440,,,372,,
-"in the larger quantum group at the University of Edinburgh: James Mills, Chris Heunen,","in the larger quantum group at the University of Edinburgh: James Mills, Chris Heunen,",placeholder441,,,373,,
+"from the Informatics forum to the Bayes centre and back; Bruce Collie, Jack Turner, Pablo","from the Informatics forum to the Bayes centre and back; Bruce Collie, Jack Turner, Pablo",placeholder439,,,371,"",""
+"in a classical computer science doctoral training centre), Mattia Bradascio, Nicolai Oswald,","in a classical computer science doctoral training centre), Mattia Bradascio, Nicolai Oswald,",placeholder440,,,372,"",""
+"in the larger quantum group at the University of Edinburgh: James Mills, Chris Heunen,","in the larger quantum group at the University of Edinburgh: James Mills, Chris Heunen,",placeholder441,,,373,"",""
 National Yang Ming Chiao Tung University,National Yang Ming Chiao Tung University,placeholder443,24.78676765,120.997244116807,374,Taiwan,Asia
 "Hsinchu 30010, Taiwan","Hsinchu 30010, Taiwan",placeholder444,24.8066333,120.9686833,375,Taiwan,Asia
 National Taiwan University,National Taiwan University,placeholder447,25.01688615,121.538520995551,376,Taiwan,Asia
 "Taipei 10617, Taiwan","Taipei 10617, Taiwan",placeholder448,25.0375198,121.5636796,377,Taiwan,Asia
 "Leiden University, Leiden, The Netherlands","Leiden University, Leiden, The Netherlands",placeholder449,52.16863385,4.45966305742133,378,Netherlands,Europe
-"1Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy","Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy",placeholder450,,,379,,
+"1Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy","Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy",placeholder450,,,379,"",""
 University of Texas at Austin,University of Texas at Austin,placeholder455,30.2852198,-97.733892726638,380,United States of America,North America

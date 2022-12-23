@@ -18,20 +18,21 @@ st.set_page_config(
     layout="wide",
 )
 
+# load data from github
+data_path = "https://github.com/floriancaro/matze_cite_network/blob/florian/network_pairs.csv?raw=true"
 # GREAT_CIRCLE_LAYER_DATA = "https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/flights.json"  # noqa
-network_pairs = "https://github.com/floriancaro/matze_cite_network/blob/florian/network_pairs.csv?raw=true"
 
+df = pd.read_csv(data_path)
 # df = pd.read_json(GREAT_CIRCLE_LAYER_DATA)
-df = pd.read_csv(network_pairs)
 
-# # Use pandas to prepare data for tooltip
+## Use pandas to prepare data for tooltip
 # df["from_name"] = df["from"].apply(lambda f: f["name"])
 # df["to_name"] = df["to"].apply(lambda t: t["name"])
 
-# Define a layer to display on a map
-layer = pdk.Layer(
+# Define layers to display on a map
+layer_greatCircles = pdk.Layer(
     "GreatCircleLayer",
-    df,
+    df_plot,
     pickable=True,
     get_stroke_width=15,
     # get_source_position="from.coordinates",
@@ -41,6 +42,23 @@ layer = pdk.Layer(
     get_source_color=[64, 255, 0],
     get_target_color=[0, 128, 200],
     auto_highlight=True,
+)
+layer_countries = pdk.Layer(
+    "PolygonLayer",
+    df_plot,
+    id="geojson",
+    opacity=0.8,
+    stroked=False,
+    get_polygon="coordinates",
+    filled=True,
+    extruded=True,
+    wireframe=True,
+    # get_elevation="elevation",
+    get_fill_color=[64, 255, 0],
+    getLineColor=[80, 80, 80],
+    getLineWidth=1,
+    auto_highlight=True,
+    pickable=True,
 )
 
 # Set the viewport location
@@ -59,7 +77,7 @@ view_state = pdk.ViewState(
 
 # Render
 r = pdk.Deck(
-    layers=[layer],
+    layers=[layer_greatCircles, layer_countries],
     initial_view_state=view_state,
     # tooltip={"text": "{from_name} to {to_name}"},
     tooltip={"text": "placeholder"},

@@ -29,25 +29,28 @@ earth <- readJPEG("BlackMarble_2016_01deg.jpg", native = TRUE)
 earth <- rasterGrob(earth, interpolate = TRUE)
 
 # load author locations
-author_addresses <- fread(here("author_addresses.csv"))
+authors <- fread(here("author_addresses.csv"))
 
 # Generate all pairs of coordinates (between Matze (Pasadena) and the citing author's home institution)
 pasadena <- c("lat2" =	34.156113, "lon2" = -118.131943) %>% data.frame() %>% t()
-all_pairs <- cbind(author_addresses[, c("latitude", "longitude")], pasadena) %>% as.data.frame()
-colnames(all_pairs) <- c("lat1", "lon1", "lat2","lon2")
+all_pairs <- cbind(authors[, c("latitude", "longitude", "country", "continent", "name")], pasadena) %>% as.data.frame()
+colnames(all_pairs) <- c("lat1", "lon1", "lat2", "lon2", "country", "continent", "name")
+
+# drop NAs
+all_pairs <- all_pairs[!is.na(all_pairs$lat1), ]
 
 # save as csv
 fwrite(all_pairs[!is.na(all_pairs$lon1), ], "network_pairs.csv")
 
-# drop NAs
-all_pairs <- all_pairs[!is.na(all_pairs$lat1), ]
+# select lon-lat columns
+all_pairs <- all_pairs[, c("lat1", "lon1", "lat2", "lon2")]
 
 # create groups for longitude ranges as substitute for continents
 all_pairs$lon_range <- round(all_pairs$lon1 / 50)
 
 # A function to plot connections
 plot_my_connection <- function( dep_lon, dep_lat, arr_lon, arr_lat, ...){
-  inter <- gcIntermediate(c(dep_lon, dep_lat), c(arr_lon, arr_lat), n=50, addStartEnd=TRUE, breakAtDateLine=F)             
+  inter <- gcIntermediate(c(dep_lon, dep_lat), c(arr_lon, arr_lat), n=50, addStartEnd = TRUE, breakAtDateLine = F)             
   inter = data.frame(inter)
   diff_of_lon = abs(dep_lon) + abs(arr_lon)
   if(diff_of_lon > 180) {
@@ -60,7 +63,7 @@ plot_my_connection <- function( dep_lon, dep_lat, arr_lon, arr_lat, ...){
 
 # A function that makes a dateframe per connection (we will use these connections to plot each lines)
 data_for_connection=function( dep_lon, dep_lat, arr_lon, arr_lat, group){
-  inter <- gcIntermediate(c(dep_lon, dep_lat), c(arr_lon, arr_lat), n=50, addStartEnd=TRUE, breakAtDateLine=F)             
+  inter <- gcIntermediate(c(dep_lon, dep_lat), c(arr_lon, arr_lat), n = 50, addStartEnd = TRUE, breakAtDateLine = F)             
   inter=data.frame(inter)
   inter$group=NA
   diff_of_lon=abs(dep_lon) + abs(arr_lon)

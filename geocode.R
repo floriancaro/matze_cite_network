@@ -98,11 +98,16 @@ countries_continents <- get_countries_continents(input_points)
 
 # add country and continent information to main df
 author_locations <- left_join(author_addresses, countries_continents[, c("id", "ADMIN", "REGION")], by = "id")
+author_locations <- rename(
+  author_locations,
+  country = ADMIN,
+  continent = REGION
+)
 
 
 # save geocoded locations -----#
 fwrite(author_locations, here("author_addresses.csv"))
-# author_addresses <- fread(here("author_addresses.csv"))
+# author_locations <- fread(here("author_addresses.csv"))
 write_parquet(x = author_locations, sink = here("author_addresses.parquet"))
 
 gc()
