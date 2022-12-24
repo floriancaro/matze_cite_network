@@ -50,6 +50,11 @@ for(i in 1:n) {
   all_pairs$continent_color[all_pairs$continent == uniq_continents[i]] <- random_colors[i]
 }
 
+# get elevation as number of citations from that continent
+all_pairs <- all_pairs %>%
+  group_by(continent) %>% 
+  mutate(elevation = length(name))
+
 # save as csv
 fwrite(all_pairs[!is.na(all_pairs$lon1), ], "network_pairs.csv")
 
