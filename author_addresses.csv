@@ -34,7 +34,7 @@ affiliation,addr,name,latitude,longitude,id,country,continent
 "1) Harvard University, Cambridge, Massachusetts 02138, USA. Email","Cambridge, Massachusetts 02138, USA","1) Harvard University, Cambridge",42.3750997,-71.1056157,33,United States of America,North America
 "2) Institute of High Performance Computing, Agency for Science, Technology and Re","Agency for Science, Technology and Re","2) Institute of High Performance Computing, Agency for Science",,,34,,
 "search (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email","1616 Connexis, Singapore 138632, Singapore","search (A*STAR), 1 Fusionopolis Way",,,35,,
-"3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018","Zhejiang SciTech University, Hangzhou, Zhejiang 310018","3) Department of Mathematics, Zhejiang Sci-Tech University",,,36,,
+"3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018","Hangzhou, Zhejiang 310018","3) Department of Mathematics, Zhejiang Sci-Tech University",30.2489634,120.2052342,36,,
 "Institute for Quantum Computing, Baidu Research, Beijing 100193, China","Baidu Research, Beijing 100193, China","Institute for Quantum Computing, Baidu Research",,,37,,
 "Department of Particle and Nuclear Physics, University of Geneva, 1211 Geneva, Switzerland","University of Geneva, 1211 Geneva, Switzerland","Department of Particle and Nuclear Physics, University of Geneva",46.1985541,6.1509888,38,Switzerland,Europe
 "Department of Physics, University of Trieste, 34127 Trieste, Italy","University of Trieste, 34127 Trieste, Italy","Department of Physics, University of Trieste",,,39,,
@@ -46,7 +46,7 @@ affiliation,addr,name,latitude,longitude,id,country,continent
 "1) Harvard University, Cambridge, Massachusetts 02138, USA. Email","Cambridge, Massachusetts 02138, USA","1) Harvard University, Cambridge",42.3750997,-71.1056157,45,United States of America,North America
 "2) Institute of High Performance Computing, Agency for Science, Technology and Re","Agency for Science, Technology and Re","2) Institute of High Performance Computing, Agency for Science",,,46,,
 "search (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email","1616 Connexis, Singapore 138632, Singapore","search (A*STAR), 1 Fusionopolis Way",,,47,,
-"3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018","Zhejiang SciTech University, Hangzhou, Zhejiang 310018","3) Department of Mathematics, Zhejiang Sci-Tech University",,,48,,
+"3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018","Hangzhou, Zhejiang 310018","3) Department of Mathematics, Zhejiang Sci-Tech University",30.2489634,120.2052342,48,,
 "School of Computer Science, Faculty of Engineering, The University of Sydney, Darlington, New South Wales","The University of Sydney, Darlington, New South Wales","School of Computer Science, Faculty of Engineering",-33.891747,151.190626709674,49,Australia,Australia
 "Hon Hai Quantum Computing Research Center, Taipei 114, Taiwan","Taipei 114, Taiwan","Hon Hai Quantum Computing Research Center, Taipei 114",25.0375198,121.5636796,50,Taiwan,Asia
 "SenseTime Research, Beijing, China","Beijing, China","SenseTime Research, Beijing",39.906217,116.3912757,51,China,Asia
@@ -67,7 +67,7 @@ affiliation,addr,name,latitude,longitude,id,country,continent
 "Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it","Via Vito Volterra 62, I00146 Rome, Italy matteorosatiuniroma3it","Dipartimento di Ingegneria, Universitá “Roma Tre”",,,66,,
 "Department of Physical Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, Nadia - 741246, West","Mohanpur, Nadia  741246, West","Department of Physical Sciences, Indian Institute of Science Education and Research Kolkata",22.9547908,88.5279413,67,India,Asia
 "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University, Grudziadzka 5/7, 87-100 Toruń","Astronomy and Informatics, Nicolaus Copernicus University, Grudziadzka 57, 87100 Torun","Institute of Physics, Faculty of Physics",,,68,,
-"nstitute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University, Grudzia̧dzka","Astronomy and Informatics, Nicolaus Copernicus University, Grudziadzka","nstitute of Physics, Faculty of Physics",,,69,,
+"nstitute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University, Grudzia̧dzka","Nicolaus Copernicus University, Grudziadzka","nstitute of Physics, Faculty of Physics",,,69,,
 "University of Oxford, Oxford, United Kingdom OX1 2JD","Oxford, United Kingdom OX1 2JD","University of Oxford, Oxford",51.7520131,-1.2578499,70,United Kingdom,Europe
 "Zapata Computing Canada Inc., 325 Front St W, Toronto, ON, Canada M5V 2Y1","Toronto, ON, Canada M5V 2Y1","Zapata Computing Canada Inc., 325 Front St W",,,71,,
 "Vector Institute, MaRS Centre, Toronto, ON, Canada M5G 1M1","Toronto, ON, Canada M5G 1M1","Vector Institute, MaRS Centre",,,72,,
@@ -126,7 +126,7 @@ Harvard University,Harvard University,Harvard University,42.36790855,-71.1267823
 "1) Harvard University, Cambridge, Massachusetts 02138, USA. Email","Cambridge, Massachusetts 02138, USA","1) Harvard University, Cambridge",42.3750997,-71.1056157,125,United States of America,North America
 "2) Institute of High Performance Computing, Agency for Science, Technology and Re","Agency for Science, Technology and Re","2) Institute of High Performance Computing, Agency for Science",,,126,,
 "search (A*STAR), 1 Fusionopolis Way, #16-16 Connexis, Singapore 138632, Singapore. Email","1616 Connexis, Singapore 138632, Singapore","search (A*STAR), 1 Fusionopolis Way",,,127,,
-"3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018","Zhejiang SciTech University, Hangzhou, Zhejiang 310018","3) Department of Mathematics, Zhejiang Sci-Tech University",,,128,,
+"3) Department of Mathematics, Zhejiang Sci-Tech University, Hangzhou, Zhejiang 310018","Hangzhou, Zhejiang 310018","3) Department of Mathematics, Zhejiang Sci-Tech University",30.2489634,120.2052342,128,,
 "Quantum Brilliance Pty Ltd, The Australian National University, Australia","The Australian National University, Australia","Quantum Brilliance Pty Ltd, The Australian National University",,,129,,
 "dialects, such as IBM’s OpenQASM [30] and Rigetti’s Quil [31], based on","such as IBMs OpenQASM 30 and Rigettis Quil 31, based on","dialects, such as IBM’s OpenQASM [30] and Rigetti’s Quil [31]",,,130,,
 "STJ is with the Department of Computer Science, University of Birm",University of Birm,STJ is with the Department of Computer Science,,,131,,
@@ -187,7 +187,7 @@ the University of Sydney. (Corresponding authors: Yuxuan Du; Dacheng Tao.,the Un
 "Xanadu, Toronto, ON, M5G 2C8, Canada","ON, M5G 2C8, Canada","Xanadu, Toronto",51.1384082,-117.8731057,186,Canada,North America
 "Department of Physics and Astronomy, Seoul National University, 08826 Seoul, South Korea","Seoul National University, 08826 Seoul, South Korea","Department of Physics and Astronomy, Seoul National University",37.4556576,126.950757499139,187,South Korea,Asia
 "Center for Quantum Information, IIIS, Tsinghua University","IIIS, Tsinghua University","Center for Quantum Information, IIIS",,,188,,
-"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road","41th Floor, AI Tower, No 701 Yunjin Road","Shanghai Qi Zhi Institute, 41th Floor",,,189,,
+"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road","Shanghai 200232, Peoples Republic of China","Shanghai Qi Zhi Institute, 41th Floor",,,189,,
 "Xuhui District, Shanghai 200232, China","Shanghai 200232, China","Xuhui District, Shanghai 200232",31.2322758,121.4692071,190,China,Asia
 "AWE, Reading, UK","Reading, UK","AWE, Reading",51.456659,-0.9696512,191,United Kingdom,Europe
 "Information Sciences, Los Alamos National Laboratory, Los Alamos, NM, USA","Los Alamos, NM, USA","Information Sciences, Los Alamos National Laboratory",35.8935335,-106.289701070565,192,United States of America,North America
@@ -202,7 +202,7 @@ the University of Sydney. (Corresponding authors: Yuxuan Du; Dacheng Tao.,the Un
 "LIACS, Leiden University, Niels Bohrweg 1, 2333 CA Leiden, Netherlands","Niels Bohrweg 1, 2333 CA Leiden, Netherlands","LIACS, Leiden University",52.1693239,4.4571019,201,Netherlands,Europe
 "Friedrich-Alexander University Erlangen-Nürnberg (FAU), Department of Physics, Erlangen, Germany","Department of Physics, Erlangen, Germany","Friedrich-Alexander University Erlangen-Nürnberg (FAU), Department of Physics",,,202,,
 "Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s Republic of China","Tsinghua University, Beijing 100084, Peoples Republic of China","Center for Quantum Information, IIIS",,,203,,
-"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road, Xuhui District, Shanghai 200232, People’s Republic of China","AI Tower, No 701 Yunjin Road, Xuhui District, Shanghai 200232, Peoples Republic of China","Shanghai Qi Zhi Institute, 41th Floor",,,204,,
+"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road, Xuhui District, Shanghai 200232, People’s Republic of China","Shanghai 200232, Peoples Republic of China","Shanghai Qi Zhi Institute, 41th Floor",,,204,,
 "Information Sciences, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos, New Mexico 87545, USA","Information Sciences, Los Alamos National Laboratory",35.8585475,-106.317166,205,United States of America,North America
 "Electrical and Computer Engineering, University of Illinois Urbana-Champaign, Urbana, Illinois, 61801, USA","Urbana, Illinois, 61801, USA","Electrical and Computer Engineering, University of Illinois Urbana-Champaign",40.1117174,-88.207301,206,United States of America,North America
 "Theoretical Division, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA","Los Alamos, New Mexico 87545, USA","Theoretical Division, Los Alamos National Laboratory",35.8585475,-106.317166,207,United States of America,North America
@@ -219,7 +219,7 @@ the University of Sydney. (Corresponding authors: Yuxuan Du; Dacheng Tao.,the Un
 "Dahlem Center for Complex Quantum Systems, Freie Universität Berlin, 14195 Berlin, Germany. yihuiquek3.14@gmail.com","Freie Universitat Berlin, 14195 Berlin, Germany yihuiquek314gmailcom","Dahlem Center for Complex Quantum Systems, Freie Universität Berlin",,,218,,
 "Dipartimento di Ingegneria, Universitá “Roma Tre”, Via Vito Volterra 62, I-00146 Rome, Italy. matteo.rosati@uniroma3.it","Via Vito Volterra 62, I00146 Rome, Italy matteorosatiuniroma3it","Dipartimento di Ingegneria, Universitá “Roma Tre”",,,219,,
 "Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s Republic of China","Tsinghua University, Beijing 100084, Peoples Republic of China","Center for Quantum Information, IIIS",,,220,,
-"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road, Xuhui District, Shanghai 200232, People’s Republic of China","AI Tower, No 701 Yunjin Road, Xuhui District, Shanghai 200232, Peoples Republic of China","Shanghai Qi Zhi Institute, 41th Floor",,,221,,
+"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road, Xuhui District, Shanghai 200232, People’s Republic of China","Shanghai 200232, Peoples Republic of China","Shanghai Qi Zhi Institute, 41th Floor",,,221,,
 "School of Informatics, University of Edinburgh, 10 Crichton Street, Edinburgh, United Kingdom","10 Crichton Street, Edinburgh, United Kingdom","School of Informatics, University of Edinburgh",55.94481005,-3.187362106444,222,United Kingdom,Europe
 "QC Ware, Palo Alto, USA and Paris, France","Palo Alto, USA and Paris, France","QC Ware, Palo Alto",,,223,,
 "Laboratoire d’Informatique de Paris 6, CNRS, Sorbonne Université, 4 Place Jussieu, 75005 Paris, France","Sorbonne Universite, 4 Place Jussieu, 75005 Paris, France","Laboratoire d’Informatique de Paris 6, CNRS",48.8476088,2.3566695,224,France,Europe
@@ -309,13 +309,13 @@ University of Edinburgh,University of Edinburgh,University of Edinburgh,55.94407
 "Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s","Tsinghua University, Beijing 100084, Peoples","Center for Quantum Information, IIIS",,,308,,
 "Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s","Tsinghua University, Beijing 100084, Peoples","Center for Quantum Information, IIIS",,,309,,
 "Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s","Tsinghua University, Beijing 100084, Peoples","Center for Quantum Information, IIIS",,,310,,
-"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road, Xuhui","AI Tower, No 701 Yunjin Road, Xuhui","Shanghai Qi Zhi Institute, 41th Floor",,,311,,
+"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road, Xuhui","Shanghai 200232, Peoples Republic of China","Shanghai Qi Zhi Institute, 41th Floor",,,311,,
 "District, Shanghai 200232, China","Shanghai 200232, China","District, Shanghai 200232",31.2322758,121.4692071,312,China,Asia
 "University of Oxford, Oxford OX1 2JD, United Kingdom","Oxford OX1 2JD, United Kingdom","University of Oxford, Oxford OX1 2JD",51.7520131,-1.2578499,313,United Kingdom,Europe
 "Zapata Computing Canada Inc., 325 Front St W, Toronto, ON, M5V 2Y1, Canada","Toronto, ON, M5V 2Y1, Canada","Zapata Computing Canada Inc., 325 Front St W",,,314,,
 "Zapata Computing Canada Inc., 325 Front St W, Toronto, ON, M5V 2Y1","Toronto, ON, M5V 2Y1","Zapata Computing Canada Inc., 325 Front St W",,,315,,
 "Center for Quantum Information, IIIS, Tsinghua University, Beijing 100084, People’s Republic of China","Tsinghua University, Beijing 100084, Peoples Republic of China","Center for Quantum Information, IIIS",,,316,,
-"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road, Xuhui District, Shanghai 200232, People’s Republic of China","AI Tower, No 701 Yunjin Road, Xuhui District, Shanghai 200232, Peoples Republic of China","Shanghai Qi Zhi Institute, 41th Floor",,,317,,
+"Shanghai Qi Zhi Institute, 41th Floor, AI Tower, No. 701 Yunjin Road, Xuhui District, Shanghai 200232, People’s Republic of China","Shanghai 200232, Peoples Republic of China","Shanghai Qi Zhi Institute, 41th Floor",,,317,,
 "National University of Defense Technology, Changsha 410073, China","Changsha 410073, China","National University of Defense Technology, Changsha 410073",28.2491934,113.0748296,318,China,Asia
 "College of Information and Communication, National University of Defense Technology, Xi’an 710006, China","National University of Defense Technology, Xian 710006, China","College of Information and Communication, National University of Defense Technology",31.8446548,117.233010525828,319,China,Asia
 "Henan Key Laboratory of Quantum Information and Cryptography, Zhengzhou, Henan 450000, China","Zhengzhou, Henan 450000, China","Henan Key Laboratory of Quantum Information and Cryptography, Zhengzhou",34.7487244,113.6191483,320,China,Asia
@@ -367,8 +367,8 @@ University of Texas at Austin,University of Texas at Austin,University of Texas 
 "Google Quantum AI, Venice, CA 90291, USA","Venice, CA 90291, USA","Google Quantum AI, Venice",33.995044,-118.4668875,366,United States of America,North America
 "GSK R&D Stevenage, GlaxoSmithKline, Stevenage SG1 2NY, UK","GlaxoSmithKline, Stevenage SG1 2NY, UK","GSK R&D Stevenage, GlaxoSmithKline",51.88538025,-0.200712954344525,367,United Kingdom,Europe
 "Department of Biochemistry and Molecular Genetics, University of Virginia, Charlottesville, VA 22908, USA","Charlottesville, VA 22908, USA","Department of Biochemistry and Molecular Genetics, University of Virginia",38.029306,-78.4766781,368,United States of America,North America
-"Grupo de Superconductividad y Nanotecnología, Departamento de Física, Universidad Nacional de Colombia, 111321, Bogotá, Colombia","Universidad Nacional de Colombia, 111321, Bogot, Colombia","Grupo de Superconductividad y Nanotecnología, Departamento de Física",,,369,,
-"MindLab Research Group, Departamento de Ingeniería de Sistemas e Industrial, Universidad Nacional de Colombia, 111321, Bogotá, Colombia","Universidad Nacional de Colombia, 111321, Bogot, Colombia","MindLab Research Group, Departamento de Ingeniería de Sistemas e Industrial",,,370,,
+"Grupo de Superconductividad y Nanotecnología, Departamento de Física, Universidad Nacional de Colombia, 111321, Bogotá, Colombia","Bogota, Colombia","Grupo de Superconductividad y Nanotecnología, Departamento de Física",4.6534649,-74.0836453,369,Colombia,South America
+"MindLab Research Group, Departamento de Ingeniería de Sistemas e Industrial, Universidad Nacional de Colombia, 111321, Bogotá, Colombia","Bogota, Colombia","MindLab Research Group, Departamento de Ingeniería de Sistemas e Industrial",4.6534649,-74.0836453,370,Colombia,South America
 "Information Sciences, Los Alamos National Laboratory, Los Alamos, NM, USA","Los Alamos, NM, USA","Information Sciences, Los Alamos National Laboratory",35.8935335,-106.289701070565,371,United States of America,North America
 "Center for Nonlinear Studies, Los Alamos National Laboratory, Los Alamos, NM, USA","Los Alamos, NM, USA","Center for Nonlinear Studies, Los Alamos National Laboratory",35.8935335,-106.289701070565,372,United States of America,North America
 "Quantum Science Center, Oak Ridge, TN, USA","Oak Ridge, TN, USA","Quantum Science Center, Oak Ridge",36.0103562,-84.2696449,373,United States of America,North America

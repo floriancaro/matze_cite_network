@@ -1,307 +1,312 @@
 lat1,lon1,lat2,lon2,country,continent,name,continent_color,country_color,elevation,cites_n_here,cites_n_here_country
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-38.545379,-121.744583,34.156113,-118.131943,United States of America,North America,"Department of Mathematics, University of California Davis",#FFFF99,#66A61E,151,2,137
-43.831721,11.1992239,34.156113,-118.131943,Italy,Europe,"Dipartimento di Fisica e Astronomia, Università di Firenze",#8DA0CB,#FDBF6F,74,2,2
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Harvard Quantum Initiative, Harvard University",#FFFF99,#66A61E,151,12,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-40.1117174,-88.207301,34.156113,-118.131943,United States of America,North America,"University of Illinois at Urbana-Champaign, Urbana",#FFFF99,#66A61E,151,4,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Department of Physics, University of Waterloo",#FFFF99,#FCCDE5,151,8,14
-51.1384082,-117.8731057,34.156113,-118.131943,Canada,North America,"Institute for Quantum Computing, Waterloo",#FFFF99,#FCCDE5,151,4,14
-51.1384082,-117.8731057,34.156113,-118.131943,Canada,North America,"Xanadu, Toronto",#FFFF99,#FCCDE5,151,4,14
-51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Imperial College London, London",#8DA0CB,#1B9E77,74,6,26
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#66A61E,151,10,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-40.1117174,-88.207301,34.156113,-118.131943,United States of America,North America,"Electrical and Computer Engineering, University of Illinois Urbana-Champaign",#FFFF99,#66A61E,151,4,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Harvard Quantum Initiative, Harvard University",#FFFF99,#66A61E,151,12,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-37.8753497,-122.239633649188,34.156113,-118.131943,United States of America,North America,"Department of Electrical Engineering and Computer Sciences, UC Berkeley",#FFFF99,#66A61E,151,5,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"AWS Center for Quantum Computing, Pasadena",#FFFF99,#66A61E,151,31,137
-34.0536909,-118.242766,34.156113,-118.131943,United States of America,North America,"Department of Physics & Astronomy, University of Southern California",#FFFF99,#66A61E,151,4,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-54.0484068,-2.7990345,34.156113,-118.131943,United Kingdom,Europe,"Physics Department, Lancaster University",#8DA0CB,#1B9E77,74,1,26
-30.4507936,-91.1391153,34.156113,-118.131943,United States of America,North America,"and Center for Computation and Technology, Louisiana State University",#FFFF99,#66A61E,151,1,137
-42.4396039,-76.4968019,34.156113,-118.131943,United States of America,North America,"Cornell University, Ithaca",#FFFF99,#66A61E,151,1,137
-36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#66A61E,151,10,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"1) Harvard University, Cambridge",#FFFF99,#66A61E,151,12,137
-46.1985541,6.1509888,34.156113,-118.131943,Switzerland,Europe,"Department of Particle and Nuclear Physics, University of Geneva",#8DA0CB,#999999,74,2,3
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-37.8753497,-122.239633649188,34.156113,-118.131943,United States of America,North America,"Department of Electrical Engineering and Computer Sciences, UC Berkeley",#FFFF99,#66A61E,151,5,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"AWS Center for Quantum Computing, Pasadena",#FFFF99,#66A61E,151,31,137
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"1) Harvard University, Cambridge",#FFFF99,#66A61E,151,12,137
--33.891747,151.190626709674,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#A6761D,#F0027F,18,5,18
-25.0375198,121.5636796,34.156113,-118.131943,Taiwan,Asia,"Hon Hai Quantum Computing Research Center, Taipei 114",#7FC97F,#E7298A,48,4,9
-39.906217,116.3912757,34.156113,-118.131943,China,Asia,"SenseTime Research, Beijing",#7FC97F,#666666,48,3,31
-30.53735405,114.361520319171,34.156113,-118.131943,China,Asia,"Institute of Artificial Intelligence, School of Computer Science",#7FC97F,#666666,48,1,31
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#7FC97F,#666666,48,11,31
-41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Pritzker School of Molecular Engineering, The University of Chicago",#FFFF99,#66A61E,151,7,137
-41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Chicago Quantum Exchange, Chicago",#FFFF99,#66A61E,151,7,137
-41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Kadanoff Center for Theoretical Physics, The University of Chicago",#FFFF99,#66A61E,151,7,137
-41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"qBraid Co., Harper Court 5235",#FFFF99,#66A61E,151,7,137
--31.95260295,152.555127352722,34.156113,-118.131943,Australia,Australia,"The University of Sydney, NSW 2008",#A6761D,#F0027F,18,2,18
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-48.33609325,14.3205673800329,34.156113,-118.131943,Austria,Europe,"Institute for Integrated Circuits, Johannes Kepler University Linz",#8DA0CB,#FFFF99,74,2,2
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Walter Burke Institute for Theoretical Physics, Caltech",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"AWS Center for Quantum Computing, Pasadena",#FFFF99,#66A61E,151,31,137
-22.9547908,88.5279413,34.156113,-118.131943,India,Asia,"Department of Physical Sciences, Indian Institute of Science Education and Research Kolkata",#7FC97F,#7570B3,48,1,1
-51.7520131,-1.2578499,34.156113,-118.131943,United Kingdom,Europe,"University of Oxford, Oxford",#8DA0CB,#1B9E77,74,2,26
-43.473362,-80.5412782,34.156113,-118.131943,Canada,North America,"Department of Physics and Astronomy, University of Waterloo",#FFFF99,#FCCDE5,151,1,14
-51.456659,-0.9696512,34.156113,-118.131943,United Kingdom,Europe,"AWE, Reading",#8DA0CB,#1B9E77,74,3,26
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#FDB462,74,6,23
-48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#FDB462,74,6,23
-52.4549616,13.2962740073688,34.156113,-118.131943,Germany,Europe,"Dahlem Center for Complex Quantum Systems, Freie Universität Berlin",#8DA0CB,#FDB462,74,4,23
-34.0536909,-118.242766,34.156113,-118.131943,United States of America,North America,"Department of Physics & Astronomy, University of Southern California",#FFFF99,#66A61E,151,4,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-48.13005,11.5649664050531,34.156113,-118.131943,Germany,Europe,"University Hospital, LMU Munich",#8DA0CB,#FDB462,74,1,23
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-37.8753497,-122.239633649188,34.156113,-118.131943,United States of America,North America,"Department of Electrical Engineering and Computer Sciences, UC Berkeley",#FFFF99,#66A61E,151,5,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"AWS Center for Quantum Computing, Pasadena",#FFFF99,#66A61E,151,31,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division (T-4), Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-42.3554334,-71.060511,34.156113,-118.131943,United States of America,North America,"Physics Department, University of Massachusetts Boston",#FFFF99,#66A61E,151,1,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
--33.890862,151.1932156,34.156113,-118.131943,Australia,Australia,"The University of Sydney, Darlington",#A6761D,#F0027F,18,3,18
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#7FC97F,#666666,48,11,31
-63.4247455,10.4725481497655,34.156113,-118.131943,Norway,Europe,"Kore University of Enna, Italy 4Department of Electronic Systems",#8DA0CB,#F4CAE4,74,1,1
-51.7606319,-1.2590068,34.156113,-118.131943,United Kingdom,Europe,"Department of Materials, University of Oxford",#8DA0CB,#1B9E77,74,1,26
-51.6163085,-0.0901354,34.156113,-118.131943,United Kingdom,Europe,"Quantum Motion, 9 Sterling Way",#8DA0CB,#1B9E77,74,1,26
-39.0290579,117.6908545,34.156113,-118.131943,China,Asia,"Tianjin Artificial Intelligence Innovation Center, 300457 Tianjin",#7FC97F,#666666,48,1,31
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"Tao are with JD Explore Academy, 101111 Beijing",#7FC97F,#666666,48,11,31
-28.2290209,112.994832044032,34.156113,-118.131943,China,Asia,"and Technology, National University of Defense Technology",#7FC97F,#666666,48,1,31
--31.95260295,152.555127352722,34.156113,-118.131943,Australia,Australia,"Darlington, NSW 2008",#A6761D,#F0027F,18,2,18
-42.36790855,-71.126782374437,34.156113,-118.131943,United States of America,North America,Harvard University,#FFFF99,#66A61E,151,1,137
-46.1985541,6.1509888,34.156113,-118.131943,Switzerland,Europe,"Department of Particle and Nuclear Physics, University of Geneva",#8DA0CB,#999999,74,2,3
-54.3935303,18.5765053,34.156113,-118.131943,Poland,Europe,"University of Gdańsk, Wita Stwosza 63",#8DA0CB,#F781BF,74,1,1
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Harvard Quantum Initiative, Harvard University",#FFFF99,#66A61E,151,12,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-40.1117174,-88.207301,34.156113,-118.131943,United States of America,North America,"University of Illinois at Urbana-Champaign, Urbana",#FFFF99,#66A61E,151,4,137
-43.831721,11.1992239,34.156113,-118.131943,Italy,Europe,"Dipartimento di Fisica e Astronomia, Università di Firenze",#8DA0CB,#FDBF6F,74,2,2
-38.545379,-121.744583,34.156113,-118.131943,United States of America,North America,"Department of Mathematics, University of California Davis",#FFFF99,#66A61E,151,2,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-48.1741107357222,11.599449206505,34.156113,-118.131943,Germany,Europe,"Volkswagen Data:Lab, 80805 Munich",#8DA0CB,#FDB462,74,1,23
-52.16902246,4.45729731,34.156113,-118.131943,Netherlands,Europe,"Leiden University, 2333 CA Leiden",#8DA0CB,#D95F02,74,1,8
-53.10796455,8.85566459282837,34.156113,-118.131943,Germany,Europe,"Robotics Research Group, University of Bremen",#8DA0CB,#FDB462,74,1,23
-53.0966924,8.871585,34.156113,-118.131943,Germany,Europe,"German Research Center for Artificial Intelligence - Robotics Innovation Center (DFKI RIC), 28359 Bremen",#8DA0CB,#FDB462,74,1,23
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"1) Harvard University, Cambridge",#FFFF99,#66A61E,151,12,137
--33.88888125,151.189414257051,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#A6761D,#F0027F,18,2,18
-25.0375198,121.5636796,34.156113,-118.131943,Taiwan,Asia,"Hon Hai Quantum Computing Research Center, Taipei",#7FC97F,#E7298A,48,4,9
-37.5971213,127.05198672345,34.156113,-118.131943,South Korea,Asia,"Department of Electronics and Information Convergence Engineering, Kyung Hee University",#7FC97F,#F2F2F2,48,1,2
-51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Imperial College London, London",#8DA0CB,#1B9E77,74,6,26
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#66A61E,151,10,137
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#7FC97F,#666666,48,11,31
--33.891747,151.190626709674,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#A6761D,#F0027F,18,5,18
-39.99171495,116.303934968635,34.156113,-118.131943,China,Asia,"Center on Frontiers of Computing Studies, Department of Computer Science",#7FC97F,#666666,48,5,31
-48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#FDB462,74,6,23
-48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#FDB462,74,6,23
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-38.99041245,-76.9438585924238,34.156113,-118.131943,United States of America,North America,"University of Maryland, College Park",#FFFF99,#66A61E,151,3,137
-36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#66A61E,151,10,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Imperial College London, London",#8DA0CB,#1B9E77,74,6,26
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#66A61E,151,10,137
-50.7369302,-3.53647671702167,34.156113,-118.131943,United Kingdom,Europe,Department of Physics and Astronomy,#8DA0CB,#1B9E77,74,2,26
-50.7255794,-3.5269497,34.156113,-118.131943,United Kingdom,Europe,"Stocker Road, Exeter EX4 4QL",#8DA0CB,#1B9E77,74,2,26
-51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Canada Square, London E14 5HQ",#8DA0CB,#1B9E77,74,6,26
-48.5236164,9.0535531,34.156113,-118.131943,Germany,Europe,"Max Planck Institute for Intelligent Systems, Tübingen",#8DA0CB,#FDB462,74,1,23
-52.1693239,4.4571019,34.156113,-118.131943,Netherlands,Europe,"Leiden University, Niels Bohrweg 1",#8DA0CB,#D95F02,74,3,8
-52.4549616,13.2962740073688,34.156113,-118.131943,Germany,Europe,"Dahlem Center for Complex Quantum Systems, Freie Universität Berlin",#8DA0CB,#FDB462,74,4,23
-52.4191463,13.1571633,34.156113,-118.131943,Germany,Europe,"Helmholtz-Zentrum Berlin für Materialien und Energie, 14109 Berlin",#8DA0CB,#FDB462,74,1,23
-52.5216704,13.3251442,34.156113,-118.131943,Germany,Europe,"Fraunhofer Heinrich Hertz Institute, 10587 Berlin",#8DA0CB,#FDB462,74,1,23
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#7FC97F,#666666,48,11,31
--33.890862,151.1932156,34.156113,-118.131943,Australia,Australia,"The University of Sydney, Darlington",#A6761D,#F0027F,18,3,18
-48.7299507,21.2450169,34.156113,-118.131943,Slovakia,Europe,Engineering,#8DA0CB,#FF7F00,74,2,2
-41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Pritzker School of Molecular Engineering, The University of Chicago",#FFFF99,#66A61E,151,7,137
-41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Chicago Quantum Exchange, Chicago",#FFFF99,#66A61E,151,7,137
-41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Kadanoff Center for Theoretical Physics, The University of Chicago",#FFFF99,#66A61E,151,7,137
-41.2709274,-73.7776336,34.156113,-118.131943,United States of America,North America,"IBM Quantum, IBM T. J. Watson Research Center",#FFFF99,#66A61E,151,1,137
-38.99041245,-76.9438585924238,34.156113,-118.131943,United States of America,North America,"University of Maryland, College Park",#FFFF99,#66A61E,151,3,137
-47.30918255,8.54474336145566,34.156113,-118.131943,Switzerland,Europe,"IBM Quantum, IBM Research",#8DA0CB,#999999,74,1,3
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"Yang Qian was with the JD Explore Academy, Beijing 101111",#7FC97F,#666666,48,11,31
-46.83335035,29.6167631830238,34.156113,-118.131943,Moldova,Europe,"He is now with the School of Computer Science, Faculty of Engineering",#8DA0CB,#FB9A99,74,1,1
--33.8698439,151.2082848,34.156113,-118.131943,Australia,Australia,"University of Sydney, Sydney",#A6761D,#F0027F,18,2,18
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"Xinbiao Wang was with the JD Explore Academy, Beijing 101111",#7FC97F,#666666,48,11,31
-30.5951051,114.2999353,34.156113,-118.131943,China,Asia,"Science, Wuhan University",#7FC97F,#666666,48,1,31
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"Dacheng Tao is with the JD Explore Academy, Beijing 101111",#7FC97F,#666666,48,11,31
--33.8698439,151.2082848,34.156113,-118.131943,Australia,Australia,"ing, The University of Sydney",#A6761D,#F0027F,18,2,18
-43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Department of Physics, University of Waterloo",#FFFF99,#FCCDE5,151,8,14
-51.1384082,-117.8731057,34.156113,-118.131943,Canada,North America,"Institute for Quantum Computing, Waterloo",#FFFF99,#FCCDE5,151,4,14
-51.1384082,-117.8731057,34.156113,-118.131943,Canada,North America,"Xanadu, Toronto",#FFFF99,#FCCDE5,151,4,14
-37.4556576,126.950757499139,34.156113,-118.131943,South Korea,Asia,"Department of Physics and Astronomy, Seoul National University",#7FC97F,#F2F2F2,48,1,2
-31.2322758,121.4692071,34.156113,-118.131943,China,Asia,"Xuhui District, Shanghai 200232",#7FC97F,#666666,48,3,31
-51.456659,-0.9696512,34.156113,-118.131943,United Kingdom,Europe,"AWE, Reading",#8DA0CB,#1B9E77,74,3,26
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#FDB462,74,6,23
-48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#FDB462,74,6,23
-52.4549616,13.2962740073688,34.156113,-118.131943,Germany,Europe,"Dahlem Center for Complex Quantum Systems, Freie Universität Berlin",#8DA0CB,#FDB462,74,4,23
-34.0536909,-118.242766,34.156113,-118.131943,United States of America,North America,"Department of Physics & Astronomy, University of Southern California",#FFFF99,#66A61E,151,4,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
--33.88888125,151.189414257051,34.156113,-118.131943,Australia,Australia,School of Computer Science,#A6761D,#F0027F,18,2,18
-52.1693239,4.4571019,34.156113,-118.131943,Netherlands,Europe,"LIACS, Leiden University",#8DA0CB,#D95F02,74,3,8
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-40.1117174,-88.207301,34.156113,-118.131943,United States of America,North America,"Electrical and Computer Engineering, University of Illinois Urbana-Champaign",#FFFF99,#66A61E,151,4,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Harvard Quantum Initiative, Harvard University",#FFFF99,#66A61E,151,12,137
--33.8828784,151.200681195463,34.156113,-118.131943,Australia,Australia,"Centre for Quantum Software and Information, University of Technology Sydney",#A6761D,#F0027F,18,2,18
-39.99171495,116.303934968635,34.156113,-118.131943,China,Asia,"Institute of Remote Sensing and Geographical Information Systems, Peking University",#7FC97F,#666666,48,5,31
-51.512727,-0.1147379,34.156113,-118.131943,United Kingdom,Europe,"Department of Mathematics, King’s College London",#8DA0CB,#1B9E77,74,1,26
-42.3685658,-72.505714,34.156113,-118.131943,United States of America,North America,"Department of Physics, Amherst",#FFFF99,#66A61E,151,1,137
-51.52420305,-0.133000724259295,34.156113,-118.131943,United Kingdom,Europe,London Centre for Nanotechnology,#8DA0CB,#1B9E77,74,1,26
-51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Gordon St., London",#8DA0CB,#1B9E77,74,6,26
-55.94481005,-3.187362106444,34.156113,-118.131943,United Kingdom,Europe,"School of Informatics, University of Edinburgh",#8DA0CB,#1B9E77,74,1,26
-48.8476088,2.3566695,34.156113,-118.131943,France,Europe,"Laboratoire d’Informatique de Paris 6, CNRS",#8DA0CB,#4DAF4A,74,1,5
-52.16863385,4.45966305742133,34.156113,-118.131943,Netherlands,Europe,"applied Quantum algorithms (aQa), Leiden University",#8DA0CB,#D95F02,74,1,8
-48.7137323,2.20253693880756,34.156113,-118.131943,France,Europe,"Pasqal SAS, 2 av. Augustin Fresnel",#8DA0CB,#4DAF4A,74,2,5
-50.7371282,-3.5369048,34.156113,-118.131943,United Kingdom,Europe,"Department of Physics and Astronomy, University of Exeter",#8DA0CB,#1B9E77,74,1,26
-52.1594747,4.4908843,34.156113,-118.131943,Netherlands,Europe,"Leiden University, Leiden",#8DA0CB,#D95F02,74,2,8
-48.7137323,2.20253693880756,34.156113,-118.131943,France,Europe,"Pasqal SAS, 2 av. Augustin Fresnel",#8DA0CB,#4DAF4A,74,2,5
-50.7369302,-3.53647671702167,34.156113,-118.131943,United Kingdom,Europe,Department of Physics and Astronomy,#8DA0CB,#1B9E77,74,2,26
-50.7255794,-3.5269497,34.156113,-118.131943,United Kingdom,Europe,"Stocker Road, Exeter EX4 4QL",#8DA0CB,#1B9E77,74,2,26
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#7FC97F,#666666,48,11,31
--33.890862,151.1932156,34.156113,-118.131943,Australia,Australia,"School of Computer Science, The University of Sydney",#A6761D,#F0027F,18,3,18
-39.99171495,116.303934968635,34.156113,-118.131943,China,Asia,"Center on Frontiers of Computing Studies, Peking University",#7FC97F,#666666,48,5,31
-39.99171495,116.303934968635,34.156113,-118.131943,China,Asia,"School of Computer Science, Peking University",#7FC97F,#666666,48,5,31
-48.8460416045024,2.34871409004739,34.156113,-118.131943,France,Europe,"place Jussieu, 75005 Paris",#8DA0CB,#4DAF4A,74,2,5
-55.94407645,-3.18837355639646,34.156113,-118.131943,United Kingdom,Europe,University of Edinburgh,#8DA0CB,#1B9E77,74,3,26
-48.8460416045024,2.34871409004739,34.156113,-118.131943,France,Europe,"place Jussieu, 75005 Paris",#8DA0CB,#4DAF4A,74,2,5
-55.94407645,-3.18837355639646,34.156113,-118.131943,United Kingdom,Europe,University of Edinburgh,#8DA0CB,#1B9E77,74,3,26
-43.6534817,-79.3839347,34.156113,-118.131943,Canada,North America,"Xanadu, Toronto",#FFFF99,#FCCDE5,151,1,14
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#7FC97F,#666666,48,11,31
--33.891747,151.190626709674,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#A6761D,#F0027F,18,5,18
-39.99171495,116.303934968635,34.156113,-118.131943,China,Asia,"Center on Frontiers of Computing Studies, Department of Computer Science",#7FC97F,#666666,48,5,31
--33.891747,151.190626709674,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#A6761D,#F0027F,18,5,18
-25.0375198,121.5636796,34.156113,-118.131943,Taiwan,Asia,"Hon Hai Quantum Computing Research Center, Taipei 114",#7FC97F,#E7298A,48,4,9
-39.906217,116.3912757,34.156113,-118.131943,China,Asia,"SenseTime Research, Beijing",#7FC97F,#666666,48,3,31
-48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#FDB462,74,6,23
-48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#FDB462,74,6,23
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-38.99041245,-76.9438585924238,34.156113,-118.131943,United States of America,North America,"University of Maryland, College Park",#FFFF99,#66A61E,151,3,137
-36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#66A61E,151,10,137
-35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,23,137
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Department of Physics, Harvard University",#FFFF99,#66A61E,151,12,137
-30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Mathematics, Zhejiang Sci-Tech University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","School of Mathematical Sciences, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","Center for Data Science, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","Zhejiang Institute of Modern Physics, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Physics, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Imperial College London, London",#8DA0CB,#1B9E77,74,6,26
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#66A61E,151,10,137
-48.7299507,21.2450169,34.156113,-118.131943,Slovakia,Europe,Engineering,#8DA0CB,#FF7F00,74,2,2
-52.1693239,4.4571019,34.156113,-118.131943,Netherlands,Europe,"Leiden University, Niels Bohrweg 1",#8DA0CB,#D95F02,74,3,8
-52.3544941,4.9557553,34.156113,-118.131943,Netherlands,Europe,"Institute of Physics, University of Amsterdam",#8DA0CB,#D95F02,74,1,8
-24.8066333,120.9686833,34.156113,-118.131943,Taiwan,Asia,"National Yang Ming Chiao Tung University, Hsinchu 30010",#7FC97F,#E7298A,48,1,9
-25.01688615,121.538520995551,34.156113,-118.131943,Taiwan,Asia,uate Institute of Communication Engineering,#7FC97F,#E7298A,48,3,9
-25.01688615,121.538520995551,34.156113,-118.131943,Taiwan,Asia,"with the Center for Quantum Science and Engineering, NTU",#7FC97F,#E7298A,48,3,9
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Department of Physics, Harvard University",#FFFF99,#66A61E,151,12,137
-30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Mathematics, Zhejiang Sci-Tech University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","School of Mathematical Sciences, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","Center for Data Science, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","Zhejiang Institute of Modern Physics, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Physics, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-51.456659,-0.9696512,34.156113,-118.131943,United Kingdom,Europe,"AWE, Reading",#8DA0CB,#1B9E77,74,3,26
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#FDB462,74,6,23
-48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#FDB462,74,6,23
-52.4549616,13.2962740073688,34.156113,-118.131943,Germany,Europe,"Dahlem Center for Complex Quantum Systems, Freie Universität Berlin",#8DA0CB,#FDB462,74,4,23
-34.0536909,-118.242766,34.156113,-118.131943,United States of America,North America,"Department of Physics & Astronomy, University of Southern California",#FFFF99,#66A61E,151,4,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
--37.779244,144.9415681,34.156113,-118.131943,Australia,Australia,"School of Physics, University of Melbourne",#A6761D,#F0027F,18,2,18
--37.779244,144.9415681,34.156113,-118.131943,Australia,Australia,"School of Mathematics and Statistics, University of Melbourne",#A6761D,#F0027F,18,2,18
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Department of Physics, Harvard University",#FFFF99,#66A61E,151,12,137
-30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Mathematics, Zhejiang Sci-Tech University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","School of Mathematical Sciences, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","Center for Data Science, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","Zhejiang Institute of Modern Physics, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Physics, Zhejiang University",#6A3D9A,#FFFF33,15,15,15
-31.2322758,121.4692071,34.156113,-118.131943,China,Asia,"District, Shanghai 200232",#7FC97F,#666666,48,3,31
-51.7520131,-1.2578499,34.156113,-118.131943,United Kingdom,Europe,"University of Oxford, Oxford OX1 2JD",#8DA0CB,#1B9E77,74,2,26
-28.2491934,113.0748296,34.156113,-118.131943,China,Asia,"National University of Defense Technology, Changsha 410073",#7FC97F,#666666,48,1,31
-31.8446548,117.233010525828,34.156113,-118.131943,China,Asia,"College of Information and Communication, National University of Defense Technology",#7FC97F,#666666,48,1,31
-34.7487244,113.6191483,34.156113,-118.131943,China,Asia,"Henan Key Laboratory of Quantum Information and Cryptography, Zhengzhou",#7FC97F,#666666,48,1,31
-28.19096515,112.945081251339,34.156113,-118.131943,China,Asia,"and Synergetic Innovation Center for Quantum Effects and Applications, Hunan Normal University",#7FC97F,#666666,48,1,31
-35.6689996903226,139.7151112,34.156113,-118.131943,Japan,Asia,"Grid Inc., 107-0061 Tokyo",#7FC97F,#BC80BD,48,1,5
-55.94407645,-3.18837355639646,34.156113,-118.131943,United Kingdom,Europe,University of Edinburgh,#8DA0CB,#1B9E77,74,3,26
-24.78676765,120.997244116807,34.156113,-118.131943,Taiwan,Asia,National Yang Ming Chiao Tung University,#7FC97F,#E7298A,48,1,9
-25.01688615,121.538520995551,34.156113,-118.131943,Taiwan,Asia,National Taiwan University,#7FC97F,#E7298A,48,3,9
-52.1594747,4.4908843,34.156113,-118.131943,Netherlands,Europe,"Leiden University, Leiden",#8DA0CB,#D95F02,74,2,8
-30.2852198,-97.733892726638,34.156113,-118.131943,United States of America,North America,University of Texas at Austin,#FFFF99,#66A61E,151,1,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#66A61E,151,10,137
-37.3893889,-122.0832101,34.156113,-118.131943,United States of America,North America,"X, Mountain View",#FFFF99,#66A61E,151,3,137
-43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Institute for Quantum Computing, University of Waterloo",#FFFF99,#FCCDE5,151,8,14
-43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Department of Applied Mathematics, University of Waterloo",#FFFF99,#FCCDE5,151,8,14
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, California Institute of Technology",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, California Institute of Technology",#FFFF99,#66A61E,151,31,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#FDB462,74,6,23
-48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#FDB462,74,6,23
-23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing",#7FC97F,#666666,48,11,31
--33.891747,151.190626709674,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#A6761D,#F0027F,18,5,18
-39.906217,116.3912757,34.156113,-118.131943,China,Asia,"SenseTime Research, Beijing",#7FC97F,#666666,48,3,31
-25.0375198,121.5636796,34.156113,-118.131943,Taiwan,Asia,"Hon Hai Quantum Computing Research Center, Taipei",#7FC97F,#E7298A,48,4,9
--33.8828784,151.200681195463,34.156113,-118.131943,Australia,Australia,"Centre for Quantum Software and Information, Faculty of Engineering and Information Technology",#A6761D,#F0027F,18,2,18
-35.5492291,139.653422094114,34.156113,-118.131943,Japan,Asia,"Department of Applied Physics and Physico-Informatics, Keio University",#7FC97F,#BC80BD,48,4,5
-35.5492291,139.653422094114,34.156113,-118.131943,Japan,Asia,"Quantum Computing Center, Keio University",#7FC97F,#BC80BD,48,4,5
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-33.995044,-118.4668875,34.156113,-118.131943,United States of America,North America,"Google Quantum AI, Venice",#FFFF99,#66A61E,151,5,137
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Harvard Society of Fellows, Cambridge",#FFFF99,#66A61E,151,12,137
-42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Black Hole Initiative, Cambridge",#FFFF99,#66A61E,151,12,137
-37.8753497,-122.239633649188,34.156113,-118.131943,United States of America,North America,"Department of Electrical Engineering and Computer Science, University of California Berkeley",#FFFF99,#66A61E,151,5,137
-37.8753497,-122.239633649188,34.156113,-118.131943,United States of America,North America,"Simons Institute for the Theory of Computing, Berkeley",#FFFF99,#66A61E,151,5,137
-47.6694141,-122.1238767,34.156113,-118.131943,United States of America,North America,"Microsoft Research AI, Redmond",#FFFF99,#66A61E,151,1,137
-33.995044,-118.4668875,34.156113,-118.131943,United States of America,North America,"Google Quantum AI, Venice",#FFFF99,#66A61E,151,5,137
-33.995044,-118.4668875,34.156113,-118.131943,United States of America,North America,"Google Quantum AI, Venice",#FFFF99,#66A61E,151,5,137
-33.995044,-118.4668875,34.156113,-118.131943,United States of America,North America,"Google Quantum AI, Venice",#FFFF99,#66A61E,151,5,137
-48.33609325,14.3205673800329,34.156113,-118.131943,Austria,Europe,"Institute for Integrated Circuits, Johannes Kepler University Linz",#8DA0CB,#FFFF99,74,2,2
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"AWS Center for Quantum Computing, Pasadena",#FFFF99,#66A61E,151,31,137
-33.995044,-118.4668875,34.156113,-118.131943,United States of America,North America,"Google Quantum AI, Venice",#FFFF99,#66A61E,151,5,137
-51.88538025,-0.200712954344525,34.156113,-118.131943,United Kingdom,Europe,"GSK R&D Stevenage, GlaxoSmithKline",#8DA0CB,#1B9E77,74,1,26
-38.029306,-78.4766781,34.156113,-118.131943,United States of America,North America,"Department of Biochemistry and Molecular Genetics, University of Virginia",#FFFF99,#66A61E,151,1,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#66A61E,151,10,137
-37.3893889,-122.0832101,34.156113,-118.131943,United States of America,North America,"X, Mountain View",#FFFF99,#66A61E,151,3,137
-43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Institute for Quantum Computing, University of Waterloo",#FFFF99,#FCCDE5,151,8,14
-43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Department of Applied Mathematics, University of Waterloo",#FFFF99,#FCCDE5,151,8,14
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, California Institute of Technology",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, California Institute of Technology",#FFFF99,#66A61E,151,31,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-40.00229045,116.320962969691,34.156113,-118.131943,China,Asia,"Center for Quantum Information, Institute for Interdisciplinary Information Science",#7FC97F,#666666,48,1,31
-31.2322758,121.4692071,34.156113,-118.131943,China,Asia,"Shanghai Qi Zhi Institute, Shanghai",#7FC97F,#666666,48,3,31
-35.5492291,139.653422094114,34.156113,-118.131943,Japan,Asia,"Department of Applied Physics and Physico-Informatics, Keio University",#7FC97F,#BC80BD,48,4,5
-35.5492291,139.653422094114,34.156113,-118.131943,Japan,Asia,"Quantum Computing Center, Keio University",#7FC97F,#BC80BD,48,4,5
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
-36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#66A61E,151,10,137
-37.3893889,-122.0832101,34.156113,-118.131943,United States of America,North America,"X, Mountain View",#FFFF99,#66A61E,151,3,137
-43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Institute for Quantum Computing, University of Waterloo",#FFFF99,#FCCDE5,151,8,14
-43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Department of Applied Mathematics, University of Waterloo",#FFFF99,#FCCDE5,151,8,14
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, California Institute of Technology",#FFFF99,#66A61E,151,31,137
-34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, California Institute of Technology",#FFFF99,#66A61E,151,31,137
-35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#66A61E,151,19,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+38.545379,-121.744583,34.156113,-118.131943,United States of America,North America,"Department of Mathematics, University of California Davis",#FFFF99,#FDBF6F,151,2,137
+43.831721,11.1992239,34.156113,-118.131943,Italy,Europe,"Dipartimento di Fisica e Astronomia, Università di Firenze",#8DA0CB,#FCCDE5,74,2,2
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Harvard Quantum Initiative, Harvard University",#FFFF99,#FDBF6F,151,12,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+40.1117174,-88.207301,34.156113,-118.131943,United States of America,North America,"University of Illinois at Urbana-Champaign, Urbana",#FFFF99,#FDBF6F,151,4,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Department of Physics, University of Waterloo",#FFFF99,#1B9E77,151,8,14
+51.1384082,-117.8731057,34.156113,-118.131943,Canada,North America,"Institute for Quantum Computing, Waterloo",#FFFF99,#1B9E77,151,4,14
+51.1384082,-117.8731057,34.156113,-118.131943,Canada,North America,"Xanadu, Toronto",#FFFF99,#1B9E77,151,4,14
+51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Imperial College London, London",#8DA0CB,#999999,74,6,26
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#FDBF6F,151,10,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+40.1117174,-88.207301,34.156113,-118.131943,United States of America,North America,"Electrical and Computer Engineering, University of Illinois Urbana-Champaign",#FFFF99,#FDBF6F,151,4,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Harvard Quantum Initiative, Harvard University",#FFFF99,#FDBF6F,151,12,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+37.8753497,-122.239633649188,34.156113,-118.131943,United States of America,North America,"Department of Electrical Engineering and Computer Sciences, UC Berkeley",#FFFF99,#FDBF6F,151,5,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"AWS Center for Quantum Computing, Pasadena",#FFFF99,#FDBF6F,151,31,137
+34.0536909,-118.242766,34.156113,-118.131943,United States of America,North America,"Department of Physics & Astronomy, University of Southern California",#FFFF99,#FDBF6F,151,4,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+54.0484068,-2.7990345,34.156113,-118.131943,United Kingdom,Europe,"Physics Department, Lancaster University",#8DA0CB,#999999,74,1,26
+30.4507936,-91.1391153,34.156113,-118.131943,United States of America,North America,"and Center for Computation and Technology, Louisiana State University",#FFFF99,#FDBF6F,151,1,137
+42.4396039,-76.4968019,34.156113,-118.131943,United States of America,North America,"Cornell University, Ithaca",#FFFF99,#FDBF6F,151,1,137
+36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#FDBF6F,151,10,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"1) Harvard University, Cambridge",#FFFF99,#FDBF6F,151,12,137
+30.2489634,120.2052342,34.156113,-118.131943,"","","3) Department of Mathematics, Zhejiang Sci-Tech University",#A6761D,#F0027F,18,18,18
+46.1985541,6.1509888,34.156113,-118.131943,Switzerland,Europe,"Department of Particle and Nuclear Physics, University of Geneva",#8DA0CB,#E7298A,74,2,3
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+37.8753497,-122.239633649188,34.156113,-118.131943,United States of America,North America,"Department of Electrical Engineering and Computer Sciences, UC Berkeley",#FFFF99,#FDBF6F,151,5,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"AWS Center for Quantum Computing, Pasadena",#FFFF99,#FDBF6F,151,31,137
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"1) Harvard University, Cambridge",#FFFF99,#FDBF6F,151,12,137
+30.2489634,120.2052342,34.156113,-118.131943,"","","3) Department of Mathematics, Zhejiang Sci-Tech University",#A6761D,#F0027F,18,18,18
+-33.891747,151.190626709674,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#7FC97F,#666666,18,5,18
+25.0375198,121.5636796,34.156113,-118.131943,Taiwan,Asia,"Hon Hai Quantum Computing Research Center, Taipei 114",#6A3D9A,#FFFF99,48,4,9
+39.906217,116.3912757,34.156113,-118.131943,China,Asia,"SenseTime Research, Beijing",#6A3D9A,#7570B3,48,3,31
+30.53735405,114.361520319171,34.156113,-118.131943,China,Asia,"Institute of Artificial Intelligence, School of Computer Science",#6A3D9A,#7570B3,48,1,31
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#6A3D9A,#7570B3,48,11,31
+41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Pritzker School of Molecular Engineering, The University of Chicago",#FFFF99,#FDBF6F,151,7,137
+41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Chicago Quantum Exchange, Chicago",#FFFF99,#FDBF6F,151,7,137
+41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Kadanoff Center for Theoretical Physics, The University of Chicago",#FFFF99,#FDBF6F,151,7,137
+41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"qBraid Co., Harper Court 5235",#FFFF99,#FDBF6F,151,7,137
+-31.95260295,152.555127352722,34.156113,-118.131943,Australia,Australia,"The University of Sydney, NSW 2008",#7FC97F,#666666,18,2,18
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+48.33609325,14.3205673800329,34.156113,-118.131943,Austria,Europe,"Institute for Integrated Circuits, Johannes Kepler University Linz",#8DA0CB,#B3DE69,74,2,2
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Walter Burke Institute for Theoretical Physics, Caltech",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"AWS Center for Quantum Computing, Pasadena",#FFFF99,#FDBF6F,151,31,137
+22.9547908,88.5279413,34.156113,-118.131943,India,Asia,"Department of Physical Sciences, Indian Institute of Science Education and Research Kolkata",#6A3D9A,#F4CAE4,48,1,1
+51.7520131,-1.2578499,34.156113,-118.131943,United Kingdom,Europe,"University of Oxford, Oxford",#8DA0CB,#999999,74,2,26
+43.473362,-80.5412782,34.156113,-118.131943,Canada,North America,"Department of Physics and Astronomy, University of Waterloo",#FFFF99,#1B9E77,151,1,14
+51.456659,-0.9696512,34.156113,-118.131943,United Kingdom,Europe,"AWE, Reading",#8DA0CB,#999999,74,3,26
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#F781BF,74,6,23
+48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#F781BF,74,6,23
+52.4549616,13.2962740073688,34.156113,-118.131943,Germany,Europe,"Dahlem Center for Complex Quantum Systems, Freie Universität Berlin",#8DA0CB,#F781BF,74,4,23
+34.0536909,-118.242766,34.156113,-118.131943,United States of America,North America,"Department of Physics & Astronomy, University of Southern California",#FFFF99,#FDBF6F,151,4,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+48.13005,11.5649664050531,34.156113,-118.131943,Germany,Europe,"University Hospital, LMU Munich",#8DA0CB,#F781BF,74,1,23
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+37.8753497,-122.239633649188,34.156113,-118.131943,United States of America,North America,"Department of Electrical Engineering and Computer Sciences, UC Berkeley",#FFFF99,#FDBF6F,151,5,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"AWS Center for Quantum Computing, Pasadena",#FFFF99,#FDBF6F,151,31,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division (T-4), Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+42.3554334,-71.060511,34.156113,-118.131943,United States of America,North America,"Physics Department, University of Massachusetts Boston",#FFFF99,#FDBF6F,151,1,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+-33.890862,151.1932156,34.156113,-118.131943,Australia,Australia,"The University of Sydney, Darlington",#7FC97F,#666666,18,3,18
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#6A3D9A,#7570B3,48,11,31
+63.4247455,10.4725481497655,34.156113,-118.131943,Norway,Europe,"Kore University of Enna, Italy 4Department of Electronic Systems",#8DA0CB,#D95F02,74,1,1
+51.7606319,-1.2590068,34.156113,-118.131943,United Kingdom,Europe,"Department of Materials, University of Oxford",#8DA0CB,#999999,74,1,26
+51.6163085,-0.0901354,34.156113,-118.131943,United Kingdom,Europe,"Quantum Motion, 9 Sterling Way",#8DA0CB,#999999,74,1,26
+39.0290579,117.6908545,34.156113,-118.131943,China,Asia,"Tianjin Artificial Intelligence Innovation Center, 300457 Tianjin",#6A3D9A,#7570B3,48,1,31
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"Tao are with JD Explore Academy, 101111 Beijing",#6A3D9A,#7570B3,48,11,31
+28.2290209,112.994832044032,34.156113,-118.131943,China,Asia,"and Technology, National University of Defense Technology",#6A3D9A,#7570B3,48,1,31
+-31.95260295,152.555127352722,34.156113,-118.131943,Australia,Australia,"Darlington, NSW 2008",#7FC97F,#666666,18,2,18
+42.36790855,-71.126782374437,34.156113,-118.131943,United States of America,North America,Harvard University,#FFFF99,#FDBF6F,151,1,137
+46.1985541,6.1509888,34.156113,-118.131943,Switzerland,Europe,"Department of Particle and Nuclear Physics, University of Geneva",#8DA0CB,#E7298A,74,2,3
+54.3935303,18.5765053,34.156113,-118.131943,Poland,Europe,"University of Gdańsk, Wita Stwosza 63",#8DA0CB,#F2F2F2,74,1,1
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Harvard Quantum Initiative, Harvard University",#FFFF99,#FDBF6F,151,12,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+40.1117174,-88.207301,34.156113,-118.131943,United States of America,North America,"University of Illinois at Urbana-Champaign, Urbana",#FFFF99,#FDBF6F,151,4,137
+43.831721,11.1992239,34.156113,-118.131943,Italy,Europe,"Dipartimento di Fisica e Astronomia, Università di Firenze",#8DA0CB,#FCCDE5,74,2,2
+38.545379,-121.744583,34.156113,-118.131943,United States of America,North America,"Department of Mathematics, University of California Davis",#FFFF99,#FDBF6F,151,2,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+48.1741107357222,11.599449206505,34.156113,-118.131943,Germany,Europe,"Volkswagen Data:Lab, 80805 Munich",#8DA0CB,#F781BF,74,1,23
+52.16902246,4.45729731,34.156113,-118.131943,Netherlands,Europe,"Leiden University, 2333 CA Leiden",#8DA0CB,#FF7F00,74,1,8
+53.10796455,8.85566459282837,34.156113,-118.131943,Germany,Europe,"Robotics Research Group, University of Bremen",#8DA0CB,#F781BF,74,1,23
+53.0966924,8.871585,34.156113,-118.131943,Germany,Europe,"German Research Center for Artificial Intelligence - Robotics Innovation Center (DFKI RIC), 28359 Bremen",#8DA0CB,#F781BF,74,1,23
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"1) Harvard University, Cambridge",#FFFF99,#FDBF6F,151,12,137
+30.2489634,120.2052342,34.156113,-118.131943,"","","3) Department of Mathematics, Zhejiang Sci-Tech University",#A6761D,#F0027F,18,18,18
+-33.88888125,151.189414257051,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#7FC97F,#666666,18,2,18
+25.0375198,121.5636796,34.156113,-118.131943,Taiwan,Asia,"Hon Hai Quantum Computing Research Center, Taipei",#6A3D9A,#FFFF99,48,4,9
+37.5971213,127.05198672345,34.156113,-118.131943,South Korea,Asia,"Department of Electronics and Information Convergence Engineering, Kyung Hee University",#6A3D9A,#FB9A99,48,1,2
+51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Imperial College London, London",#8DA0CB,#999999,74,6,26
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#FDBF6F,151,10,137
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#6A3D9A,#7570B3,48,11,31
+-33.891747,151.190626709674,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#7FC97F,#666666,18,5,18
+39.99171495,116.303934968635,34.156113,-118.131943,China,Asia,"Center on Frontiers of Computing Studies, Department of Computer Science",#6A3D9A,#7570B3,48,5,31
+48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#F781BF,74,6,23
+48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#F781BF,74,6,23
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+38.99041245,-76.9438585924238,34.156113,-118.131943,United States of America,North America,"University of Maryland, College Park",#FFFF99,#FDBF6F,151,3,137
+36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#FDBF6F,151,10,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Imperial College London, London",#8DA0CB,#999999,74,6,26
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#FDBF6F,151,10,137
+50.7369302,-3.53647671702167,34.156113,-118.131943,United Kingdom,Europe,Department of Physics and Astronomy,#8DA0CB,#999999,74,2,26
+50.7255794,-3.5269497,34.156113,-118.131943,United Kingdom,Europe,"Stocker Road, Exeter EX4 4QL",#8DA0CB,#999999,74,2,26
+51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Canada Square, London E14 5HQ",#8DA0CB,#999999,74,6,26
+48.5236164,9.0535531,34.156113,-118.131943,Germany,Europe,"Max Planck Institute for Intelligent Systems, Tübingen",#8DA0CB,#F781BF,74,1,23
+52.1693239,4.4571019,34.156113,-118.131943,Netherlands,Europe,"Leiden University, Niels Bohrweg 1",#8DA0CB,#FF7F00,74,3,8
+52.4549616,13.2962740073688,34.156113,-118.131943,Germany,Europe,"Dahlem Center for Complex Quantum Systems, Freie Universität Berlin",#8DA0CB,#F781BF,74,4,23
+52.4191463,13.1571633,34.156113,-118.131943,Germany,Europe,"Helmholtz-Zentrum Berlin für Materialien und Energie, 14109 Berlin",#8DA0CB,#F781BF,74,1,23
+52.5216704,13.3251442,34.156113,-118.131943,Germany,Europe,"Fraunhofer Heinrich Hertz Institute, 10587 Berlin",#8DA0CB,#F781BF,74,1,23
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#6A3D9A,#7570B3,48,11,31
+-33.890862,151.1932156,34.156113,-118.131943,Australia,Australia,"The University of Sydney, Darlington",#7FC97F,#666666,18,3,18
+48.7299507,21.2450169,34.156113,-118.131943,Slovakia,Europe,Engineering,#8DA0CB,#4DAF4A,74,2,2
+41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Pritzker School of Molecular Engineering, The University of Chicago",#FFFF99,#FDBF6F,151,7,137
+41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Chicago Quantum Exchange, Chicago",#FFFF99,#FDBF6F,151,7,137
+41.8755616,-87.6244212,34.156113,-118.131943,United States of America,North America,"Kadanoff Center for Theoretical Physics, The University of Chicago",#FFFF99,#FDBF6F,151,7,137
+41.2709274,-73.7776336,34.156113,-118.131943,United States of America,North America,"IBM Quantum, IBM T. J. Watson Research Center",#FFFF99,#FDBF6F,151,1,137
+38.99041245,-76.9438585924238,34.156113,-118.131943,United States of America,North America,"University of Maryland, College Park",#FFFF99,#FDBF6F,151,3,137
+47.30918255,8.54474336145566,34.156113,-118.131943,Switzerland,Europe,"IBM Quantum, IBM Research",#8DA0CB,#E7298A,74,1,3
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"Yang Qian was with the JD Explore Academy, Beijing 101111",#6A3D9A,#7570B3,48,11,31
+46.83335035,29.6167631830238,34.156113,-118.131943,Moldova,Europe,"He is now with the School of Computer Science, Faculty of Engineering",#8DA0CB,#FFFF33,74,1,1
+-33.8698439,151.2082848,34.156113,-118.131943,Australia,Australia,"University of Sydney, Sydney",#7FC97F,#666666,18,2,18
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"Xinbiao Wang was with the JD Explore Academy, Beijing 101111",#6A3D9A,#7570B3,48,11,31
+30.5951051,114.2999353,34.156113,-118.131943,China,Asia,"Science, Wuhan University",#6A3D9A,#7570B3,48,1,31
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"Dacheng Tao is with the JD Explore Academy, Beijing 101111",#6A3D9A,#7570B3,48,11,31
+-33.8698439,151.2082848,34.156113,-118.131943,Australia,Australia,"ing, The University of Sydney",#7FC97F,#666666,18,2,18
+43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Department of Physics, University of Waterloo",#FFFF99,#1B9E77,151,8,14
+51.1384082,-117.8731057,34.156113,-118.131943,Canada,North America,"Institute for Quantum Computing, Waterloo",#FFFF99,#1B9E77,151,4,14
+51.1384082,-117.8731057,34.156113,-118.131943,Canada,North America,"Xanadu, Toronto",#FFFF99,#1B9E77,151,4,14
+37.4556576,126.950757499139,34.156113,-118.131943,South Korea,Asia,"Department of Physics and Astronomy, Seoul National University",#6A3D9A,#FB9A99,48,1,2
+31.2322758,121.4692071,34.156113,-118.131943,China,Asia,"Xuhui District, Shanghai 200232",#6A3D9A,#7570B3,48,3,31
+51.456659,-0.9696512,34.156113,-118.131943,United Kingdom,Europe,"AWE, Reading",#8DA0CB,#999999,74,3,26
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#F781BF,74,6,23
+48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#F781BF,74,6,23
+52.4549616,13.2962740073688,34.156113,-118.131943,Germany,Europe,"Dahlem Center for Complex Quantum Systems, Freie Universität Berlin",#8DA0CB,#F781BF,74,4,23
+34.0536909,-118.242766,34.156113,-118.131943,United States of America,North America,"Department of Physics & Astronomy, University of Southern California",#FFFF99,#FDBF6F,151,4,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+-33.88888125,151.189414257051,34.156113,-118.131943,Australia,Australia,School of Computer Science,#7FC97F,#666666,18,2,18
+52.1693239,4.4571019,34.156113,-118.131943,Netherlands,Europe,"LIACS, Leiden University",#8DA0CB,#FF7F00,74,3,8
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+40.1117174,-88.207301,34.156113,-118.131943,United States of America,North America,"Electrical and Computer Engineering, University of Illinois Urbana-Champaign",#FFFF99,#FDBF6F,151,4,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Harvard Quantum Initiative, Harvard University",#FFFF99,#FDBF6F,151,12,137
+-33.8828784,151.200681195463,34.156113,-118.131943,Australia,Australia,"Centre for Quantum Software and Information, University of Technology Sydney",#7FC97F,#666666,18,2,18
+39.99171495,116.303934968635,34.156113,-118.131943,China,Asia,"Institute of Remote Sensing and Geographical Information Systems, Peking University",#6A3D9A,#7570B3,48,5,31
+51.512727,-0.1147379,34.156113,-118.131943,United Kingdom,Europe,"Department of Mathematics, King’s College London",#8DA0CB,#999999,74,1,26
+42.3685658,-72.505714,34.156113,-118.131943,United States of America,North America,"Department of Physics, Amherst",#FFFF99,#FDBF6F,151,1,137
+51.52420305,-0.133000724259295,34.156113,-118.131943,United Kingdom,Europe,London Centre for Nanotechnology,#8DA0CB,#999999,74,1,26
+51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Gordon St., London",#8DA0CB,#999999,74,6,26
+55.94481005,-3.187362106444,34.156113,-118.131943,United Kingdom,Europe,"School of Informatics, University of Edinburgh",#8DA0CB,#999999,74,1,26
+48.8476088,2.3566695,34.156113,-118.131943,France,Europe,"Laboratoire d’Informatique de Paris 6, CNRS",#8DA0CB,#D9D9D9,74,1,5
+52.16863385,4.45966305742133,34.156113,-118.131943,Netherlands,Europe,"applied Quantum algorithms (aQa), Leiden University",#8DA0CB,#FF7F00,74,1,8
+48.7137323,2.20253693880756,34.156113,-118.131943,France,Europe,"Pasqal SAS, 2 av. Augustin Fresnel",#8DA0CB,#D9D9D9,74,2,5
+50.7371282,-3.5369048,34.156113,-118.131943,United Kingdom,Europe,"Department of Physics and Astronomy, University of Exeter",#8DA0CB,#999999,74,1,26
+52.1594747,4.4908843,34.156113,-118.131943,Netherlands,Europe,"Leiden University, Leiden",#8DA0CB,#FF7F00,74,2,8
+48.7137323,2.20253693880756,34.156113,-118.131943,France,Europe,"Pasqal SAS, 2 av. Augustin Fresnel",#8DA0CB,#D9D9D9,74,2,5
+50.7369302,-3.53647671702167,34.156113,-118.131943,United Kingdom,Europe,Department of Physics and Astronomy,#8DA0CB,#999999,74,2,26
+50.7255794,-3.5269497,34.156113,-118.131943,United Kingdom,Europe,"Stocker Road, Exeter EX4 4QL",#8DA0CB,#999999,74,2,26
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#6A3D9A,#7570B3,48,11,31
+-33.890862,151.1932156,34.156113,-118.131943,Australia,Australia,"School of Computer Science, The University of Sydney",#7FC97F,#666666,18,3,18
+39.99171495,116.303934968635,34.156113,-118.131943,China,Asia,"Center on Frontiers of Computing Studies, Peking University",#6A3D9A,#7570B3,48,5,31
+39.99171495,116.303934968635,34.156113,-118.131943,China,Asia,"School of Computer Science, Peking University",#6A3D9A,#7570B3,48,5,31
+48.8460416045024,2.34871409004739,34.156113,-118.131943,France,Europe,"place Jussieu, 75005 Paris",#8DA0CB,#D9D9D9,74,2,5
+55.94407645,-3.18837355639646,34.156113,-118.131943,United Kingdom,Europe,University of Edinburgh,#8DA0CB,#999999,74,3,26
+48.8460416045024,2.34871409004739,34.156113,-118.131943,France,Europe,"place Jussieu, 75005 Paris",#8DA0CB,#D9D9D9,74,2,5
+55.94407645,-3.18837355639646,34.156113,-118.131943,United Kingdom,Europe,University of Edinburgh,#8DA0CB,#999999,74,3,26
+43.6534817,-79.3839347,34.156113,-118.131943,Canada,North America,"Xanadu, Toronto",#FFFF99,#1B9E77,151,1,14
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing 101111",#6A3D9A,#7570B3,48,11,31
+-33.891747,151.190626709674,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#7FC97F,#666666,18,5,18
+39.99171495,116.303934968635,34.156113,-118.131943,China,Asia,"Center on Frontiers of Computing Studies, Department of Computer Science",#6A3D9A,#7570B3,48,5,31
+-33.891747,151.190626709674,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#7FC97F,#666666,18,5,18
+25.0375198,121.5636796,34.156113,-118.131943,Taiwan,Asia,"Hon Hai Quantum Computing Research Center, Taipei 114",#6A3D9A,#FFFF99,48,4,9
+39.906217,116.3912757,34.156113,-118.131943,China,Asia,"SenseTime Research, Beijing",#6A3D9A,#7570B3,48,3,31
+48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#F781BF,74,6,23
+48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#F781BF,74,6,23
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+38.99041245,-76.9438585924238,34.156113,-118.131943,United States of America,North America,"University of Maryland, College Park",#FFFF99,#FDBF6F,151,3,137
+36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#FDBF6F,151,10,137
+35.8585475,-106.317166,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,23,137
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Department of Physics, Harvard University",#FFFF99,#FDBF6F,151,12,137
+30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Mathematics, Zhejiang Sci-Tech University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","School of Mathematical Sciences, Zhejiang University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","Center for Data Science, Zhejiang University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","Zhejiang Institute of Modern Physics, Zhejiang University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Physics, Zhejiang University",#A6761D,#F0027F,18,18,18
+51.5073219,-0.1276474,34.156113,-118.131943,United Kingdom,Europe,"Imperial College London, London",#8DA0CB,#999999,74,6,26
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#FDBF6F,151,10,137
+48.7299507,21.2450169,34.156113,-118.131943,Slovakia,Europe,Engineering,#8DA0CB,#4DAF4A,74,2,2
+52.1693239,4.4571019,34.156113,-118.131943,Netherlands,Europe,"Leiden University, Niels Bohrweg 1",#8DA0CB,#FF7F00,74,3,8
+52.3544941,4.9557553,34.156113,-118.131943,Netherlands,Europe,"Institute of Physics, University of Amsterdam",#8DA0CB,#FF7F00,74,1,8
+24.8066333,120.9686833,34.156113,-118.131943,Taiwan,Asia,"National Yang Ming Chiao Tung University, Hsinchu 30010",#6A3D9A,#FFFF99,48,1,9
+25.01688615,121.538520995551,34.156113,-118.131943,Taiwan,Asia,uate Institute of Communication Engineering,#6A3D9A,#FFFF99,48,3,9
+25.01688615,121.538520995551,34.156113,-118.131943,Taiwan,Asia,"with the Center for Quantum Science and Engineering, NTU",#6A3D9A,#FFFF99,48,3,9
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Department of Physics, Harvard University",#FFFF99,#FDBF6F,151,12,137
+30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Mathematics, Zhejiang Sci-Tech University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","School of Mathematical Sciences, Zhejiang University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","Center for Data Science, Zhejiang University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","Zhejiang Institute of Modern Physics, Zhejiang University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Physics, Zhejiang University",#A6761D,#F0027F,18,18,18
+51.456659,-0.9696512,34.156113,-118.131943,United Kingdom,Europe,"AWE, Reading",#8DA0CB,#999999,74,3,26
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#F781BF,74,6,23
+48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#F781BF,74,6,23
+52.4549616,13.2962740073688,34.156113,-118.131943,Germany,Europe,"Dahlem Center for Complex Quantum Systems, Freie Universität Berlin",#8DA0CB,#F781BF,74,4,23
+34.0536909,-118.242766,34.156113,-118.131943,United States of America,North America,"Department of Physics & Astronomy, University of Southern California",#FFFF99,#FDBF6F,151,4,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+-37.779244,144.9415681,34.156113,-118.131943,Australia,Australia,"School of Physics, University of Melbourne",#7FC97F,#666666,18,2,18
+-37.779244,144.9415681,34.156113,-118.131943,Australia,Australia,"School of Mathematics and Statistics, University of Melbourne",#7FC97F,#666666,18,2,18
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Department of Physics, Harvard University",#FFFF99,#FDBF6F,151,12,137
+30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Mathematics, Zhejiang Sci-Tech University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","School of Mathematical Sciences, Zhejiang University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","Center for Data Science, Zhejiang University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","Zhejiang Institute of Modern Physics, Zhejiang University",#A6761D,#F0027F,18,18,18
+30.2489634,120.2052342,34.156113,-118.131943,"","","Department of Physics, Zhejiang University",#A6761D,#F0027F,18,18,18
+31.2322758,121.4692071,34.156113,-118.131943,China,Asia,"District, Shanghai 200232",#6A3D9A,#7570B3,48,3,31
+51.7520131,-1.2578499,34.156113,-118.131943,United Kingdom,Europe,"University of Oxford, Oxford OX1 2JD",#8DA0CB,#999999,74,2,26
+28.2491934,113.0748296,34.156113,-118.131943,China,Asia,"National University of Defense Technology, Changsha 410073",#6A3D9A,#7570B3,48,1,31
+31.8446548,117.233010525828,34.156113,-118.131943,China,Asia,"College of Information and Communication, National University of Defense Technology",#6A3D9A,#7570B3,48,1,31
+34.7487244,113.6191483,34.156113,-118.131943,China,Asia,"Henan Key Laboratory of Quantum Information and Cryptography, Zhengzhou",#6A3D9A,#7570B3,48,1,31
+28.19096515,112.945081251339,34.156113,-118.131943,China,Asia,"and Synergetic Innovation Center for Quantum Effects and Applications, Hunan Normal University",#6A3D9A,#7570B3,48,1,31
+35.6689996903226,139.7151112,34.156113,-118.131943,Japan,Asia,"Grid Inc., 107-0061 Tokyo",#6A3D9A,#A6CEE3,48,1,5
+55.94407645,-3.18837355639646,34.156113,-118.131943,United Kingdom,Europe,University of Edinburgh,#8DA0CB,#999999,74,3,26
+24.78676765,120.997244116807,34.156113,-118.131943,Taiwan,Asia,National Yang Ming Chiao Tung University,#6A3D9A,#FFFF99,48,1,9
+25.01688615,121.538520995551,34.156113,-118.131943,Taiwan,Asia,National Taiwan University,#6A3D9A,#FFFF99,48,3,9
+52.1594747,4.4908843,34.156113,-118.131943,Netherlands,Europe,"Leiden University, Leiden",#8DA0CB,#FF7F00,74,2,8
+30.2852198,-97.733892726638,34.156113,-118.131943,United States of America,North America,University of Texas at Austin,#FFFF99,#FDBF6F,151,1,137
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#FDBF6F,151,10,137
+37.3893889,-122.0832101,34.156113,-118.131943,United States of America,North America,"X, Mountain View",#FFFF99,#FDBF6F,151,3,137
+43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Institute for Quantum Computing, University of Waterloo",#FFFF99,#1B9E77,151,8,14
+43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Department of Applied Mathematics, University of Waterloo",#FFFF99,#1B9E77,151,8,14
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, California Institute of Technology",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, California Institute of Technology",#FFFF99,#FDBF6F,151,31,137
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+48.2655696,11.669345610438,34.156113,-118.131943,Germany,Europe,"Department of Mathematics, Technical University of Munich",#8DA0CB,#F781BF,74,6,23
+48.1371079,11.5753822,34.156113,-118.131943,Germany,Europe,"Munich Center for Quantum Science and Technology (MCQST), Munich",#8DA0CB,#F781BF,74,6,23
+23.1309415,113.2655855,34.156113,-118.131943,China,Asia,"JD Explore Academy, Beijing",#6A3D9A,#7570B3,48,11,31
+-33.891747,151.190626709674,34.156113,-118.131943,Australia,Australia,"School of Computer Science, Faculty of Engineering",#7FC97F,#666666,18,5,18
+39.906217,116.3912757,34.156113,-118.131943,China,Asia,"SenseTime Research, Beijing",#6A3D9A,#7570B3,48,3,31
+25.0375198,121.5636796,34.156113,-118.131943,Taiwan,Asia,"Hon Hai Quantum Computing Research Center, Taipei",#6A3D9A,#FFFF99,48,4,9
+-33.8828784,151.200681195463,34.156113,-118.131943,Australia,Australia,"Centre for Quantum Software and Information, Faculty of Engineering and Information Technology",#7FC97F,#666666,18,2,18
+35.5492291,139.653422094114,34.156113,-118.131943,Japan,Asia,"Department of Applied Physics and Physico-Informatics, Keio University",#6A3D9A,#A6CEE3,48,4,5
+35.5492291,139.653422094114,34.156113,-118.131943,Japan,Asia,"Quantum Computing Center, Keio University",#6A3D9A,#A6CEE3,48,4,5
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+33.995044,-118.4668875,34.156113,-118.131943,United States of America,North America,"Google Quantum AI, Venice",#FFFF99,#FDBF6F,151,5,137
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Harvard Society of Fellows, Cambridge",#FFFF99,#FDBF6F,151,12,137
+42.3750997,-71.1056157,34.156113,-118.131943,United States of America,North America,"Black Hole Initiative, Cambridge",#FFFF99,#FDBF6F,151,12,137
+37.8753497,-122.239633649188,34.156113,-118.131943,United States of America,North America,"Department of Electrical Engineering and Computer Science, University of California Berkeley",#FFFF99,#FDBF6F,151,5,137
+37.8753497,-122.239633649188,34.156113,-118.131943,United States of America,North America,"Simons Institute for the Theory of Computing, Berkeley",#FFFF99,#FDBF6F,151,5,137
+47.6694141,-122.1238767,34.156113,-118.131943,United States of America,North America,"Microsoft Research AI, Redmond",#FFFF99,#FDBF6F,151,1,137
+33.995044,-118.4668875,34.156113,-118.131943,United States of America,North America,"Google Quantum AI, Venice",#FFFF99,#FDBF6F,151,5,137
+33.995044,-118.4668875,34.156113,-118.131943,United States of America,North America,"Google Quantum AI, Venice",#FFFF99,#FDBF6F,151,5,137
+33.995044,-118.4668875,34.156113,-118.131943,United States of America,North America,"Google Quantum AI, Venice",#FFFF99,#FDBF6F,151,5,137
+48.33609325,14.3205673800329,34.156113,-118.131943,Austria,Europe,"Institute for Integrated Circuits, Johannes Kepler University Linz",#8DA0CB,#B3DE69,74,2,2
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, Caltech",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, Caltech",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"AWS Center for Quantum Computing, Pasadena",#FFFF99,#FDBF6F,151,31,137
+33.995044,-118.4668875,34.156113,-118.131943,United States of America,North America,"Google Quantum AI, Venice",#FFFF99,#FDBF6F,151,5,137
+51.88538025,-0.200712954344525,34.156113,-118.131943,United Kingdom,Europe,"GSK R&D Stevenage, GlaxoSmithKline",#8DA0CB,#999999,74,1,26
+38.029306,-78.4766781,34.156113,-118.131943,United States of America,North America,"Department of Biochemistry and Molecular Genetics, University of Virginia",#FFFF99,#FDBF6F,151,1,137
+4.6534649,-74.0836453,34.156113,-118.131943,Colombia,South America,"Grupo de Superconductividad y Nanotecnología, Departamento de Física",#66A61E,#B3CDE3,2,2,2
+4.6534649,-74.0836453,34.156113,-118.131943,Colombia,South America,"MindLab Research Group, Departamento de Ingeniería de Sistemas e Industrial",#66A61E,#B3CDE3,2,2,2
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#FDBF6F,151,10,137
+37.3893889,-122.0832101,34.156113,-118.131943,United States of America,North America,"X, Mountain View",#FFFF99,#FDBF6F,151,3,137
+43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Institute for Quantum Computing, University of Waterloo",#FFFF99,#1B9E77,151,8,14
+43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Department of Applied Mathematics, University of Waterloo",#FFFF99,#1B9E77,151,8,14
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, California Institute of Technology",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, California Institute of Technology",#FFFF99,#FDBF6F,151,31,137
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+40.00229045,116.320962969691,34.156113,-118.131943,China,Asia,"Center for Quantum Information, Institute for Interdisciplinary Information Science",#6A3D9A,#7570B3,48,1,31
+31.2322758,121.4692071,34.156113,-118.131943,China,Asia,"Shanghai Qi Zhi Institute, Shanghai",#6A3D9A,#7570B3,48,3,31
+35.5492291,139.653422094114,34.156113,-118.131943,Japan,Asia,"Department of Applied Physics and Physico-Informatics, Keio University",#6A3D9A,#A6CEE3,48,4,5
+35.5492291,139.653422094114,34.156113,-118.131943,Japan,Asia,"Quantum Computing Center, Keio University",#6A3D9A,#A6CEE3,48,4,5
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Information Sciences, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Center for Nonlinear Studies, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137
+36.0103562,-84.2696449,34.156113,-118.131943,United States of America,North America,"Quantum Science Center, Oak Ridge",#FFFF99,#FDBF6F,151,10,137
+37.3893889,-122.0832101,34.156113,-118.131943,United States of America,North America,"X, Mountain View",#FFFF99,#FDBF6F,151,3,137
+43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Institute for Quantum Computing, University of Waterloo",#FFFF99,#1B9E77,151,8,14
+43.4652699,-80.5222961,34.156113,-118.131943,Canada,North America,"Department of Applied Mathematics, University of Waterloo",#FFFF99,#1B9E77,151,8,14
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Institute for Quantum Information and Matter, California Institute of Technology",#FFFF99,#FDBF6F,151,31,137
+34.1476452,-118.1444779,34.156113,-118.131943,United States of America,North America,"Department of Computing and Mathematical Sciences, California Institute of Technology",#FFFF99,#FDBF6F,151,31,137
+35.8935335,-106.289701070565,34.156113,-118.131943,United States of America,North America,"Theoretical Division, Los Alamos National Laboratory",#FFFF99,#FDBF6F,151,19,137

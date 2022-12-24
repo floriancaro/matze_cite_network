@@ -65,6 +65,13 @@ author_affiliations$affiliation <- str_replace_all(author_affiliations$affiliati
 author_affiliations$addr <- str_replace_all(author_affiliations$affiliation, pattern = ".*?,(.+)", replacement = "\\1") %>% str_trim()
 author_affiliations$addr <- str_replace_all(author_affiliations$addr, pattern = ".*?,(.+,.+,.+)", replacement = "\\1") %>% str_trim()
 author_affiliations$addr <- str_replace_all(author_affiliations$addr, pattern = "[Ee][-]{0,1}mail|[^[A-Za-z0-9, ]]", replacement = "") %>% str_trim()
+
+# some manual ones
+author_affiliations$addr[author_affiliations$addr == "Universidad Nacional de Colombia, 111321, Bogot, Colombia"] <- "Bogota, Colombia"
+author_affiliations$addr[author_affiliations$addr == "Zhejiang SciTech University, Hangzhou, Zhejiang 310018"] <- "Hangzhou, Zhejiang 310018"
+author_affiliations$addr[author_affiliations$addr == "Astronomy and Informatics, Nicolaus Copernicus University, Grudziadzka"] <- "Nicolaus Copernicus University, Grudziadzka"
+author_affiliations$addr[str_detect(author_affiliations$addr, pattern = "No 701 Yunjin Road")] <- "Shanghai 200232, Peoples Republic of China"
+
 author_affiliations$name <- str_replace_all(author_affiliations$affiliation, pattern = "(.*?(,.+?){0,1})(,.+){0,1},.+", replacement = "\\1") %>% str_trim()
 # author_affiliations$name <- paste0("placeholder", 1:nrow(author_affiliations))
 author_affiliations <- author_affiliations[nchar(author_affiliations$addr) < 100,]
