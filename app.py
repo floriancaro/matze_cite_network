@@ -65,13 +65,14 @@ df_lon_lat = df.drop_duplicates(subset=['lon1', 'lat1'])
 df_countries = df.drop_duplicates(subset=['country'])
 df_countries["cites_n_here"] = df_countries["cites_n_here_country"]
 df_countries["log_cites_n_here"] = df_countries["log_cites_n_here_country"]
+df_countries["name"] = df_countries["country"]
 
 # Define layers to display on a map
 layer_greatCircles = pdk.Layer(
     "GreatCircleLayer",
     df_lon_lat,
     pickable=True,
-    get_width="log_cites_n_here",
+    get_width="log_cites_n_here * 1.5",
     get_source_position="[lon1, lat1]",
     get_target_position="[lon2, lat2]",
     # get_source_color=[64, 255, 0],
@@ -119,9 +120,9 @@ scatter_layer = pdk.Layer(
 view_state = pdk.ViewState(
     latitude=29.15611,
     longitude=0,
-    zoom=1.35,
-    min_zoom=1.35,
-    max_zoom=1.35,
+    zoom=1.5,
+    min_zoom=1.5,
+    max_zoom=10,
     bearing=0,
     pitch=0,
     height=700,
@@ -137,7 +138,7 @@ r = pdk.Deck(
     ],
     initial_view_state=view_state,
     tooltip={
-        "text": "Institution: {name}\nCiters: {cites_n_here}\nCountry: {country}",
+        "text": "{name}\nCiters: {cites_n_here}\nCountry: {country}",
         "style": {
             "backgroundColor": "steelblue",
             "color": "white"

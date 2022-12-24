@@ -60,9 +60,12 @@ colnames(author_affiliations_raw_text) <- "affiliation"
 author_affiliations <- rbind(author_affiliations_raw_text, author_affiliations_html) 
 
 # extract addresses
-author_affiliations$affiliation <- str_replace_all(author_affiliations$affiliation, pattern = "^[^[A-Za-z]]", replacement = "")
-author_affiliations$addr <- str_replace_all(author_affiliations$affiliation, pattern = ".*?,(.+,.+,.+)", replacement = "\\1") %>% str_trim()
-author_affiliations$name <- str_replace_all(author_affiliations$affiliation, pattern = "(.*?(,.+?){0,1})(,.+){0,1},.+", replacement = "\\1")
+author_affiliations$affiliation <- str_replace_all(author_affiliations$affiliation, pattern = "^[^[A-Za-z]]", replacement = "") %>% str_trim()
+author_affiliations$affiliation <- str_replace_all(author_affiliations$affiliation, pattern = "[^[A-Za-z0-9]]$", replacement = "") %>% str_trim()
+author_affiliations$addr <- str_replace_all(author_affiliations$affiliation, pattern = ".*?,(.+)", replacement = "\\1") %>% str_trim()
+author_affiliations$addr <- str_replace_all(author_affiliations$addr, pattern = ".*?,(.+,.+,.+)", replacement = "\\1") %>% str_trim()
+author_affiliations$addr <- str_replace_all(author_affiliations$addr, pattern = "[Ee][-]{0,1}mail|[^[A-Za-z0-9, ]]", replacement = "") %>% str_trim()
+author_affiliations$name <- str_replace_all(author_affiliations$affiliation, pattern = "(.*?(,.+?){0,1})(,.+){0,1},.+", replacement = "\\1") %>% str_trim()
 # author_affiliations$name <- paste0("placeholder", 1:nrow(author_affiliations))
 author_affiliations <- author_affiliations[nchar(author_affiliations$addr) < 100,]
 author_affiliations <- author_affiliations[str_detect(author_affiliations$addr, pattern = ",") | str_detect(author_affiliations$addr, pattern = "University"), ]
