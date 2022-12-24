@@ -63,7 +63,6 @@ df["log_cites_n_here_country"] = df["cites_n_here_country"].apply(lambda x: math
 # create subsets
 df_lon_lat = df.drop_duplicates(subset=['lon1', 'lat1'])
 df_countries = df.drop_duplicates(subset=['country'])
-
 df_countries["cites_n_here"] = df_countries["cites_n_here_country"]
 df_countries["log_cites_n_here"] = df_countries["log_cites_n_here_country"]
 
@@ -138,7 +137,7 @@ r = pdk.Deck(
     ],
     initial_view_state=view_state,
     tooltip={
-        "text": "{name}\nCiters: {cites_n_here}\nCountry: {country}",
+        "text": "Institution: {name}\nCiters: {cites_n_here}\nCountry: {country}",
         "style": {
             "backgroundColor": "steelblue",
             "color": "white"

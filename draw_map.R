@@ -21,7 +21,7 @@ options(knitr.table.format = "html")
 library(jpeg)
 library(grid)
 library(RColorBrewer)
-set.seed(42)
+set.seed(47)
 
 # Download NASA night lights image
 download.file("https://www.nasa.gov/specials/blackmarble/2016/globalmaps/BlackMarble_2016_01deg.jpg", 
