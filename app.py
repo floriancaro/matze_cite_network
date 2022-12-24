@@ -70,10 +70,10 @@ geojson_layer = pdk.Layer(
     filled=True,
     extruded=True,
     wireframe=True,
-    get_elevation=3,
-    # get_elevation="elevation",
-    get_fill_color=[50, 100, 200],
-    # get_fill_color="country",
+    # get_elevation=3,
+    get_elevation="elevation",
+    # get_fill_color=[50, 100, 200],
+    get_fill_color="continent_color",
     get_line_color=[0, 0, 0],
     get_line_width=15,
     auto_highlight=True,
@@ -119,12 +119,13 @@ map = st.pydeck_chart(
     use_container_width=True
 )
 
+time.sleep(.1)
 # Update the maps and the subheading each day for 90 days
-for i in range(0, 20, 1):
+for i in range(0, 2000, 1):
     # Increment day by 1
     date += datetime.timedelta(days=1)
     # Update data in map layers
-    layer_greatCircles.data = get_fill_color=[50, 100 + i, 200],
+    layer_greatCircles.get_fill_color=[50, 100 + i, 200],
     # Update the deck.gl map
     r.update()
     # Render the map

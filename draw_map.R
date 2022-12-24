@@ -21,6 +21,7 @@ options(knitr.table.format = "html")
 library(jpeg)
 library(grid)
 library(RColorBrewer)
+set.seed(42)
 
 # Download NASA night lights image
 download.file("https://www.nasa.gov/specials/blackmarble/2016/globalmaps/BlackMarble_2016_01deg.jpg", 
@@ -40,7 +41,7 @@ colnames(all_pairs) <- c("lat1", "lon1", "lat2", "lon2", "country", "continent",
 # drop NAs
 all_pairs <- all_pairs[!is.na(all_pairs$lat1), ]
 
-# assign unique colors to continents
+# assign unique colors to continents and countries
 uniq_continents <- unique(all_pairs$continent)
 n <- length(uniq_continents)
 qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
@@ -48,6 +49,15 @@ col_vector = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_co
 random_colors <- sample(col_vector, n)
 for(i in 1:n) {
   all_pairs$continent_color[all_pairs$continent == uniq_continents[i]] <- random_colors[i]
+}
+
+uniq_countries <- unique(all_pairs$country)
+n <- length(uniq_countries)
+qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
+col_vector = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals)))
+random_colors <- sample(col_vector, n)
+for(i in 1:n) {
+  all_pairs$country_color[all_pairs$country == uniq_countries[i]] <- random_colors[i]
 }
 
 # get elevation as number of citations from that continent

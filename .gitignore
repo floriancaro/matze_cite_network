@@ -7,5 +7,6 @@
 *.png
 *.jpeg
 *.jpg
+index.html
 data/
 raw_texts/
