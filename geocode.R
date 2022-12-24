@@ -14,6 +14,8 @@ library(data.table)
 library(arrow)
 library(sp)
 library(rworldmap)
+library(xml2)
+library(rvest)
 
 # # load author locations
 # df <- fromJSON(file = here("author_locations.json"))
@@ -21,6 +23,27 @@ library(rworldmap)
 # load raw text files
 file_names <- list.files(here("raw_texts"), pattern = ".*[.]txt")
 raw_texts <- lapply(file_names, function(x) readLines(here(paste0("raw_texts/", x))))
+
+file_names_html <- list.files(here("data"), pattern = ".*[.]html")
+raw_html <- lapply(file_names_html, function(x) read_html(here(paste0("data/", x))))
+
+
+# parse html -----#
+author_affiliations_html <- tibble(matrix(nrow = 0, ncol = 1))
+colnames(author_affiliations_html) <- c("affiliation")
+for(i in 1:length(raw_html)) {
+  citers_from_htmls1 <- tibble(
+    affiliation = raw_html[[i]] %>% html_nodes(".c-article-author-affiliation__address") %>% html_text(),
+  )
+  citers_from_htmls2 <- tibble(
+    affiliation = raw_html[[i]] %>% html_nodes(".affiliations") %>% html_children() %>% html_text(),
+  )
+  citers_from_htmls3 <- tibble(
+    affiliation = raw_html[[i]] %>% html_nodes(".affiliation-name") %>% html_text(),
+  )
+  author_affiliations_html <- rbind(author_affiliations_html, citers_from_htmls1, citers_from_htmls2, citers_from_htmls3)
+}
+rm(citers_from_htmls1, citers_from_htmls2, citers_from_htmls3)
 
 
 # filter institutional affiliations of authors -----
@@ -32,11 +55,15 @@ filtered_texts <- lapply(filtered_texts, function(x) x[!str_detect(x, pattern = 
 # filtered_texts <- lapply(filtered_texts, function(x) x[nchar(x) < 150])
 
 # combine list of institutional affiliatons into a tibble
-author_affiliations <- filtered_texts %>% unlist() %>% tibble()
-colnames(author_affiliations) <- "affiliation"
+author_affiliations_raw_text <- filtered_texts %>% unlist() %>% tibble()
+colnames(author_affiliations_raw_text) <- "affiliation"
+author_affiliations <- rbind(author_affiliations_raw_text, author_affiliations_html) 
+
+# extract addresses
+author_affiliations$affiliation <- str_replace_all(author_affiliations$affiliation, pattern = "^[^[A-Za-z]]", replacement = "")
 author_affiliations$addr <- str_replace_all(author_affiliations$affiliation, pattern = ".*?,(.+,.+,.+)", replacement = "\\1") %>% str_trim()
-author_affiliations$addr <- str_replace_all(author_affiliations$addr, pattern = "^[0-9]", replacement = "")
-author_affiliations$name <- paste0("placeholder", 1:nrow(author_affiliations))
+author_affiliations$name <- str_replace_all(author_affiliations$affiliation, pattern = "(.*?(,.+?){0,1})(,.+){0,1},.+", replacement = "\\1")
+# author_affiliations$name <- paste0("placeholder", 1:nrow(author_affiliations))
 author_affiliations <- author_affiliations[nchar(author_affiliations$addr) < 100,]
 author_affiliations <- author_affiliations[str_detect(author_affiliations$addr, pattern = ",") | str_detect(author_affiliations$addr, pattern = "University"), ]
 

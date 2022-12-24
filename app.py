@@ -16,6 +16,8 @@ import datetime
 import math
 import time
 from PIL import ImageColor
+import random
+import numpy as np
 
 # Variable for date picker, default to Jan 1st 2020
 date = datetime.date(2020,1,1)
@@ -43,25 +45,34 @@ df_countries["geometry"] = df_countries["features"].apply(lambda row: row["geome
 df_countries["coordinates"] = df_countries["features"].apply(lambda row: row["geometry"]["coordinates"])
 # df_countries["country"] = df_countries["features"].apply(lambda row: row["properties"]["ADMIN"])
 df_countries["country"] = df_countries["features"].apply(lambda row: row["properties"]["admin"])
-# df_countries["fill_color"] = 1
-# df_countries["elevation"] = 1
 df_countries = df_countries.drop(['features'], axis=1)
 
 # add country geometry to main data
 df = df.merge(df_countries, on=['country'], how='left') # , indicator=True
 df.dropna(inplace=True)
 
+# # get aggregate values by country
+# df["cites_n_here_country"] = df.groupby(['country'])['cites_n_here'].transform(np.sum)
+
 # convert colors to RGB
 df["country_color_RGB"] = df["country_color"].apply(lambda x: ImageColor.getcolor(x, "RGB"))
 df["continent_color_RGB"] = df["continent_color"].apply(lambda x: ImageColor.getcolor(x, "RGB"))
-df["log_cites__here"] = df["cites_n_here"].apply(lambda x: math.log(x + 1))
+df["log_cites_n_here"] = df["cites_n_here"].apply(lambda x: math.log(x + 1) + 1)
+df["log_cites_n_here_country"] = df["cites_n_here_country"].apply(lambda x: math.log(x + 1) + 1)
+
+# create subsets
+df_lon_lat = df.drop_duplicates(subset=['lon1', 'lat1'])
+df_countries = df.drop_duplicates(subset=['country'])
+
+df_countries["cites_n_here"] = df_countries["cites_n_here_country"]
+df_countries["log_cites_n_here"] = df_countries["log_cites_n_here_country"]
 
 # Define layers to display on a map
 layer_greatCircles = pdk.Layer(
     "GreatCircleLayer",
-    df,
+    df_lon_lat,
     pickable=True,
-    get_width="log_cites__here",
+    get_width="log_cites_n_here",
     get_source_position="[lon1, lat1]",
     get_target_position="[lon2, lat2]",
     # get_source_color=[64, 255, 0],
@@ -73,8 +84,9 @@ layer_greatCircles = pdk.Layer(
 )
 geojson_layer = pdk.Layer(
     "GeoJsonLayer",
-    df,
-    opacity=0.2,
+    df_countries,
+    opacity=1,
+    # opacity="0.1 * elevation",
     stroked=False,
     filled=True,
     extruded=True,
@@ -83,14 +95,12 @@ geojson_layer = pdk.Layer(
     get_elevation=10,
     # get_fill_color="country_color_RGB",
     get_fill_color="continent_color_RGB",
-    # get_line_color=[0, 0, 0],
-    # get_line_width=15,
     auto_highlight=True,
     pickable=True,
 )
 scatter_layer = pdk.Layer(
     "ScatterplotLayer",
-    df,
+    df_lon_lat,
     pickable=True,
     opacity=0.8,
     stroked=True,
@@ -101,20 +111,21 @@ scatter_layer = pdk.Layer(
     line_width_min_pixels=2,
     get_position="[lon1, lat1]",
     get_radius=20,
-    get_fill_color="continent_color_RGB",
+    # get_fill_color="continent_color_RGB",
+    get_fill_color="country_color_RGB",
     get_line_color=[0, 0, 0],
 )
 
 # Set the viewport location
 view_state = pdk.ViewState(
-    latitude=31.15611,
+    latitude=29.15611,
     longitude=0,
     zoom=1.35,
     min_zoom=1.35,
     max_zoom=1.35,
     bearing=0,
     pitch=0,
-    height=600,
+    height=700,
     # width=1000
 )
 
@@ -127,7 +138,7 @@ r = pdk.Deck(
     ],
     initial_view_state=view_state,
     tooltip={
-        "text": "{name}\nCiters: {elevation}",
+        "text": "{name}\nCiters: {cites_n_here}\nCountry: {country}",
         "style": {
             "backgroundColor": "steelblue",
             "color": "white"
@@ -139,26 +150,35 @@ r.picking_radius=10
 r.to_html("index.html")
 
 # Render the deck.gl map in the Streamlit app as a Pydeck chart
-st.title("Matze's Citation Impact Network")
-st.pydeck_chart(
+btn_text = "Reveal"
+reveal_hide = st.button(btn_text)
+if reveal_hide:
+    st.title("Matze's Citation Impact Network")
+    btn_text = "Reveal"
+else:
+    st.title("Mystery Map")
+    btn_text = "Hide"
+
+map = st.pydeck_chart(
     r,
     use_container_width=True
 )
-# st.table(df[["elevation", "country_color", "name"]])
 
-time.sleep(.1)
-# # Update the maps and the subheading each day for 90 days
-# for i in range(0, 2000, 1):
-#     # Increment day by 1
-#     date += datetime.timedelta(days=1)
+# # Update the maps
+# i = 0
+# while True:
+#     # update colors
+#     df["continent_color_RGB"] = df["continent_color_RGB"].apply(lambda x: [x[0], x[1], x[2] * math.sin(i)])
 #     # Update data in map layers
-#     layer_greatCircles.get_fill_color=[50, 100 + i, 200],
+#     # layer_greatCircles.get_source_color=df["continent_color_RGB_updated"][1]
+#     # layer_greatCircles.get_source_color=[random.randrange(0, 255), random.randrange(0, 255), random.randrange(0, 255)]
 #     # Update the deck.gl map
 #     r.update()
 #     # Render the map
 #     map.pydeck_chart(r)
 #     # # Update the heading with current date
 #     # subheading.subheader("%s on : %s" % (metric_to_show_in_covid_Layer, date.strftime("%B %d, %Y")))
-#
+#     i += .05
 #     # wait 1 second before go onto next day
-#     time.sleep(.1)
+#     time.sleep(.05)
+#     # st.table(df[["continent_color_RGB_updated", "continent_color_RGB"]])

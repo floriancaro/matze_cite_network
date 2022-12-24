@@ -67,6 +67,9 @@ all_pairs <- all_pairs %>%
 all_pairs <- all_pairs %>%
   group_by(lon1, lat1) %>% 
   mutate(cites_n_here = length(name))
+all_pairs <- all_pairs %>%
+  group_by(country) %>% 
+  mutate(cites_n_here_country = length(name))
 
 # save as csv
 fwrite(all_pairs[!is.na(all_pairs$lon1), ], "network_pairs.csv")
